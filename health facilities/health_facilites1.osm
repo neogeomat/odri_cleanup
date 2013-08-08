@@ -2081,17 +2081,13 @@
     <tag k='out_patients' v='7' />
     <tag k='personnel' v='12' />
   </way>
-  <way id='181032115' timestamp='2013-07-07T08:56:00Z' uid='1406652' user='Nepal-Mapper' visible='true' version='7' changeset='16858146'>
+  <way id='181032115' timestamp='2013-07-07T08:56:00Z' uid='1406652' user='Nepal-Mapper' visible='true' version='8' changeset='17263444'>
     <nd ref='1914772358' />
     <nd ref='1914772362' />
     <nd ref='1914772366' />
     <nd ref='1914772383' />
     <nd ref='1914772377' />
     <nd ref='1914772358' />
-    <tag k='addr:city' v='Kathmandu' />
-    <tag k='addr:country' v='NP' />
-    <tag k='addr:postcode' v='Ward TBD' />
-    <tag k='addr:street' v='TBD' />
     <tag k='amenity' v='clinic' />
     <tag k='beds' v='0' />
     <tag k='building' v='clinic' />
@@ -3709,7 +3705,7 @@
     <tag k='out_patients' v='40' />
     <tag k='personnel' v='25' />
   </way>
-  <way id='216607338' timestamp='2013-04-16T10:00:27Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='15747551'>
+  <way id='216607338' timestamp='2013-04-16T10:00:27Z' uid='864593' user='Sazal(Solaris)' visible='true' version='4' changeset='17263444'>
     <nd ref='2260013740' />
     <nd ref='2260013732' />
     <nd ref='2260013731' />
@@ -3719,7 +3715,6 @@
     <nd ref='2045665489' />
     <nd ref='2260013739' />
     <nd ref='2260013740' />
-    <tag k='addr:city' v='Ratopul' />
     <tag k='amenity' v='hospital' />
     <tag k='beds' v='25' />
     <tag k='building_count' v='3' />
