@@ -438,9 +438,9 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
   </node>
-  <node id='2399755500' timestamp='2013-07-29T04:04:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6827598' lon='85.3181814'>
+  <node id='2399755500' timestamp='2013-07-29T04:04:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17300961' lat='27.6827598' lon='85.3181814'>
     <tag k='amenity' v='clinic' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
     <tag k='facility:icu' v='no' />
     <tag k='facility:operating_theatre' v='yes' />
