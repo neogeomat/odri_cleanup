@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2013-08-11T04:04:02Z"/>
+
+  <node id="1918582155" lat="27.7383516" lon="85.3349716" version="4" timestamp="2013-08-01T04:12:15Z" changeset="17174345" uid="1068220" user="Helina">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Heart Clinic"/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="7"/>
+  </node>
+  <node id="1937718549" lat="27.6756235" lon="85.3160219" version="3" timestamp="2013-06-22T12:23:40Z" changeset="16655679" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Udaya Dental Service"/>
+    <tag k="out_patients" v="8"/>
+    <tag k="personnel" v="5"/>
+  </node>
+  <node id="2248198014" lat="27.7209150" lon="85.3456062" version="2" timestamp="2013-04-18T06:14:51Z" changeset="15769591" uid="1361677" user="KTM-Mappers">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Prime Health Care Center"/>
+    <tag k="out_patients" v="15"/>
+    <tag k="personnel" v="6"/>
+  </node>
+  <node id="2274830395" lat="27.7366950" lon="85.3242921" version="2" timestamp="2013-04-21T09:15:25Z" changeset="15808103" uid="1361677" user="KTM-Mappers">
+    <tag k="amenity" v="hospital"/>
+    <tag k="beds" v="120"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Kantipur Dental Hospital"/>
+    <tag k="out_patients" v="80"/>
+    <tag k="personnel" v="23"/>
+  </node>
+  <node id="2282086109" lat="27.7010578" lon="85.3116341" version="2" timestamp="2013-05-01T10:55:42Z" changeset="15932132" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="hospital"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="yes"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Nepal Diagnostic Center Pvt. Ltd."/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="13"/>
+  </node>
+  <node id="2282086116" lat="27.7010290" lon="85.3116341" version="2" timestamp="2013-05-01T10:54:33Z" changeset="15932118" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="hospital"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Sundhara Dental Hospital"/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="25"/>
+  </node>
+  <node id="2285565910" lat="27.7179837" lon="85.3464317" version="2" timestamp="2013-05-12T06:11:06Z" changeset="16090089" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="hospital"/>
+    <tag k="beds" v=""/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Buddha Dental Hospital"/>
+    <tag k="out_patients" v="15"/>
+    <tag k="personnel" v="4"/>
+  </node>
+  <node id="2287631187" lat="27.7188826" lon="85.3496422" version="2" timestamp="2013-05-12T09:07:46Z" changeset="16091950" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v=""/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Nawa Buddha Dental Care"/>
+    <tag k="out_patients" v="8"/>
+    <tag k="personnel" v="6"/>
+  </node>
+  <node id="2293467391" lat="27.7288844" lon="85.3639614" version="2" timestamp="2013-05-07T03:37:04Z" changeset="16005815" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="2"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Jana Varosa Poly Clinic"/>
+    <tag k="out_patients" v="7"/>
+    <tag k="personnel" v="4"/>
+  </node>
+  <node id="2307727804" lat="27.7061565" lon="85.3200582" version="2" timestamp="2013-05-17T13:13:06Z" changeset="16167169" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Siddhartha Poly Clinic"/>
+    <tag k="out_patients" v="12"/>
+    <tag k="personnel" v="15"/>
+  </node>
+  <node id="2308013115" lat="27.7102097" lon="85.3129437" version="2" timestamp="2013-05-17T13:39:40Z" changeset="16167500" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Kathmandu Dental Home"/>
+    <tag k="out_patients" v="13"/>
+    <tag k="personnel" v="30"/>
+  </node>
+  <node id="2311533699" lat="27.6750119" lon="85.2771515" version="3" timestamp="2013-05-21T07:16:00Z" changeset="16220076" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="3"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Jana Polyclinic"/>
+    <tag k="out_patients" v="12"/>
+    <tag k="personnel" v="12"/>
+  </node>
+  <node id="2337121007" lat="27.7157793" lon="85.3040466" version="3" timestamp="2013-07-07T06:41:35Z" changeset="16856777" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Swastik Dental Clinic"/>
+    <tag k="out_patients" v="12"/>
+    <tag k="personnel" v="10"/>
+  </node>
+  <node id="2337121030" lat="27.7150322" lon="85.3038536" version="2" timestamp="2013-07-05T07:03:45Z" changeset="16831333" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="shubhekshya poly clinic"/>
+    <tag k="out_patients" v="25"/>
+    <tag k="personnel" v="10"/>
+  </node>
+  <node id="2352485018" lat="27.6664931" lon="85.3240827" version="2" timestamp="2013-06-22T09:16:24Z" changeset="16653690" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="no"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Lagankhel Dental Clinic"/>
+    <tag k="out_patients" v="8"/>
+    <tag k="personnel" v="5"/>
+  </node>
+  <node id="2352485019" lat="27.6665440" lon="85.3240926" version="2" timestamp="2013-06-22T09:14:30Z" changeset="16653669" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Lalitpur Poly Clinic"/>
+    <tag k="out_patients" v="15"/>
+    <tag k="personnel" v="8"/>
+  </node>
+  <node id="2352517834" lat="27.6833689" lon="85.3185887" version="2" timestamp="2013-06-22T09:23:20Z" changeset="16653752" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Lalitpur Dental Service Center"/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="5"/>
+  </node>
+  <node id="2352517835" lat="27.6869285" lon="85.3173174" version="2" timestamp="2013-06-22T09:25:26Z" changeset="16653775" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="no"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Lumbini Dental Clinic"/>
+    <tag k="out_patients" v="8"/>
+    <tag k="personnel" v="5"/>
+  </node>
+  <node id="2352563576" lat="27.6979921" lon="85.2973499" version="2" timestamp="2013-06-22T09:35:09Z" changeset="16653891" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Advance Oral Dental Health"/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="4"/>
+  </node>
+  <node id="2352610254" lat="27.6984834" lon="85.2992744" version="2" timestamp="2013-06-22T10:14:56Z" changeset="16654302" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Sagarmatha Poly Clinic"/>
+    <tag k="out_patients" v="5"/>
+    <tag k="personnel" v="10"/>
+  </node>
+  <node id="2352610255" lat="27.6967154" lon="85.3043502" version="2" timestamp="2013-06-22T10:22:57Z" changeset="16654374" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="no"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Sanjivani Clinic"/>
+    <tag k="out_patients" v="8"/>
+    <tag k="personnel" v="3"/>
+  </node>
+  <node id="2352610256" lat="27.6979286" lon="85.2981281" version="2" timestamp="2013-06-22T10:00:25Z" changeset="16654142" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Shuvarambha Dental Clinic"/>
+    <tag k="out_patients" v="6"/>
+    <tag k="personnel" v="3"/>
+  </node>
+  <node id="2352666875" lat="27.6980033" lon="85.3042130" version="2" timestamp="2013-07-29T03:52:20Z" changeset="17133691" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="no"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Buddha Minimal Access International (MAI) Center"/>
+    <tag k="out_patients" v="15"/>
+    <tag k="personnel" v="10"/>
+  </node>
+  <node id="2353843451" lat="27.6758794" lon="85.3159633" version="2" timestamp="2013-06-22T12:57:41Z" changeset="16656114" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Upatyaka Poly Clinic"/>
+    <tag k="out_patients" v="15"/>
+    <tag k="personnel" v="20"/>
+  </node>
+  <node id="2355629169" lat="27.6749845" lon="85.3144129" version="3" timestamp="2013-06-22T12:26:29Z" changeset="16655718" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Prashanti Health Care Center"/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="6"/>
+  </node>
+  <node id="2355652816" lat="27.6755158" lon="85.3157718" version="3" timestamp="2013-06-22T12:28:35Z" changeset="16655733" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="OroPlus Dental Clinic"/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="5"/>
+  </node>
+  <node id="2355898587" lat="27.6759827" lon="85.3144662" version="2" timestamp="2013-06-22T12:25:21Z" changeset="16655700" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Lalitpur Diabetic Clinic and Pathology Lab"/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="10"/>
+  </node>
+  <node id="2359710619" lat="27.6899150" lon="85.3286846" version="2" timestamp="2013-06-25T03:57:28Z" changeset="16693605" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="LKS Dental Solution"/>
+    <tag k="out_patients" v="8"/>
+    <tag k="personnel" v="4"/>
+  </node>
+  <node id="2399736746" lat="27.7002129" lon="85.3119907" version="2" timestamp="2013-07-29T03:47:26Z" changeset="17133678" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Brighter Dental Clinic"/>
+    <tag k="out_patients" v="2"/>
+    <tag k="personnel" v="3"/>
+  </node>
+  <node id="2399746904" lat="27.7056895" lon="85.3122599" version="3" timestamp="2013-07-29T04:09:06Z" changeset="17133755" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Asha X-Ray Clinic"/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="3"/>
+  </node>
+  <node id="2399748665" lat="27.7057828" lon="85.3123618" version="2" timestamp="2013-07-29T04:00:20Z" changeset="17133720" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v=""/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="no"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Mahabaudhha Clinic"/>
+    <tag k="out_patients" v="7"/>
+    <tag k="personnel" v="5"/>
+  </node>
+  <node id="2399749797" lat="27.7057108" lon="85.3127797" version="2" timestamp="2013-07-29T04:01:43Z" changeset="17133726" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v=""/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Trishuli X-Ray and Clinic"/>
+    <tag k="out_patients" v="10"/>
+    <tag k="personnel" v="4"/>
+  </node>
+  <node id="2399753629" lat="27.6904652" lon="85.3180456" version="2" timestamp="2013-07-29T04:03:31Z" changeset="17133732" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Asia Pacific Poly Clinic"/>
+    <tag k="out_patients" v="8"/>
+    <tag k="personnel" v="4"/>
+  </node>
+  <node id="2399753633" lat="27.6905262" lon="85.3180122" version="2" timestamp="2013-07-29T04:02:49Z" changeset="17133730" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="SRL Diagnostic"/>
+    <tag k="out_patients" v="15"/>
+    <tag k="personnel" v="5"/>
+  </node>
+  <node id="2399755500" lat="27.6827598" lon="85.3181814" version="2" timestamp="2013-07-29T04:04:42Z" changeset="17133737" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v=""/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="yes"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Cosmetic Dental Clinic"/>
+    <tag k="out_patients" v="15"/>
+    <tag k="personnel" v="6"/>
+  </node>
+  <node id="2399974681" lat="27.7410309" lon="85.3359703" version="3" timestamp="2013-07-29T02:39:46Z" changeset="17133356" uid="781054" user="Manoj-OSMNepal">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Basundhara Polyclinic"/>
+    <tag k="out_patients" v="7"/>
+    <tag k="personnel" v="12"/>
+  </node>
+  <node id="2399974682" lat="27.7424711" lon="85.3327158" version="3" timestamp="2013-07-29T02:39:46Z" changeset="17133356" uid="781054" user="Manoj-OSMNepal">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="yes"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Baluwatar Polyclinic"/>
+    <tag k="out_patients" v="4"/>
+    <tag k="personnel" v="15"/>
+  </node>
+  <node id="2400018825" lat="27.6970122" lon="85.3457674" version="2" timestamp="2013-07-29T05:16:40Z" changeset="17134007" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="no"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Fronline Polyclinic"/>
+    <tag k="out_patients" v="0"/>
+    <tag k="personnel" v="0"/>
+  </node>
+  <node id="2400020661" lat="27.7056341" lon="85.3483953" version="2" timestamp="2013-07-29T05:13:08Z" changeset="17133985" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="clinic"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="no"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Khajana Polyclinic"/>
+    <tag k="out_patients" v="15"/>
+    <tag k="personnel" v="5"/>
+  </node>
+  <node id="2400031583" lat="27.7157300" lon="85.2839485" version="2" timestamp="2013-07-29T05:33:16Z" changeset="17134103" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="dentist"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="no"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Kalyan Dental"/>
+    <tag k="out_patients" v="20"/>
+    <tag k="personnel" v="6"/>
+  </node>
+  <node id="2400031584" lat="27.7156934" lon="85.2841015" version="2" timestamp="2013-07-29T05:33:32Z" changeset="17134106" uid="1406652" user="Nepal-Mapper">
+    <tag k="amenity" v="dentist"/>
+    <tag k="beds" v="0"/>
+    <tag k="building_count" v="1"/>
+    <tag k="facilities:ICU/CCU" v="no"/>
+    <tag k="facilities:OT" v="no"/>
+    <tag k="facilities:Ventilators" v="no"/>
+    <tag k="facilities:X-Ray" v="no"/>
+    <tag k="management_type" v="private"/>
+    <tag k="name" v="Swoyambhu Dental"/>
+    <tag k="out_patients" v="15"/>
+    <tag k="personnel" v="6"/>
+  </node>
+
+</osm>
