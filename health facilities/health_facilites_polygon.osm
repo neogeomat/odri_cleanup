@@ -2625,14 +2625,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='23' />
   </way>
-  <way id='205718505' timestamp='2013-08-08T08:50:48Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='205718505' timestamp='2013-08-08T08:50:48Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17300484'>
     <nd ref='2156901394' />
     <nd ref='2156901395' />
     <nd ref='2156901393' />
     <nd ref='2156901396' />
     <nd ref='2156901394' />
     <tag k='amenity' v='hospital' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='4' />
     <tag k='capacity:beds' v='55' />
     <tag k='facility:icu' v='yes' />
     <tag k='facility:operating_theatre' v='yes' />
@@ -3427,7 +3427,7 @@
     <tag k='operator:type' v='community' />
     <tag k='personnel:count' v='21' />
   </way>
-  <way id='211903388' timestamp='2013-08-08T08:31:40Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='211903388' timestamp='2013-08-08T08:31:40Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17300484'>
     <nd ref='2218374623' />
     <nd ref='2218374665' />
     <nd ref='2218374625' />
@@ -3455,7 +3455,7 @@
     <tag k='building:soft_storey' v='Yes' />
     <tag k='building:structure' v='Engineered_RC_Frame' />
     <tag k='building:structure:others' v='' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
     <tag k='column:size' v='14x14' />
     <tag k='earthquake_resistant_element' v='No' />
@@ -4364,7 +4364,7 @@
     <tag k='operator:type' v='community' />
     <tag k='personnel:count' v='100' />
   </way>
-  <way id='220113392' timestamp='2013-08-08T08:50:29Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='220113392' timestamp='2013-08-08T08:50:29Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17300484'>
     <nd ref='2179518501' />
     <nd ref='2179518497' />
     <nd ref='2292345479' />
@@ -4378,7 +4378,7 @@
     <nd ref='2179613872' />
     <nd ref='2179518501' />
     <tag k='amenity' v='hospital' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
     <tag k='facility:icu' v='no' />
     <tag k='facility:operating_theatre' v='yes' />
@@ -4695,7 +4695,7 @@
     <tag k='personnel:count' v='17' />
     <tag k='phone' v='01-5006115' />
   </way>
-  <way id='220336145' timestamp='2013-08-08T08:50:48Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
+  <way id='220336145' timestamp='2013-08-08T08:50:48Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17300484'>
     <nd ref='2294667291' />
     <nd ref='2294667288' />
     <nd ref='2294667289' />
@@ -4703,7 +4703,7 @@
     <nd ref='2294667293' />
     <nd ref='2294667291' />
     <tag k='amenity' v='hospital' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='2' />
     <tag k='capacity:beds' v='100' />
     <tag k='facility:icu' v='yes' />
     <tag k='facility:operating_theatre' v='yes' />
@@ -4713,7 +4713,7 @@
     <tag k='opd:patients:count' v='200' />
     <tag k='operator:type' v='private' />
   </way>
-  <way id='220414578' timestamp='2013-08-08T08:50:00Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='220414578' timestamp='2013-08-08T08:50:00Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17300484'>
     <nd ref='2295386669' />
     <nd ref='2295386671' />
     <nd ref='2295386670' />
@@ -4722,7 +4722,7 @@
     <nd ref='2295386668' />
     <nd ref='2295386669' />
     <tag k='amenity' v='hospital' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='100' />
     <tag k='facility:icu' v='yes' />
     <tag k='facility:operating_theatre' v='yes' />
@@ -6806,7 +6806,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='3' />
   </way>
-  <way id='224458571' timestamp='2013-08-08T08:50:06Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='224458571' timestamp='2013-08-08T08:50:06Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17300484'>
     <nd ref='2332813504' />
     <nd ref='2332813503' />
     <nd ref='2332813501' />
@@ -6834,7 +6834,7 @@
     <tag k='building:soft_storey' v='Yes' />
     <tag k='building:structure' v='Engineered_RC_Frame' />
     <tag k='building:structure:others' v='' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
     <tag k='column:size' v='12x12' />
     <tag k='earthquake_resistant_element' v='No' />
@@ -7481,14 +7481,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='7' />
   </way>
-  <way id='225517518' timestamp='2013-08-08T08:50:42Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='225517518' timestamp='2013-08-08T08:50:42Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17300484'>
     <nd ref='2342888550' />
     <nd ref='2342888546' />
     <nd ref='2342888547' />
     <nd ref='2342888554' />
     <nd ref='2342888550' />
     <tag k='amenity' v='health_post' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='facility:icu' v='no' />
     <tag k='facility:operating_theatre' v='no' />
     <tag k='facility:ventilator' v='no' />
@@ -7678,7 +7678,7 @@
     <tag k='personnel:count' v='4' />
     <tag k='phone' v='9841117380' />
   </way>
-  <way id='225641956' timestamp='2013-08-08T08:31:46Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='225641956' timestamp='2013-08-08T08:31:46Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17300484'>
     <nd ref='2344004356' />
     <nd ref='2344004353' />
     <nd ref='2344004349' />
@@ -7706,7 +7706,7 @@
     <tag k='building:soft_storey' v='Yes' />
     <tag k='building:structure' v='Non_Engineered_RC_Frame' />
     <tag k='building:structure:others' v='' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
     <tag k='column:size' v='9x9' />
     <tag k='earthquake_resistant_element' v='No' />
@@ -9294,14 +9294,14 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='5' />
   </way>
-  <way id='226472197' timestamp='2013-08-08T08:50:54Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
+  <way id='226472197' timestamp='2013-08-08T08:50:54Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17300484'>
     <nd ref='2352902589' />
     <nd ref='2352902600' />
     <nd ref='2352902598' />
     <nd ref='2352902587' />
     <nd ref='2352902589' />
     <tag k='amenity' v='hospital' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='55' />
     <tag k='facility:icu' v='yes' />
     <tag k='facility:operating_theatre' v='yes' />
@@ -9367,14 +9367,14 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='5' />
   </way>
-  <way id='226472201' timestamp='2013-08-08T08:31:43Z' uid='680067' user='amritkarma' visible='true' version='4' changeset='17264173'>
+  <way id='226472201' timestamp='2013-08-08T08:31:43Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17300484'>
     <nd ref='2352902540' />
     <nd ref='2352902549' />
     <nd ref='2352902546' />
     <nd ref='2352902536' />
     <nd ref='2352902540' />
     <tag k='amenity' v='clinic' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='15' />
     <tag k='facility:icu' v='no' />
     <tag k='facility:operating_theatre' v='yes' />
@@ -9421,14 +9421,14 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='3' />
   </way>
-  <way id='226507792' timestamp='2013-08-08T08:31:48Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226507792' timestamp='2013-08-08T08:31:48Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17300484'>
     <nd ref='2353034839' />
     <nd ref='2353034849' />
     <nd ref='2353034848' />
     <nd ref='2353034838' />
     <nd ref='2353034839' />
     <tag k='amenity' v='health_post' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='3' />
     <tag k='facility:icu' v='no' />
     <tag k='facility:operating_theatre' v='no' />
