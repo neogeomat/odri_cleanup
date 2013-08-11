@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='1918582155' timestamp='2013-08-01T04:12:15Z' uid='1068220' user='Helina' visible='true' version='5' changeset='17298602' lat='27.7383516' lon='85.3349716'>
+  <node id='1918582155' timestamp='2013-08-01T04:12:15Z' uid='1068220' user='Helina' visible='true' version='6' changeset='17301709' lat='27.7383516' lon='85.3349716'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -12,8 +12,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='7' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='1937718549' timestamp='2013-06-22T12:23:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17298602' lat='27.6756235' lon='85.3160219'>
+  <node id='1937718549' timestamp='2013-06-22T12:23:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17301709' lat='27.6756235' lon='85.3160219'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -25,8 +26,9 @@
     <tag k='opd:patients:count' v='8' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2248198014' timestamp='2013-04-18T06:14:51Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17298602' lat='27.720915' lon='85.3456062'>
+  <node id='2248198014' timestamp='2013-04-18T06:14:51Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='17301709' lat='27.720915' lon='85.3456062'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -38,8 +40,9 @@
     <tag k='opd:patients:count' v='15' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2274830395' timestamp='2013-04-21T09:15:25Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17298602' lat='27.736695' lon='85.3242921'>
+  <node id='2274830395' timestamp='2013-04-21T09:15:25Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='17301709' lat='27.736695' lon='85.3242921'>
     <tag k='amenity' v='hospital' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='120' />
@@ -51,8 +54,9 @@
     <tag k='opd:patients:count' v='80' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='23' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2282086109' timestamp='2013-05-01T10:55:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7010578' lon='85.3116341'>
+  <node id='2282086109' timestamp='2013-05-01T10:55:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7010578' lon='85.3116341'>
     <tag k='amenity' v='hospital' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -64,8 +68,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='13' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2282086116' timestamp='2013-05-01T10:54:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.701029' lon='85.3116341'>
+  <node id='2282086116' timestamp='2013-05-01T10:54:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.701029' lon='85.3116341'>
     <tag k='amenity' v='hospital' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -77,8 +82,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='25' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2285565910' timestamp='2013-05-12T06:11:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7179837' lon='85.3464317'>
+  <node id='2285565910' timestamp='2013-05-12T06:11:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7179837' lon='85.3464317'>
     <tag k='amenity' v='hospital' />
     <tag k='building_count' v='1' />
     <tag k='facility:icu' v='no' />
@@ -89,8 +95,9 @@
     <tag k='opd:patients:count' v='15' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2287631187' timestamp='2013-05-12T09:07:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7188826' lon='85.3496422'>
+  <node id='2287631187' timestamp='2013-05-12T09:07:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7188826' lon='85.3496422'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='facility:icu' v='no' />
@@ -101,8 +108,9 @@
     <tag k='opd:patients:count' v='8' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2293467391' timestamp='2013-05-07T03:37:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7288844' lon='85.3639614'>
+  <node id='2293467391' timestamp='2013-05-07T03:37:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7288844' lon='85.3639614'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='2' />
@@ -114,8 +122,9 @@
     <tag k='opd:patients:count' v='7' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2307727804' timestamp='2013-05-17T13:13:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7061565' lon='85.3200582'>
+  <node id='2307727804' timestamp='2013-05-17T13:13:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7061565' lon='85.3200582'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -127,8 +136,9 @@
     <tag k='opd:patients:count' v='12' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='15' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2308013115' timestamp='2013-05-17T13:39:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7102097' lon='85.3129437'>
+  <node id='2308013115' timestamp='2013-05-17T13:39:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7102097' lon='85.3129437'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -140,8 +150,9 @@
     <tag k='opd:patients:count' v='13' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='30' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2311533699' timestamp='2013-05-21T07:16:00Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17298602' lat='27.6750119' lon='85.2771515'>
+  <node id='2311533699' timestamp='2013-05-21T07:16:00Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17301709' lat='27.6750119' lon='85.2771515'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='3' />
@@ -153,8 +164,9 @@
     <tag k='opd:patients:count' v='12' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='12' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2337121007' timestamp='2013-07-07T06:41:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17298602' lat='27.7157793' lon='85.3040466'>
+  <node id='2337121007' timestamp='2013-07-07T06:41:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17301709' lat='27.7157793' lon='85.3040466'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -166,8 +178,9 @@
     <tag k='opd:patients:count' v='12' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2337121030' timestamp='2013-07-05T07:03:45Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7150322' lon='85.3038536'>
+  <node id='2337121030' timestamp='2013-07-05T07:03:45Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7150322' lon='85.3038536'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -179,8 +192,9 @@
     <tag k='opd:patients:count' v='25' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2352485018' timestamp='2013-06-22T09:16:24Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6664931' lon='85.3240827'>
+  <node id='2352485018' timestamp='2013-06-22T09:16:24Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6664931' lon='85.3240827'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -192,8 +206,9 @@
     <tag k='opd:patients:count' v='8' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2352485019' timestamp='2013-06-22T09:14:30Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.666544' lon='85.3240926'>
+  <node id='2352485019' timestamp='2013-06-22T09:14:30Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.666544' lon='85.3240926'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -205,8 +220,9 @@
     <tag k='opd:patients:count' v='15' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2352517834' timestamp='2013-06-22T09:23:20Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6833689' lon='85.3185887'>
+  <node id='2352517834' timestamp='2013-06-22T09:23:20Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6833689' lon='85.3185887'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -218,8 +234,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2352517835' timestamp='2013-06-22T09:25:26Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6869285' lon='85.3173174'>
+  <node id='2352517835' timestamp='2013-06-22T09:25:26Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6869285' lon='85.3173174'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -231,8 +248,9 @@
     <tag k='opd:patients:count' v='8' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2352563576' timestamp='2013-06-22T09:35:09Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6979921' lon='85.2973499'>
+  <node id='2352563576' timestamp='2013-06-22T09:35:09Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6979921' lon='85.2973499'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -244,8 +262,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2352610254' timestamp='2013-06-22T10:14:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6984834' lon='85.2992744'>
+  <node id='2352610254' timestamp='2013-06-22T10:14:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6984834' lon='85.2992744'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -257,8 +276,9 @@
     <tag k='opd:patients:count' v='5' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2352610255' timestamp='2013-06-22T10:22:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6967154' lon='85.3043502'>
+  <node id='2352610255' timestamp='2013-06-22T10:22:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6967154' lon='85.3043502'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -270,8 +290,9 @@
     <tag k='opd:patients:count' v='8' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='3' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2352610256' timestamp='2013-06-22T10:00:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6979286' lon='85.2981281'>
+  <node id='2352610256' timestamp='2013-06-22T10:00:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6979286' lon='85.2981281'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -283,8 +304,9 @@
     <tag k='opd:patients:count' v='6' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='3' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2352666875' timestamp='2013-07-29T03:52:20Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6980033' lon='85.304213'>
+  <node id='2352666875' timestamp='2013-07-29T03:52:20Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6980033' lon='85.304213'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -296,8 +318,9 @@
     <tag k='opd:patients:count' v='15' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2353843451' timestamp='2013-06-22T12:57:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6758794' lon='85.3159633'>
+  <node id='2353843451' timestamp='2013-06-22T12:57:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6758794' lon='85.3159633'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -309,8 +332,9 @@
     <tag k='opd:patients:count' v='15' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='20' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2355629169' timestamp='2013-06-22T12:26:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17298602' lat='27.6749845' lon='85.3144129'>
+  <node id='2355629169' timestamp='2013-06-22T12:26:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17301709' lat='27.6749845' lon='85.3144129'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -322,8 +346,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2355652816' timestamp='2013-06-22T12:28:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17298602' lat='27.6755158' lon='85.3157718'>
+  <node id='2355652816' timestamp='2013-06-22T12:28:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17301709' lat='27.6755158' lon='85.3157718'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -335,8 +360,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2355898587' timestamp='2013-06-22T12:25:21Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6759827' lon='85.3144662'>
+  <node id='2355898587' timestamp='2013-06-22T12:25:21Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6759827' lon='85.3144662'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -348,8 +374,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2359710619' timestamp='2013-06-25T03:57:28Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.689915' lon='85.3286846'>
+  <node id='2359710619' timestamp='2013-06-25T03:57:28Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.689915' lon='85.3286846'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -361,8 +388,9 @@
     <tag k='opd:patients:count' v='8' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2399736746' timestamp='2013-07-29T03:47:26Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7002129' lon='85.3119907'>
+  <node id='2399736746' timestamp='2013-07-29T03:47:26Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7002129' lon='85.3119907'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -374,8 +402,9 @@
     <tag k='opd:patients:count' v='2' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='3' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2399746904' timestamp='2013-07-29T04:09:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17298602' lat='27.7056895' lon='85.3122599'>
+  <node id='2399746904' timestamp='2013-07-29T04:09:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17301709' lat='27.7056895' lon='85.3122599'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -387,8 +416,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='3' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2399748665' timestamp='2013-07-29T04:00:20Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7057828' lon='85.3123618'>
+  <node id='2399748665' timestamp='2013-07-29T04:00:20Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7057828' lon='85.3123618'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='facility:icu' v='no' />
@@ -399,8 +429,9 @@
     <tag k='opd:patients:count' v='7' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2399749797' timestamp='2013-07-29T04:01:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7057108' lon='85.3127797'>
+  <node id='2399749797' timestamp='2013-07-29T04:01:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7057108' lon='85.3127797'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='facility:icu' v='no' />
@@ -411,8 +442,9 @@
     <tag k='opd:patients:count' v='10' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2399753629' timestamp='2013-07-29T04:03:31Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6904652' lon='85.3180456'>
+  <node id='2399753629' timestamp='2013-07-29T04:03:31Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6904652' lon='85.3180456'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -424,8 +456,9 @@
     <tag k='opd:patients:count' v='8' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2399753633' timestamp='2013-07-29T04:02:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6905262' lon='85.3180122'>
+  <node id='2399753633' timestamp='2013-07-29T04:02:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6905262' lon='85.3180122'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -437,8 +470,9 @@
     <tag k='opd:patients:count' v='15' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2399755500' timestamp='2013-07-29T04:04:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17300961' lat='27.6827598' lon='85.3181814'>
+  <node id='2399755500' timestamp='2013-07-29T04:04:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17301709' lat='27.6827598' lon='85.3181814'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -450,8 +484,9 @@
     <tag k='opd:patients:count' v='15' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2399974681' timestamp='2013-07-29T02:39:46Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17298602' lat='27.7410309' lon='85.3359703'>
+  <node id='2399974681' timestamp='2013-07-29T02:39:46Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='5' changeset='17301709' lat='27.7410309' lon='85.3359703'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -463,8 +498,9 @@
     <tag k='opd:patients:count' v='7' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='12' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2399974682' timestamp='2013-07-29T02:39:46Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17298602' lat='27.7424711' lon='85.3327158'>
+  <node id='2399974682' timestamp='2013-07-29T02:39:46Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='5' changeset='17301709' lat='27.7424711' lon='85.3327158'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -476,8 +512,9 @@
     <tag k='opd:patients:count' v='4' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='15' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2400018825' timestamp='2013-07-29T05:16:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.6970122' lon='85.3457674'>
+  <node id='2400018825' timestamp='2013-07-29T05:16:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.6970122' lon='85.3457674'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -489,8 +526,9 @@
     <tag k='opd:patients:count' v='0' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='0' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2400020661' timestamp='2013-07-29T05:13:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7056341' lon='85.3483953'>
+  <node id='2400020661' timestamp='2013-07-29T05:13:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7056341' lon='85.3483953'>
     <tag k='amenity' v='clinic' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -502,8 +540,9 @@
     <tag k='opd:patients:count' v='15' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2400031583' timestamp='2013-07-29T05:33:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.71573' lon='85.2839485'>
+  <node id='2400031583' timestamp='2013-07-29T05:33:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.71573' lon='85.2839485'>
     <tag k='amenity' v='dentist' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -515,8 +554,9 @@
     <tag k='opd:patients:count' v='20' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
-  <node id='2400031584' timestamp='2013-07-29T05:33:32Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17298602' lat='27.7156934' lon='85.2841015'>
+  <node id='2400031584' timestamp='2013-07-29T05:33:32Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17301709' lat='27.7156934' lon='85.2841015'>
     <tag k='amenity' v='dentist' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='0' />
@@ -528,5 +568,6 @@
     <tag k='opd:patients:count' v='15' />
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
   </node>
 </osm>
