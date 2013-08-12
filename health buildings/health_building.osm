@@ -2684,14 +2684,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Everest Hospital' />
   </way>
-  <way id='163346193' timestamp='2013-06-17T09:21:26Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16586796'>
+  <way id='163346193' action='modify' timestamp='2013-06-17T09:21:26Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16586796'>
     <nd ref='1750575956' />
     <nd ref='1886290445' />
     <nd ref='1750575951' />
     <nd ref='1750575955' />
     <nd ref='1750575956' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='7' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -2720,14 +2720,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Kantipur Hospital' />
   </way>
-  <way id='178772789' timestamp='2013-05-31T08:55:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16362116'>
+  <way id='178772789' action='modify' timestamp='2013-05-31T08:55:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16362116'>
     <nd ref='1891343763' />
     <nd ref='1891343760' />
     <nd ref='1891343783' />
     <nd ref='1891343795' />
     <nd ref='1891343763' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Good' />
@@ -2834,7 +2834,7 @@
     <tag k='oid' v='4' />
     <tag k='operator' v='Bhaktapur Hospital' />
   </way>
-  <way id='180082316' timestamp='2013-08-08T09:31:27Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='180082316' action='modify' timestamp='2013-08-08T09:31:27Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='1905155863' />
     <nd ref='1905155871' />
     <nd ref='1905155866' />
@@ -2842,7 +2842,7 @@
     <nd ref='1905155863' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Average' />
@@ -2879,7 +2879,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='12' />
   </way>
-  <way id='181032115' timestamp='2013-08-08T09:31:30Z' uid='680067' user='amritkarma' visible='true' version='11' changeset='17264173'>
+  <way id='181032115' action='modify' timestamp='2013-08-08T09:31:30Z' uid='680067' user='amritkarma' visible='true' version='11' changeset='17264173'>
     <nd ref='1914772358' />
     <nd ref='1914772362' />
     <nd ref='1914772366' />
@@ -2888,7 +2888,7 @@
     <nd ref='1914772358' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -3011,7 +3011,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='National Tuberculosis Center' />
   </way>
-  <way id='185943730' timestamp='2013-08-08T09:32:28Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='185943730' action='modify' timestamp='2013-08-08T09:32:28Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='1966290625' />
     <nd ref='1966290626' />
     <nd ref='1966290615' />
@@ -3025,7 +3025,7 @@
     <nd ref='1966290625' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='7' />
     <tag k='building:condition' v='Good' />
@@ -3162,7 +3162,7 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Buddha Minimal Access International (MAI) Center' />
   </way>
-  <way id='188440134' timestamp='2013-06-29T15:57:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16753800'>
+  <way id='188440134' action='modify' timestamp='2013-06-29T15:57:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16753800'>
     <nd ref='1990674556' />
     <nd ref='1990674552' />
     <nd ref='2287639369' />
@@ -3170,7 +3170,7 @@
     <nd ref='1990674543' />
     <nd ref='1990674556' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Poor' />
@@ -3237,14 +3237,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Himal Hospital' />
   </way>
-  <way id='190156494' timestamp='2013-06-25T05:24:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16694073'>
+  <way id='190156494' action='modify' timestamp='2013-06-25T05:24:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16694073'>
     <nd ref='2007675771' />
     <nd ref='2007675769' />
     <nd ref='2007675765' />
     <nd ref='2007675767' />
     <nd ref='2007675771' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -3382,7 +3382,7 @@
     <tag k='occupants:morning' v='' />
     <tag k='occupants:night' v='0' />
   </way>
-  <way id='194057065' timestamp='2013-04-16T10:04:07Z' uid='864593' user='Sazal(Solaris)' visible='true' version='5' changeset='15747600'>
+  <way id='194057065' action='modify' timestamp='2013-04-16T10:04:07Z' uid='864593' user='Sazal(Solaris)' visible='true' version='5' changeset='15747600'>
     <nd ref='2045665489' />
     <nd ref='2045665488' />
     <nd ref='2045665486' />
@@ -3393,7 +3393,7 @@
     <nd ref='2045665489' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Average' />
@@ -3422,14 +3422,14 @@
     <tag k='occupants:night' v='30' />
     <tag k='oid' v='2' />
   </way>
-  <way id='194058246' timestamp='2013-07-07T06:25:45Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='16856662'>
+  <way id='194058246' action='modify' timestamp='2013-07-07T06:25:45Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='16856662'>
     <nd ref='2045675677' />
     <nd ref='2045675682' />
     <nd ref='2045675680' />
     <nd ref='2045675674' />
     <nd ref='2045675677' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Average' />
@@ -3546,14 +3546,14 @@
     <tag k='occupants:night' v='50' />
     <tag k='operator' v='International Friendship Children&apos;s Hospital' />
   </way>
-  <way id='197321129' timestamp='2013-04-21T08:51:41Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='15807819'>
+  <way id='197321129' action='modify' timestamp='2013-04-21T08:51:41Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='15807819'>
     <nd ref='2075775329' />
     <nd ref='2075775428' />
     <nd ref='2075775337' />
     <nd ref='2075775217' />
     <nd ref='2075775329' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -3627,7 +3627,7 @@
     <tag k='operator:type' v='community' />
     <tag k='personnel:count' v='78' />
   </way>
-  <way id='197615452' timestamp='2013-08-08T09:31:52Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='197615452' action='modify' timestamp='2013-08-08T09:31:52Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2078268148' />
     <nd ref='2078268149' />
     <nd ref='2078268144' />
@@ -3635,7 +3635,7 @@
     <nd ref='2078268148' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='8' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -3672,7 +3672,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='90' />
   </way>
-  <way id='197753617' timestamp='2013-07-07T05:25:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16856240'>
+  <way id='197753617' action='modify' timestamp='2013-07-07T05:25:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16856240'>
     <nd ref='2079534340' />
     <nd ref='2079534349' />
     <nd ref='2284149224' />
@@ -3687,7 +3687,7 @@
     <nd ref='2079534337' />
     <nd ref='2079534340' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -3762,7 +3762,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='30' />
   </way>
-  <way id='200391898' timestamp='2013-07-07T10:38:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16859359'>
+  <way id='200391898' action='modify' timestamp='2013-07-07T10:38:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16859359'>
     <nd ref='2103833162' />
     <nd ref='2103833164' />
     <nd ref='2287747387' />
@@ -3777,7 +3777,7 @@
     <nd ref='2287747379' />
     <nd ref='2103833162' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='7' />
     <tag k='building:condition' v='Good' />
@@ -4120,7 +4120,7 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Helping Hands Community Hospital' />
   </way>
-  <way id='205723462' timestamp='2013-08-08T09:32:28Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='205723462' action='modify' timestamp='2013-08-08T09:32:28Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2156947044' />
     <nd ref='2156947042' />
     <nd ref='2156947043' />
@@ -4128,7 +4128,7 @@
     <nd ref='2156947044' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -4165,7 +4165,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
   </way>
-  <way id='206056043' timestamp='2013-08-08T09:32:07Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='206056043' action='modify' timestamp='2013-08-08T09:32:07Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2160559510' />
     <nd ref='2160559502' />
     <nd ref='2160559489' />
@@ -4173,7 +4173,7 @@
     <nd ref='2160559510' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -4285,7 +4285,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Pashupati Community Hospital' />
   </way>
-  <way id='206130424' timestamp='2013-08-08T09:32:23Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='206130424' action='modify' timestamp='2013-08-08T09:32:23Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2161311842' />
     <nd ref='2161311815' />
     <nd ref='2161311837' />
@@ -4293,7 +4293,7 @@
     <nd ref='2161311842' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -4331,7 +4331,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='4' />
   </way>
-  <way id='206715775' timestamp='2013-08-08T09:32:30Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17264173'>
+  <way id='206715775' action='modify' timestamp='2013-08-08T09:32:30Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17264173'>
     <nd ref='2167550435' />
     <nd ref='2167550449' />
     <nd ref='2167550447' />
@@ -4339,7 +4339,7 @@
     <nd ref='2167550435' />
     <tag k='amenity' v='health_post' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -4411,7 +4411,7 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Samaj Dental Care' />
   </way>
-  <way id='206816619' timestamp='2013-08-08T09:32:30Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='206816619' action='modify' timestamp='2013-08-08T09:32:30Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2168645381' />
     <nd ref='2168645376' />
     <nd ref='2168645349' />
@@ -4419,7 +4419,7 @@
     <nd ref='2168645381' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -4494,7 +4494,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Om shibaba memorial poly clinic' />
   </way>
-  <way id='206870354' timestamp='2013-06-25T05:59:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16694298'>
+  <way id='206870354' action='modify' timestamp='2013-06-25T05:59:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16694298'>
     <nd ref='2169170443' />
     <nd ref='2169170441' />
     <nd ref='2169170434' />
@@ -4503,7 +4503,7 @@
     <nd ref='2170998457' />
     <nd ref='2169170443' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -4604,14 +4604,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Madhyapur Hospital' />
   </way>
-  <way id='207105026' timestamp='2013-07-09T05:24:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16882403'>
+  <way id='207105026' action='modify' timestamp='2013-07-09T05:24:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16882403'>
     <nd ref='2172324860' />
     <nd ref='2172324869' />
     <nd ref='2172324850' />
     <nd ref='2172324835' />
     <nd ref='2172324860' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -4689,7 +4689,7 @@
     <tag k='personnel:count' v='6' />
     <tag k='source' v='NextView' />
   </way>
-  <way id='207707544' timestamp='2013-07-07T06:09:31Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16856549'>
+  <way id='207707544' action='modify' timestamp='2013-07-07T06:09:31Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16856549'>
     <nd ref='2179613871' />
     <nd ref='2292345481' />
     <nd ref='2292345483' />
@@ -4699,7 +4699,7 @@
     <nd ref='2179518502' />
     <nd ref='2179613871' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -4728,14 +4728,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Golfutar eye hospital' />
   </way>
-  <way id='208175280' timestamp='2013-05-27T06:12:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16305141'>
+  <way id='208175280' action='modify' timestamp='2013-05-27T06:12:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16305141'>
     <nd ref='2185022260' />
     <nd ref='2185022256' />
     <nd ref='2185022228' />
     <nd ref='2185022252' />
     <nd ref='2185022260' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='5' />
     <tag k='building:condition' v='Good' />
@@ -4764,14 +4764,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Janamitre Hospital' />
   </way>
-  <way id='208175289' timestamp='2013-05-27T06:13:22Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16305145'>
+  <way id='208175289' action='modify' timestamp='2013-05-27T06:13:22Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16305145'>
     <nd ref='2185022243' />
     <nd ref='2185022249' />
     <nd ref='2185022230' />
     <nd ref='2185022217' />
     <nd ref='2185022243' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Good' />
@@ -4800,7 +4800,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Janamitre Hospital' />
   </way>
-  <way id='208378764' timestamp='2013-07-29T05:18:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134012'>
+  <way id='208378764' action='modify' timestamp='2013-07-29T05:18:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134012'>
     <nd ref='2186797386' />
     <nd ref='2400018826' />
     <nd ref='2400018827' />
@@ -4809,7 +4809,7 @@
     <nd ref='2186797351' />
     <nd ref='2186797386' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -4838,7 +4838,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Fronline Polyclinic' />
   </way>
-  <way id='208681773' timestamp='2013-08-08T09:32:16Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17264173'>
+  <way id='208681773' action='modify' timestamp='2013-08-08T09:32:16Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17264173'>
     <nd ref='2189536139' />
     <nd ref='2189536131' />
     <nd ref='2189536125' />
@@ -4846,7 +4846,7 @@
     <nd ref='2189536139' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -4885,14 +4885,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='9' />
   </way>
-  <way id='208811569' timestamp='2013-07-29T05:36:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134125'>
+  <way id='208811569' action='modify' timestamp='2013-07-29T05:36:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134125'>
     <nd ref='2190733644' />
     <nd ref='2190733635' />
     <nd ref='2190733619' />
     <nd ref='2190733627' />
     <nd ref='2190733644' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Average' />
@@ -4921,14 +4921,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Swoyambhu Dental' />
   </way>
-  <way id='208811582' timestamp='2013-07-29T05:35:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17134117'>
+  <way id='208811582' action='modify' timestamp='2013-07-29T05:35:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17134117'>
     <nd ref='2190733648' />
     <nd ref='2190733644' />
     <nd ref='2190733627' />
     <nd ref='2190733637' />
     <nd ref='2190733648' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -5002,7 +5002,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
   </way>
-  <way id='209538203' timestamp='2013-08-08T09:31:54Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='209538203' action='modify' timestamp='2013-08-08T09:31:54Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2197443771' />
     <nd ref='2197443757' />
     <nd ref='2197443763' />
@@ -5010,7 +5010,7 @@
     <nd ref='2197443771' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -5084,14 +5084,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Urban Health Clinic' />
   </way>
-  <way id='210695608' timestamp='2013-06-24T10:27:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='16682113'>
+  <way id='210695608' action='modify' timestamp='2013-06-24T10:27:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='16682113'>
     <nd ref='2207718044' />
     <nd ref='2207718043' />
     <nd ref='2207718040' />
     <nd ref='2207718041' />
     <nd ref='2207718044' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -5120,14 +5120,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Bhaktapur Janaswastha' />
   </way>
-  <way id='210708295' timestamp='2013-06-24T10:26:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16682100'>
+  <way id='210708295' action='modify' timestamp='2013-06-24T10:26:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16682100'>
     <nd ref='2207805616' />
     <nd ref='2207805618' />
     <nd ref='2207805593' />
     <nd ref='2207805592' />
     <nd ref='2207805616' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -5335,14 +5335,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Susma Koirala Memorial Hospital' />
   </way>
-  <way id='211890937' timestamp='2013-06-18T05:11:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16598863'>
+  <way id='211890937' action='modify' timestamp='2013-06-18T05:11:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16598863'>
     <nd ref='2218271720' />
     <nd ref='2218271715' />
     <nd ref='2218271703' />
     <nd ref='2218271708' />
     <nd ref='2218271720' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -5543,7 +5543,7 @@
     <tag k='operator:type' v='community' />
     <tag k='personnel:count' v='21' />
   </way>
-  <way id='211903388' timestamp='2013-08-11T09:13:22Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17300484'>
+  <way id='211903388' action='modify' timestamp='2013-08-11T09:13:22Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17300484'>
     <nd ref='2218374623' />
     <nd ref='2218374665' />
     <nd ref='2218374625' />
@@ -5551,7 +5551,7 @@
     <nd ref='2218374623' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -5796,14 +5796,14 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Helping Hands Community Hospital' />
   </way>
-  <way id='215554752' timestamp='2013-07-12T06:24:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16921871'>
+  <way id='215554752' action='modify' timestamp='2013-07-12T06:24:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16921871'>
     <nd ref='2250184566' />
     <nd ref='2250184548' />
     <nd ref='2250184549' />
     <nd ref='2250184568' />
     <nd ref='2250184566' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -6006,7 +6006,7 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Helping Hands Community Hospital' />
   </way>
-  <way id='215554759' timestamp='2013-07-12T06:22:45Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='16921860'>
+  <way id='215554759' action='modify' timestamp='2013-07-12T06:22:45Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='16921860'>
     <nd ref='2250184564' />
     <nd ref='2250184562' />
     <nd ref='2250184544' />
@@ -6018,7 +6018,7 @@
     <nd ref='2250184559' />
     <nd ref='2250184564' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -6092,7 +6092,7 @@
     <tag k='personnel:count' v='6' />
     <tag k='phone' v='01-4413043' />
   </way>
-  <way id='216504832' timestamp='2013-07-12T10:21:11Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16924145'>
+  <way id='216504832' action='modify' timestamp='2013-07-12T10:21:11Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16924145'>
     <nd ref='2258405972' />
     <nd ref='2258405973' />
     <nd ref='2291025416' />
@@ -6107,7 +6107,7 @@
     <nd ref='2291025424' />
     <nd ref='2258405972' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -6210,7 +6210,7 @@
     <tag k='occupants:night' v='4' />
     <tag k='oid' v='3' />
   </way>
-  <way id='217129152' timestamp='2013-08-08T09:32:31Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='217129152' action='modify' timestamp='2013-08-08T09:32:31Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2264335703' />
     <nd ref='2264335705' />
     <nd ref='2264335706' />
@@ -6218,7 +6218,7 @@
     <nd ref='2264335703' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -6255,7 +6255,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='7' />
   </way>
-  <way id='217604069' timestamp='2013-04-16T06:08:54Z' uid='715547' user='paudel ananda' visible='true' version='4' changeset='15745248'>
+  <way id='217604069' action='modify' timestamp='2013-04-16T06:08:54Z' uid='715547' user='paudel ananda' visible='true' version='4' changeset='15745248'>
     <nd ref='2268984902' />
     <nd ref='2268984901' />
     <nd ref='2268984899' />
@@ -6264,7 +6264,7 @@
     <tag k='addr:city' v='gyaneswor' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -6334,7 +6334,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='3' />
   </way>
-  <way id='217830454' timestamp='2013-04-18T08:06:22Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15770455'>
+  <way id='217830454' action='modify' timestamp='2013-04-18T08:06:22Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15770455'>
     <nd ref='2271333945' />
     <nd ref='2271333942' />
     <nd ref='2271333944' />
@@ -6343,7 +6343,7 @@
     <nd ref='2271333943' />
     <nd ref='2271333945' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -6411,14 +6411,14 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='DI Skin Hospital and Research Center' />
   </way>
-  <way id='217830922' timestamp='2013-08-01T03:34:26Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17174216'>
+  <way id='217830922' action='modify' timestamp='2013-08-01T03:34:26Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17174216'>
     <nd ref='2271337211' />
     <nd ref='2271337219' />
     <nd ref='2271337213' />
     <nd ref='2271337207' />
     <nd ref='2271337211' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -6481,7 +6481,7 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Meridian Health Care Center' />
   </way>
-  <way id='217832008' timestamp='2013-04-18T07:51:18Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15770288'>
+  <way id='217832008' action='modify' timestamp='2013-04-18T07:51:18Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15770288'>
     <nd ref='2271346293' />
     <nd ref='2271346292' />
     <nd ref='2271346290' />
@@ -6493,7 +6493,7 @@
     <nd ref='2271346300' />
     <nd ref='2271346293' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='6' />
     <tag k='building:condition' v='Average' />
@@ -6521,14 +6521,14 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Meridian Health Care Center' />
   </way>
-  <way id='218203442' timestamp='2013-04-21T09:07:37Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15808016'>
+  <way id='218203442' action='modify' timestamp='2013-04-21T09:07:37Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15808016'>
     <nd ref='2274736390' />
     <nd ref='2274736404' />
     <nd ref='2274736388' />
     <nd ref='2274736382' />
     <nd ref='2274736390' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -6557,14 +6557,14 @@
     <tag k='oid' v='4' />
     <tag k='operator' v='Green City Hospital' />
   </way>
-  <way id='218203443' timestamp='2013-04-21T08:55:15Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15807854'>
+  <way id='218203443' action='modify' timestamp='2013-04-21T08:55:15Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15807854'>
     <nd ref='2274736368' />
     <nd ref='2075775329' />
     <nd ref='2274736362' />
     <nd ref='2274736359' />
     <nd ref='2274736368' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -6593,7 +6593,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Green City Hospital' />
   </way>
-  <way id='218203444' timestamp='2013-04-21T09:06:21Z' uid='1286351' user='Bijesh' visible='true' version='3' changeset='15807995'>
+  <way id='218203444' action='modify' timestamp='2013-04-21T09:06:21Z' uid='1286351' user='Bijesh' visible='true' version='3' changeset='15807995'>
     <nd ref='2274736370' />
     <nd ref='2274736384' />
     <nd ref='2274736411' />
@@ -6601,7 +6601,7 @@
     <nd ref='2274736372' />
     <nd ref='2274736370' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -6630,7 +6630,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Green City Hospital' />
   </way>
-  <way id='218658111' timestamp='2013-08-08T09:32:45Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='218658111' action='modify' timestamp='2013-08-08T09:32:45Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2278863104' />
     <nd ref='2278863096' />
     <nd ref='2278863097' />
@@ -6638,7 +6638,7 @@
     <nd ref='2278863104' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -6678,14 +6678,14 @@
     <tag k='personnel:count' v='2' />
     <tag k='source' v='NextView' />
   </way>
-  <way id='218698267' timestamp='2013-08-01T11:18:41Z' uid='1700096' user='GautamPratik' visible='true' version='5' changeset='17178219'>
+  <way id='218698267' action='modify' timestamp='2013-08-01T11:18:41Z' uid='1700096' user='GautamPratik' visible='true' version='5' changeset='17178219'>
     <nd ref='2279241711' />
     <nd ref='2279241708' />
     <nd ref='2279241694' />
     <nd ref='2279241699' />
     <nd ref='2279241711' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='6' />
     <tag k='building:condition' v='Average' />
@@ -6863,14 +6863,14 @@
     <tag k='occupants:morning' v='' />
     <tag k='occupants:night' v='' />
   </way>
-  <way id='219228174' timestamp='2013-06-05T06:32:52Z' uid='1034219' user='shrijana' visible='true' version='3' changeset='16427895'>
+  <way id='219228174' action='modify' timestamp='2013-06-05T06:32:52Z' uid='1034219' user='shrijana' visible='true' version='3' changeset='16427895'>
     <nd ref='2284227008' />
     <nd ref='2284227016' />
     <nd ref='2284227014' />
     <nd ref='2284227005' />
     <nd ref='2284227008' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -6993,14 +6993,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='35' />
   </way>
-  <way id='219396103' timestamp='2013-05-12T06:25:17Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16090187'>
+  <way id='219396103' action='modify' timestamp='2013-05-12T06:25:17Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16090187'>
     <nd ref='2285580949' />
     <nd ref='2285580947' />
     <nd ref='2285580936' />
     <nd ref='2285580937' />
     <nd ref='2285580949' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -7138,7 +7138,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Chhatrapati Free Clinic' />
   </way>
-  <way id='219618849' timestamp='2013-05-01T11:29:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='15932516'>
+  <way id='219618849' action='modify' timestamp='2013-05-01T11:29:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='15932516'>
     <nd ref='2287638332' />
     <nd ref='2287638331' />
     <nd ref='2287638323' />
@@ -7150,7 +7150,7 @@
     <nd ref='2287638329' />
     <nd ref='2287638332' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -7179,14 +7179,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Chhatrapati Free Clinic' />
   </way>
-  <way id='219618917' timestamp='2013-05-13T00:43:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16104548'>
+  <way id='219618917' action='modify' timestamp='2013-05-13T00:43:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16104548'>
     <nd ref='2287638747' />
     <nd ref='2287638746' />
     <nd ref='2287638744' />
     <nd ref='2287638745' />
     <nd ref='2287638747' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Good' />
@@ -7215,14 +7215,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Pashupati Community Hospital' />
   </way>
-  <way id='219619002' timestamp='2013-06-29T15:58:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16753806'>
+  <way id='219619002' action='modify' timestamp='2013-06-29T15:58:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16753806'>
     <nd ref='2287639365' />
     <nd ref='2287639344' />
     <nd ref='2287639349' />
     <nd ref='2287639367' />
     <nd ref='2287639365' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='7' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Poor' />
@@ -7251,14 +7251,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Nagarik Community Hospital' />
   </way>
-  <way id='219619005' timestamp='2013-06-29T15:57:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16753798'>
+  <way id='219619005' action='modify' timestamp='2013-06-29T15:57:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16753798'>
     <nd ref='2287639347' />
     <nd ref='2287639340' />
     <nd ref='2287639339' />
     <nd ref='2287639341' />
     <nd ref='2287639347' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -7288,14 +7288,14 @@
     <tag k='oid' v='4' />
     <tag k='operator' v='Nagarik Community Hospital' />
   </way>
-  <way id='219619006' timestamp='2013-06-29T15:57:15Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16753790'>
+  <way id='219619006' action='modify' timestamp='2013-06-29T15:57:15Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16753790'>
     <nd ref='2287639358' />
     <nd ref='2287639357' />
     <nd ref='2287639350' />
     <nd ref='2287639352' />
     <nd ref='2287639358' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='7' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -7325,14 +7325,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Nagarik Community Hospital' />
   </way>
-  <way id='219627315' timestamp='2013-07-07T09:25:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16858495'>
+  <way id='219627315' action='modify' timestamp='2013-07-07T09:25:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16858495'>
     <nd ref='2287709958' />
     <nd ref='2287709956' />
     <nd ref='2287709952' />
     <nd ref='2287709954' />
     <nd ref='2287709958' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -7556,14 +7556,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Budhanilakantha swasthi chowki' />
   </way>
-  <way id='220118022' timestamp='2013-08-01T11:07:37Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='7' changeset='17178104'>
+  <way id='220118022' action='modify' timestamp='2013-08-01T11:07:37Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='7' changeset='17178104'>
     <nd ref='2292392080' />
     <nd ref='2292392074' />
     <nd ref='2292392069' />
     <nd ref='2292392072' />
     <nd ref='2292392080' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -7592,14 +7592,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Budhanilakantha swasthi chowki' />
   </way>
-  <way id='220118023' timestamp='2013-07-07T05:54:52Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16856439'>
+  <way id='220118023' action='modify' timestamp='2013-07-07T05:54:52Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16856439'>
     <nd ref='2292392029' />
     <nd ref='2292392034' />
     <nd ref='2292392033' />
     <nd ref='2292392028' />
     <nd ref='2292392029' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -7818,7 +7818,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='4' />
   </way>
-  <way id='220273488' timestamp='2013-08-08T09:32:46Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='220273488' action='modify' timestamp='2013-08-08T09:32:46Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2294017202' />
     <nd ref='2294017142' />
     <nd ref='2294017136' />
@@ -7826,7 +7826,7 @@
     <nd ref='2294017202' />
     <tag k='amenity' v='dentist' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -7938,14 +7938,14 @@
     <tag k='occupants:night' v='0' />
     <tag k='oid' v='1' />
   </way>
-  <way id='220286686' timestamp='2013-05-12T05:58:55Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16089982'>
+  <way id='220286686' action='modify' timestamp='2013-05-12T05:58:55Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16089982'>
     <nd ref='2294145669' />
     <nd ref='2294145668' />
     <nd ref='2294145666' />
     <nd ref='2294145667' />
     <nd ref='2294145669' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -8009,7 +8009,7 @@
     <tag k='occupants:night' v='3' />
     <tag k='operator' v='Bode Swastha Chauki' />
   </way>
-  <way id='220295684' timestamp='2013-08-01T09:37:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17177054'>
+  <way id='220295684' action='modify' timestamp='2013-08-01T09:37:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17177054'>
     <nd ref='2294256921' />
     <nd ref='2294256920' />
     <nd ref='2308179974' />
@@ -8018,7 +8018,7 @@
     <nd ref='2294256917' />
     <nd ref='2294256921' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -8046,14 +8046,14 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Nagadesh Swastha Chauki' />
   </way>
-  <way id='220554778' timestamp='2013-05-16T07:10:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16148510'>
+  <way id='220554778' action='modify' timestamp='2013-05-16T07:10:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16148510'>
     <nd ref='2296647273' />
     <nd ref='2296647274' />
     <nd ref='2296647276' />
     <nd ref='2296647275' />
     <nd ref='2296647273' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -8118,14 +8118,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Thathali Health post' />
   </way>
-  <way id='220560207' timestamp='2013-08-01T09:36:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17177052'>
+  <way id='220560207' action='modify' timestamp='2013-08-01T09:36:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17177052'>
     <nd ref='2296699452' />
     <nd ref='2296699450' />
     <nd ref='2296699454' />
     <nd ref='2296699460' />
     <nd ref='2296699452' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -8190,14 +8190,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Sudal Sub Health post' />
   </way>
-  <way id='220702747' timestamp='2013-05-12T05:02:17Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16089486'>
+  <way id='220702747' action='modify' timestamp='2013-05-12T05:02:17Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16089486'>
     <nd ref='2297953060' />
     <nd ref='2297953062' />
     <nd ref='2297953058' />
     <nd ref='2297953056' />
     <nd ref='2297953060' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -8226,14 +8226,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Motherland Hospital Pvt.Ltd' />
   </way>
-  <way id='220702754' timestamp='2013-05-12T05:03:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16089496'>
+  <way id='220702754' action='modify' timestamp='2013-05-12T05:03:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16089496'>
     <nd ref='2297953056' />
     <nd ref='2297953058' />
     <nd ref='2297953054' />
     <nd ref='2297953052' />
     <nd ref='2297953056' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -8262,14 +8262,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Motherland Hospital Pvt.Ltd' />
   </way>
-  <way id='221047768' timestamp='2013-07-28T19:20:17Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17130016'>
+  <way id='221047768' action='modify' timestamp='2013-07-28T19:20:17Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17130016'>
     <nd ref='2301026666' />
     <nd ref='2301026659' />
     <nd ref='2301026661' />
     <nd ref='2301026667' />
     <nd ref='2301026666' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -8298,14 +8298,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Kathmandu E.N.T. Hospital and Research Center' />
   </way>
-  <way id='221047769' timestamp='2013-07-28T19:21:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17130026'>
+  <way id='221047769' action='modify' timestamp='2013-07-28T19:21:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17130026'>
     <nd ref='2301026665' />
     <nd ref='2301026673' />
     <nd ref='2301026671' />
     <nd ref='2301026664' />
     <nd ref='2301026665' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -8405,14 +8405,14 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Bageshwari Health Post' />
   </way>
-  <way id='221295272' timestamp='2013-05-14T10:25:22Z' uid='1307688' user='Rita Thapa' visible='true' version='3' changeset='16123392'>
+  <way id='221295272' action='modify' timestamp='2013-05-14T10:25:22Z' uid='1307688' user='Rita Thapa' visible='true' version='3' changeset='16123392'>
     <nd ref='2303317475' />
     <nd ref='2303317476' />
     <nd ref='2303317474' />
     <nd ref='2303317473' />
     <nd ref='2303317475' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Good' />
@@ -8438,7 +8438,7 @@
     <tag k='occupants:night' v='30' />
     <tag k='operator' v='All Nepal Hospital' />
   </way>
-  <way id='221327926' timestamp='2013-05-15T04:18:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16133691'>
+  <way id='221327926' action='modify' timestamp='2013-05-15T04:18:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16133691'>
     <nd ref='2303621163' />
     <nd ref='2303621166' />
     <nd ref='2303621161' />
@@ -8447,7 +8447,7 @@
     <nd ref='2303621158' />
     <nd ref='2303621163' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -8547,14 +8547,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Sarvanga Hospital' />
   </way>
-  <way id='221352891' timestamp='2013-05-15T04:57:32Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16133878'>
+  <way id='221352891' action='modify' timestamp='2013-05-15T04:57:32Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16133878'>
     <nd ref='2303818913' />
     <nd ref='2303818914' />
     <nd ref='2303818912' />
     <nd ref='2303818911' />
     <nd ref='2303818913' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -8583,14 +8583,14 @@
     <tag k='occupants:night' v='0' />
     <tag k='oid' v='1' />
   </way>
-  <way id='221353877' timestamp='2013-06-25T10:00:32Z' uid='1034219' user='shrijana' visible='true' version='6' changeset='16696773'>
+  <way id='221353877' action='modify' timestamp='2013-06-25T10:00:32Z' uid='1034219' user='shrijana' visible='true' version='6' changeset='16696773'>
     <nd ref='2303826121' />
     <nd ref='2303826122' />
     <nd ref='2303826120' />
     <nd ref='2303826119' />
     <nd ref='2303826121' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='5' />
     <tag k='building:condition' v='Good' />
@@ -8619,7 +8619,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Fatima Healing Centre' />
   </way>
-  <way id='221353886' timestamp='2013-08-08T09:31:31Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='221353886' action='modify' timestamp='2013-08-08T09:31:31Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2303826367' />
     <nd ref='2303826369' />
     <nd ref='2303826365' />
@@ -8639,7 +8639,7 @@
     <nd ref='2303826367' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Average' />
@@ -8811,7 +8811,7 @@
     <tag k='operator:type' v='community' />
     <tag k='personnel:count' v='48' />
   </way>
-  <way id='221381159' timestamp='2013-08-08T09:32:57Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
+  <way id='221381159' action='modify' timestamp='2013-08-08T09:32:57Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
     <nd ref='2304064768' />
     <nd ref='2304064767' />
     <nd ref='2304064765' />
@@ -8819,7 +8819,7 @@
     <nd ref='2304064768' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='6' />
     <tag k='building:condition' v='Average' />
@@ -9075,7 +9075,7 @@
     <tag k='occupants:morning' v='5' />
     <tag k='occupants:night' v='5' />
   </way>
-  <way id='221824854' timestamp='2013-05-19T07:56:34Z' uid='1034219' user='shrijana' visible='true' version='3' changeset='16189762'>
+  <way id='221824854' action='modify' timestamp='2013-05-19T07:56:34Z' uid='1034219' user='shrijana' visible='true' version='3' changeset='16189762'>
     <nd ref='2308181840' />
     <nd ref='2310784741' />
     <nd ref='2310784740' />
@@ -9084,7 +9084,7 @@
     <nd ref='2308181835' />
     <nd ref='2308181840' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -9149,14 +9149,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Kundalini Hospital' />
   </way>
-  <way id='221824857' timestamp='2013-05-19T07:01:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189274'>
+  <way id='221824857' action='modify' timestamp='2013-05-19T07:01:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189274'>
     <nd ref='2308181901' />
     <nd ref='2308181906' />
     <nd ref='2308181904' />
     <nd ref='2308181895' />
     <nd ref='2308181901' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -9185,14 +9185,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Kundalini Hospital' />
   </way>
-  <way id='221824858' timestamp='2013-05-19T07:04:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189298'>
+  <way id='221824858' action='modify' timestamp='2013-05-19T07:04:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189298'>
     <nd ref='2308181903' />
     <nd ref='2308181900' />
     <nd ref='2308181890' />
     <nd ref='2308181897' />
     <nd ref='2308181903' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -9221,14 +9221,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Kundalini Hospital' />
   </way>
-  <way id='221824859' timestamp='2013-05-19T07:06:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189308'>
+  <way id='221824859' action='modify' timestamp='2013-05-19T07:06:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189308'>
     <nd ref='2308181896' />
     <nd ref='2308181891' />
     <nd ref='2308181886' />
     <nd ref='2308181888' />
     <nd ref='2308181896' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -9257,14 +9257,14 @@
     <tag k='oid' v='4' />
     <tag k='operator' v='Kundalini Hospital' />
   </way>
-  <way id='221824861' timestamp='2013-05-19T07:25:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189466'>
+  <way id='221824861' action='modify' timestamp='2013-05-19T07:25:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189466'>
     <nd ref='2308181882' />
     <nd ref='2308181880' />
     <nd ref='2308181872' />
     <nd ref='2308181876' />
     <nd ref='2308181882' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -9293,7 +9293,7 @@
     <tag k='oid' v='6' />
     <tag k='operator' v='Kundalini Hospital' />
   </way>
-  <way id='221824864' timestamp='2013-05-19T07:25:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189458'>
+  <way id='221824864' action='modify' timestamp='2013-05-19T07:25:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189458'>
     <nd ref='2308181881' />
     <nd ref='2308181875' />
     <nd ref='2308181870' />
@@ -9302,7 +9302,7 @@
     <nd ref='2308181883' />
     <nd ref='2308181881' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -9331,7 +9331,7 @@
     <tag k='oid' v='5' />
     <tag k='operator' v='Kundalini Hospital' />
   </way>
-  <way id='221824865' timestamp='2013-05-19T07:53:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189728'>
+  <way id='221824865' action='modify' timestamp='2013-05-19T07:53:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189728'>
     <nd ref='2308181830' />
     <nd ref='2308181825' />
     <nd ref='2308181828' />
@@ -9340,7 +9340,7 @@
     <nd ref='2308181831' />
     <nd ref='2308181830' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -9449,7 +9449,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Sumeru City Hospital' />
   </way>
-  <way id='222136581' timestamp='2013-05-21T03:55:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16218855'>
+  <way id='222136581' action='modify' timestamp='2013-05-21T03:55:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16218855'>
     <nd ref='2311097719' />
     <nd ref='2311097718' />
     <nd ref='2311097720' />
@@ -9463,7 +9463,7 @@
     <nd ref='2311097717' />
     <nd ref='2311097719' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -9492,14 +9492,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Vayodha Hospital' />
   </way>
-  <way id='222136598' timestamp='2013-05-21T03:54:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16218852'>
+  <way id='222136598' action='modify' timestamp='2013-05-21T03:54:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16218852'>
     <nd ref='2311097728' />
     <nd ref='2311097727' />
     <nd ref='2311097723' />
     <nd ref='2311097724' />
     <nd ref='2311097728' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -9528,14 +9528,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Vayodha Hospital' />
   </way>
-  <way id='222136604' timestamp='2013-05-21T03:54:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16218853'>
+  <way id='222136604' action='modify' timestamp='2013-05-21T03:54:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16218853'>
     <nd ref='2311097726' />
     <nd ref='2311097725' />
     <nd ref='2311097721' />
     <nd ref='2311097722' />
     <nd ref='2311097726' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -9564,14 +9564,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Vayodha Hospital' />
   </way>
-  <way id='222147075' timestamp='2013-07-04T04:29:25Z' uid='1068220' user='Helina' visible='true' version='4' changeset='16815862'>
+  <way id='222147075' action='modify' timestamp='2013-07-04T04:29:25Z' uid='1068220' user='Helina' visible='true' version='4' changeset='16815862'>
     <nd ref='2311211745' />
     <nd ref='2311211747' />
     <nd ref='2311211743' />
     <nd ref='2311211742' />
     <nd ref='2311211745' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -9781,7 +9781,7 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Bishnudevi Primary Health Center' />
   </way>
-  <way id='222180847' timestamp='2013-08-08T09:32:05Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='222180847' action='modify' timestamp='2013-08-08T09:32:05Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2311625882' />
     <nd ref='2311625879' />
     <nd ref='2311625880' />
@@ -9789,7 +9789,7 @@
     <nd ref='2311625882' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -9826,7 +9826,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
   </way>
-  <way id='222180855' timestamp='2013-08-08T09:32:18Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='222180855' action='modify' timestamp='2013-08-08T09:32:18Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2311625848' />
     <nd ref='2311625846' />
     <nd ref='2311625845' />
@@ -9834,7 +9834,7 @@
     <nd ref='2311625848' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -9871,7 +9871,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
   </way>
-  <way id='222180856' timestamp='2013-08-08T09:32:27Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='222180856' action='modify' timestamp='2013-08-08T09:32:27Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2311625962' />
     <nd ref='2311625959' />
     <nd ref='2311625957' />
@@ -9879,7 +9879,7 @@
     <nd ref='2311625962' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -10027,14 +10027,14 @@
     <tag k='oid' v='4' />
     <tag k='operator' v='Primary Health Care and Research Center' />
   </way>
-  <way id='222586450' timestamp='2013-08-01T09:38:42Z' uid='1700096' user='GautamPratik' visible='true' version='4' changeset='17177074'>
+  <way id='222586450' action='modify' timestamp='2013-08-01T09:38:42Z' uid='1700096' user='GautamPratik' visible='true' version='4' changeset='17177074'>
     <nd ref='2315428237' />
     <nd ref='2315428231' />
     <nd ref='2315428220' />
     <nd ref='2315428224' />
     <nd ref='2315428237' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='6' />
     <tag k='building:condition' v='Average' />
@@ -10099,14 +10099,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Primary Health Care and Research Center' />
   </way>
-  <way id='222586452' timestamp='2013-08-01T09:38:45Z' uid='1700096' user='GautamPratik' visible='true' version='5' changeset='17177074'>
+  <way id='222586452' action='modify' timestamp='2013-08-01T09:38:45Z' uid='1700096' user='GautamPratik' visible='true' version='5' changeset='17177074'>
     <nd ref='2315428219' />
     <nd ref='2315428218' />
     <nd ref='2315428213' />
     <nd ref='2315428216' />
     <nd ref='2315428219' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -10135,7 +10135,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Primary Health Care and Research Center' />
   </way>
-  <way id='222723986' timestamp='2013-07-12T04:38:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16921203'>
+  <way id='222723986' action='modify' timestamp='2013-07-12T04:38:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16921203'>
     <nd ref='2316674200' />
     <nd ref='2316674197' />
     <nd ref='2316674198' />
@@ -10144,7 +10144,7 @@
     <nd ref='2316674199' />
     <nd ref='2316674200' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -10173,14 +10173,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='shiva jyotihospital &amp; research centre' />
   </way>
-  <way id='222753156' timestamp='2013-05-24T04:38:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16260339'>
+  <way id='222753156' action='modify' timestamp='2013-05-24T04:38:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16260339'>
     <nd ref='2316914215' />
     <nd ref='2316914213' />
     <nd ref='2316914210' />
     <nd ref='2316914212' />
     <nd ref='2316914215' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -10208,7 +10208,7 @@
     <tag k='occupants:night' v='2' />
     <tag k='operator' v='Aradhana Health Care Centre' />
   </way>
-  <way id='222838860' timestamp='2013-08-08T09:31:53Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='222838860' action='modify' timestamp='2013-08-08T09:31:53Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2317847635' />
     <nd ref='2317847636' />
     <nd ref='2317847634' />
@@ -10216,7 +10216,7 @@
     <nd ref='2317847635' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -10253,14 +10253,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
   </way>
-  <way id='222840414' timestamp='2013-06-17T05:44:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16584548'>
+  <way id='222840414' action='modify' timestamp='2013-06-17T05:44:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16584548'>
     <nd ref='2317863092' />
     <nd ref='2317863087' />
     <nd ref='2317863083' />
     <nd ref='2317863088' />
     <nd ref='2317863092' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -10289,7 +10289,7 @@
     <tag k='oid' v='4' />
     <tag k='operator' v='Mahendra Narayan Nidhi Memorial Hospital' />
   </way>
-  <way id='222840415' timestamp='2013-06-04T06:37:18Z' uid='1034219' user='shrijana' visible='true' version='3' changeset='16415722'>
+  <way id='222840415' action='modify' timestamp='2013-06-04T06:37:18Z' uid='1034219' user='shrijana' visible='true' version='3' changeset='16415722'>
     <nd ref='2317863095' />
     <nd ref='2317863092' />
     <nd ref='2317863088' />
@@ -10300,7 +10300,7 @@
     <nd ref='2317863094' />
     <nd ref='2317863095' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -10367,7 +10367,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Mahendra Narayan Nidhi Memorial Hospital' />
   </way>
-  <way id='222840417' timestamp='2013-05-29T10:00:31Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16335544'>
+  <way id='222840417' action='modify' timestamp='2013-05-29T10:00:31Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16335544'>
     <nd ref='2317863078' />
     <nd ref='2317863074' />
     <nd ref='2317863076' />
@@ -10378,7 +10378,7 @@
     <nd ref='2317863080' />
     <nd ref='2317863078' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -10454,7 +10454,7 @@
     <tag k='operator:type' v='community' />
     <tag k='personnel:count' v='9' />
   </way>
-  <way id='222872126' timestamp='2013-08-08T09:31:56Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='222872126' action='modify' timestamp='2013-08-08T09:31:56Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2318170236' />
     <nd ref='2318170237' />
     <nd ref='2318170235' />
@@ -10462,7 +10462,7 @@
     <nd ref='2318170236' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -10501,7 +10501,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='9' />
   </way>
-  <way id='222872129' timestamp='2013-08-08T09:32:53Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
+  <way id='222872129' action='modify' timestamp='2013-08-08T09:32:53Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
     <nd ref='2318170189' />
     <nd ref='2318170191' />
     <nd ref='2318170190' />
@@ -10509,7 +10509,7 @@
     <nd ref='2318170189' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Average' />
@@ -10599,7 +10599,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
   </way>
-  <way id='223031887' timestamp='2013-07-11T06:06:55Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16908555'>
+  <way id='223031887' action='modify' timestamp='2013-07-11T06:06:55Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16908555'>
     <nd ref='2319750636' />
     <nd ref='2319750635' />
     <nd ref='2319750628' />
@@ -10616,7 +10616,7 @@
     <nd ref='2319750637' />
     <nd ref='2319750636' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -10644,7 +10644,7 @@
     <tag k='occupants:night' v='70' />
     <tag k='operator' v='Shuvatara Hospital' />
   </way>
-  <way id='223033987' timestamp='2013-08-08T09:32:11Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='223033987' action='modify' timestamp='2013-08-08T09:32:11Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2319777189' />
     <nd ref='2319777184' />
     <nd ref='2319777183' />
@@ -10660,7 +10660,7 @@
     <nd ref='2319777189' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Good' />
@@ -10697,7 +10697,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='350' />
   </way>
-  <way id='223091876' timestamp='2013-05-27T08:37:15Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16306453'>
+  <way id='223091876' action='modify' timestamp='2013-05-27T08:37:15Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16306453'>
     <nd ref='2320295952' />
     <nd ref='2320295965' />
     <nd ref='2320295978' />
@@ -10710,7 +10710,7 @@
     <nd ref='2320295962' />
     <nd ref='2320295952' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='5' />
     <tag k='building:condition' v='Good' />
@@ -10777,7 +10777,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='HAM&apos;S Hospital' />
   </way>
-  <way id='223091878' timestamp='2013-05-27T08:39:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16306477'>
+  <way id='223091878' action='modify' timestamp='2013-05-27T08:39:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16306477'>
     <nd ref='2320295963' />
     <nd ref='2320295970' />
     <nd ref='2320295980' />
@@ -10789,7 +10789,7 @@
     <nd ref='2320295960' />
     <nd ref='2320295963' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -10818,14 +10818,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='HAM&apos;S Hospital' />
   </way>
-  <way id='223132676' timestamp='2013-05-27T06:14:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16305148'>
+  <way id='223132676' action='modify' timestamp='2013-05-27T06:14:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16305148'>
     <nd ref='2320655745' />
     <nd ref='2320655746' />
     <nd ref='2320655744' />
     <nd ref='2320655743' />
     <nd ref='2320655745' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -10854,14 +10854,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Janamitre Hospital' />
   </way>
-  <way id='223270503' timestamp='2013-05-31T08:49:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16362025'>
+  <way id='223270503' action='modify' timestamp='2013-05-31T08:49:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16362025'>
     <nd ref='2321864360' />
     <nd ref='2321864357' />
     <nd ref='2321864354' />
     <nd ref='2321864356' />
     <nd ref='2321864360' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -10890,7 +10890,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Family Health Care and Reacher Centre' />
   </way>
-  <way id='223270507' timestamp='2013-05-31T08:48:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16362015'>
+  <way id='223270507' action='modify' timestamp='2013-05-31T08:48:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16362015'>
     <nd ref='2321864359' />
     <nd ref='1887840117' />
     <nd ref='1887840123' />
@@ -10899,7 +10899,7 @@
     <nd ref='2321864355' />
     <nd ref='2321864359' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -10928,7 +10928,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Family Health Care and Reacher Centre' />
   </way>
-  <way id='223275415' timestamp='2013-05-31T06:57:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16360901'>
+  <way id='223275415' action='modify' timestamp='2013-05-31T06:57:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16360901'>
     <nd ref='2321906193' />
     <nd ref='2321906194' />
     <nd ref='2321906190' />
@@ -10945,7 +10945,7 @@
     <nd ref='2321906198' />
     <nd ref='2321906193' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='' />
     <tag k='building:condition' v='Good' />
@@ -10974,14 +10974,14 @@
     <tag k='occupants:night' v='' />
     <tag k='operator' v='Grande International Hospital' />
   </way>
-  <way id='223275418' timestamp='2013-08-01T10:08:05Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177453'>
+  <way id='223275418' action='modify' timestamp='2013-08-01T10:08:05Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177453'>
     <nd ref='2321906147' />
     <nd ref='2321906149' />
     <nd ref='2321906148' />
     <nd ref='2321906145' />
     <nd ref='2321906147' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -11009,14 +11009,14 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Gongabu Sub-Health Post' />
   </way>
-  <way id='223299790' timestamp='2013-05-29T10:17:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16335759'>
+  <way id='223299790' action='modify' timestamp='2013-05-29T10:17:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16335759'>
     <nd ref='2322097449' />
     <nd ref='2322097438' />
     <nd ref='2322097435' />
     <nd ref='2322097446' />
     <nd ref='2322097449' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Poor' />
@@ -11083,7 +11083,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Omni Care Hospital' />
   </way>
-  <way id='223301199' timestamp='2013-08-08T09:32:22Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='223301199' action='modify' timestamp='2013-08-08T09:32:22Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2322112260' />
     <nd ref='2322112264' />
     <nd ref='2322112263' />
@@ -11094,7 +11094,7 @@
     <nd ref='2322112260' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -11131,14 +11131,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='4' />
   </way>
-  <way id='223407563' timestamp='2013-06-22T09:22:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16653745'>
+  <way id='223407563' action='modify' timestamp='2013-06-22T09:22:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16653745'>
     <nd ref='2323067093' />
     <nd ref='2323067082' />
     <nd ref='2323067092' />
     <nd ref='2323067095' />
     <nd ref='2323067093' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -11167,14 +11167,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Saudi Nepal Medical Centre Pvt. Ltd.' />
   </way>
-  <way id='223490618' timestamp='2013-06-22T12:29:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16655742'>
+  <way id='223490618' action='modify' timestamp='2013-06-22T12:29:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16655742'>
     <nd ref='2323889544' />
     <nd ref='2323889543' />
     <nd ref='2323889541' />
     <nd ref='2323889542' />
     <nd ref='2323889544' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Good' />
@@ -11292,7 +11292,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='3' />
   </way>
-  <way id='223502956' timestamp='2013-08-08T09:32:22Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='223502956' action='modify' timestamp='2013-08-08T09:32:22Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2323960159' />
     <nd ref='2323960160' />
     <nd ref='2323960158' />
@@ -11300,7 +11300,7 @@
     <nd ref='2323960159' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -11337,7 +11337,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='14' />
   </way>
-  <way id='223502962' timestamp='2013-05-30T11:18:50Z' uid='1034219' user='shrijana' visible='true' version='4' changeset='16350108'>
+  <way id='223502962' action='modify' timestamp='2013-05-30T11:18:50Z' uid='1034219' user='shrijana' visible='true' version='4' changeset='16350108'>
     <nd ref='2323960146' />
     <nd ref='2323960145' />
     <nd ref='2323960142' />
@@ -11347,7 +11347,7 @@
     <nd ref='2323960141' />
     <nd ref='2323960146' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -11375,14 +11375,14 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Sankarapur Polyclinic' />
   </way>
-  <way id='223503869' timestamp='2013-06-06T05:21:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440175'>
+  <way id='223503869' action='modify' timestamp='2013-06-06T05:21:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440175'>
     <nd ref='2323966316' />
     <nd ref='2323966334' />
     <nd ref='2323966320' />
     <nd ref='2323966313' />
     <nd ref='2323966316' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='9' />
     <tag k='building:condition' v='Average' />
@@ -11445,7 +11445,7 @@
     <tag k='occupants:night' v='4' />
     <tag k='operator' v='Om Samaj Dental Hospital' />
   </way>
-  <way id='223503874' timestamp='2013-06-06T05:35:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440246'>
+  <way id='223503874' action='modify' timestamp='2013-06-06T05:35:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440246'>
     <nd ref='2323966357' />
     <nd ref='2323966355' />
     <nd ref='2323966354' />
@@ -11456,7 +11456,7 @@
     <nd ref='2323966356' />
     <nd ref='2323966357' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -11485,7 +11485,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Sahid Memorial Hospital' />
   </way>
-  <way id='223503875' timestamp='2013-06-06T05:39:18Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440271'>
+  <way id='223503875' action='modify' timestamp='2013-06-06T05:39:18Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440271'>
     <nd ref='2323966371' />
     <nd ref='2323966372' />
     <nd ref='2323966367' />
@@ -11496,7 +11496,7 @@
     <nd ref='2323966363' />
     <nd ref='2323966371' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -11607,14 +11607,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
   </way>
-  <way id='223504505' timestamp='2013-06-10T18:13:44Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16499827'>
+  <way id='223504505' action='modify' timestamp='2013-06-10T18:13:44Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16499827'>
     <nd ref='2323970201' />
     <nd ref='2323970197' />
     <nd ref='2323970200' />
     <nd ref='2323970202' />
     <nd ref='2323970201' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -11733,7 +11733,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='4' />
   </way>
-  <way id='223633367' timestamp='2013-05-30T06:22:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16347036'>
+  <way id='223633367' action='modify' timestamp='2013-05-30T06:22:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16347036'>
     <nd ref='2325103593' />
     <nd ref='2325103597' />
     <nd ref='2325103598' />
@@ -11742,7 +11742,7 @@
     <nd ref='2325103592' />
     <nd ref='2325103593' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='10' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -11901,14 +11901,14 @@
     <tag k='personnel:count' v='4' />
     <tag k='phone' v='01-5582499' />
   </way>
-  <way id='224318622' timestamp='2013-08-01T09:38:44Z' uid='1700096' user='GautamPratik' visible='true' version='4' changeset='17177074'>
+  <way id='224318622' action='modify' timestamp='2013-08-01T09:38:44Z' uid='1700096' user='GautamPratik' visible='true' version='4' changeset='17177074'>
     <nd ref='2331402771' />
     <nd ref='2331402768' />
     <nd ref='2331402755' />
     <nd ref='2331402757' />
     <nd ref='2331402771' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -12067,7 +12067,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='3' />
   </way>
-  <way id='224458571' timestamp='2013-08-11T09:13:20Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17300484'>
+  <way id='224458571' action='modify' timestamp='2013-08-11T09:13:20Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17300484'>
     <nd ref='2332813504' />
     <nd ref='2332813503' />
     <nd ref='2332813501' />
@@ -12075,7 +12075,7 @@
     <nd ref='2332813504' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='6' />
     <tag k='building:condition' v='Average' />
@@ -12113,14 +12113,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='15' />
   </way>
-  <way id='224606348' timestamp='2013-06-06T04:31:38Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16439916'>
+  <way id='224606348' action='modify' timestamp='2013-06-06T04:31:38Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16439916'>
     <nd ref='2334094301' />
     <nd ref='2334094300' />
     <nd ref='2334094298' />
     <nd ref='2334094299' />
     <nd ref='2334094301' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -12316,14 +12316,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='85' />
   </way>
-  <way id='224864561' timestamp='2013-07-07T06:42:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16856788'>
+  <way id='224864561' action='modify' timestamp='2013-07-07T06:42:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16856788'>
     <nd ref='2337121011' />
     <nd ref='2337121010' />
     <nd ref='2337121008' />
     <nd ref='2337121009' />
     <nd ref='2337121011' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -12905,7 +12905,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='4' />
   </way>
-  <way id='225422533' timestamp='2013-06-20T08:52:55Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16626861'>
+  <way id='225422533' action='modify' timestamp='2013-06-20T08:52:55Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16626861'>
     <nd ref='2342018483' />
     <nd ref='2342018480' />
     <nd ref='2342018478' />
@@ -12915,7 +12915,7 @@
     <nd ref='2342018474' />
     <nd ref='2342018483' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Poor' />
@@ -12944,7 +12944,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Mid- City Hospital' />
   </way>
-  <way id='225422534' timestamp='2013-07-12T05:39:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16921559'>
+  <way id='225422534' action='modify' timestamp='2013-07-12T05:39:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16921559'>
     <nd ref='2342018479' />
     <nd ref='2342018471' />
     <nd ref='2342018473' />
@@ -12955,7 +12955,7 @@
     <nd ref='2342018482' />
     <nd ref='2342018479' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Poor' />
@@ -12984,7 +12984,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Mid- City Hospital' />
   </way>
-  <way id='225431364' timestamp='2013-08-08T09:32:36Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='225431364' action='modify' timestamp='2013-08-08T09:32:36Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2342084310' />
     <nd ref='2342084309' />
     <nd ref='2342084306' />
@@ -12996,7 +12996,7 @@
     <nd ref='2342084310' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -13229,7 +13229,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Samudayik Swasthya Bhawan' />
   </way>
-  <way id='225594248' timestamp='2013-08-08T09:32:14Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17264173'>
+  <way id='225594248' action='modify' timestamp='2013-08-08T09:32:14Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17264173'>
     <nd ref='2343574155' />
     <nd ref='2343574156' />
     <nd ref='2343574154' />
@@ -13237,7 +13237,7 @@
     <nd ref='2343574155' />
     <tag k='amenity' v='health_post' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Poor' />
@@ -13357,14 +13357,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Sankhu Illaka Health Post' />
   </way>
-  <way id='225639758' timestamp='2013-06-20T10:35:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628067'>
+  <way id='225639758' action='modify' timestamp='2013-06-20T10:35:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628067'>
     <nd ref='2343968547' />
     <nd ref='2343968552' />
     <nd ref='2343968558' />
     <nd ref='2343968556' />
     <nd ref='2343968547' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -13438,7 +13438,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='15' />
   </way>
-  <way id='225641958' timestamp='2013-06-20T10:37:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628103'>
+  <way id='225641958' action='modify' timestamp='2013-06-20T10:37:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628103'>
     <nd ref='2344004388' />
     <nd ref='2344004385' />
     <nd ref='2344004386' />
@@ -13453,7 +13453,7 @@
     <nd ref='2344004389' />
     <nd ref='2344004388' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -13518,14 +13518,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Chunikhel Upaswasthya chowki' />
   </way>
-  <way id='225653152' timestamp='2013-08-01T10:08:07Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177453'>
+  <way id='225653152' action='modify' timestamp='2013-08-01T10:08:07Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177453'>
     <nd ref='2344120185' />
     <nd ref='2344120183' />
     <nd ref='2344120182' />
     <nd ref='2344120184' />
     <nd ref='2344120185' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -13664,7 +13664,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Sesh Narayan Community Health Post' />
   </way>
-  <way id='225655514' timestamp='2013-08-01T10:51:03Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='3' changeset='17177909'>
+  <way id='225655514' action='modify' timestamp='2013-08-01T10:51:03Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='3' changeset='17177909'>
     <nd ref='2344135208' />
     <nd ref='2344135205' />
     <nd ref='2344135207' />
@@ -13673,7 +13673,7 @@
     <nd ref='2344135210' />
     <nd ref='2344135208' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Poor' />
@@ -13702,14 +13702,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Talkudude Chaur Sub Health Post' />
   </way>
-  <way id='225656521' timestamp='2013-08-01T10:03:33Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='3' changeset='17177410'>
+  <way id='225656521' action='modify' timestamp='2013-08-01T10:03:33Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='3' changeset='17177410'>
     <nd ref='2344143775' />
     <nd ref='2344143774' />
     <nd ref='2344143770' />
     <nd ref='2344143772' />
     <nd ref='2344143775' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='6' />
     <tag k='building:condition' v='Good' />
@@ -13738,14 +13738,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Primary Health Post ChalnaKhel' />
   </way>
-  <way id='225658481' timestamp='2013-06-19T09:47:34Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16614765'>
+  <way id='225658481' action='modify' timestamp='2013-06-19T09:47:34Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16614765'>
     <nd ref='2344160741' />
     <nd ref='2344160744' />
     <nd ref='2344160735' />
     <nd ref='2344160734' />
     <nd ref='2344160741' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Poor' />
@@ -13817,7 +13817,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Buddha International Medical Centre' />
   </way>
-  <way id='225659856' timestamp='2013-08-08T09:31:33Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='225659856' action='modify' timestamp='2013-08-08T09:31:33Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2344177351' />
     <nd ref='2344177350' />
     <nd ref='2344177346' />
@@ -13825,7 +13825,7 @@
     <nd ref='2344177351' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -13899,7 +13899,7 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Raj Joshi Polyclinic' />
   </way>
-  <way id='225659860' timestamp='2013-06-19T08:56:07Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16614245'>
+  <way id='225659860' action='modify' timestamp='2013-06-19T08:56:07Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16614245'>
     <nd ref='2344177343' />
     <nd ref='2344177342' />
     <nd ref='2344177337' />
@@ -13909,7 +13909,7 @@
     <nd ref='2344177341' />
     <nd ref='2344177343' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Good' />
@@ -14024,7 +14024,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='30' />
   </way>
-  <way id='225708079' timestamp='2013-08-08T09:31:27Z' uid='680067' user='amritkarma' visible='true' version='11' changeset='17264173'>
+  <way id='225708079' action='modify' timestamp='2013-08-08T09:31:27Z' uid='680067' user='amritkarma' visible='true' version='11' changeset='17264173'>
     <nd ref='2344601639' />
     <nd ref='2344601638' />
     <nd ref='2344601632' />
@@ -14036,7 +14036,7 @@
     <nd ref='2344601639' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -14236,14 +14236,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Siddhi Memorial Hospital' />
   </way>
-  <way id='225708086' timestamp='2013-06-20T11:08:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628458'>
+  <way id='225708086' action='modify' timestamp='2013-06-20T11:08:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628458'>
     <nd ref='2344601624' />
     <nd ref='2344601625' />
     <nd ref='2344601621' />
     <nd ref='2344601617' />
     <nd ref='2344601624' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -14310,7 +14310,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Siddhi Memorial Hospital' />
   </way>
-  <way id='225708088' timestamp='2013-06-20T11:10:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628474'>
+  <way id='225708088' action='modify' timestamp='2013-06-20T11:10:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628474'>
     <nd ref='2344601626' />
     <nd ref='2344601627' />
     <nd ref='2344601623' />
@@ -14319,7 +14319,7 @@
     <nd ref='2344601619' />
     <nd ref='2344601626' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -14383,14 +14383,14 @@
     <tag k='occupants:night' v='1' />
     <tag k='operator' v='Phutung Sub-health Post' />
   </way>
-  <way id='226041073' timestamp='2013-08-01T09:38:45Z' uid='1700096' user='GautamPratik' visible='true' version='5' changeset='17177074'>
+  <way id='226041073' action='modify' timestamp='2013-08-01T09:38:45Z' uid='1700096' user='GautamPratik' visible='true' version='5' changeset='17177074'>
     <nd ref='2348996171' />
     <nd ref='2348996169' />
     <nd ref='2348996166' />
     <nd ref='2348996168' />
     <nd ref='2348996171' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -14581,7 +14581,7 @@
     <tag k='oid' v='6' />
     <tag k='operator' v='Susma Koirala Memorial Hospital' />
   </way>
-  <way id='226045849' timestamp='2013-06-18T05:12:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16598867'>
+  <way id='226045849' action='modify' timestamp='2013-06-18T05:12:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16598867'>
     <nd ref='2349060967' />
     <nd ref='2349060961' />
     <nd ref='2349060963' />
@@ -14592,7 +14592,7 @@
     <nd ref='2349060968' />
     <nd ref='2349060967' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -14666,7 +14666,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
   </way>
-  <way id='226056945' timestamp='2013-08-08T09:32:56Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226056945' action='modify' timestamp='2013-08-08T09:32:56Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2349174379' />
     <nd ref='2349174378' />
     <nd ref='2349174375' />
@@ -14674,7 +14674,7 @@
     <nd ref='2349174379' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -14711,14 +14711,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='6' />
   </way>
-  <way id='226058157' timestamp='2013-08-01T09:38:42Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177074'>
+  <way id='226058157' action='modify' timestamp='2013-08-01T09:38:42Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177074'>
     <nd ref='2349185895' />
     <nd ref='2349185890' />
     <nd ref='2349185885' />
     <nd ref='2349185891' />
     <nd ref='2349185895' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='' />
     <tag k='building:condition' v='Good' />
@@ -14783,14 +14783,14 @@
     <tag k='oid' v='4' />
     <tag k='operator' v='lele Health post' />
   </way>
-  <way id='226058161' timestamp='2013-08-01T09:38:46Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177074'>
+  <way id='226058161' action='modify' timestamp='2013-08-01T09:38:46Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177074'>
     <nd ref='2349185883' />
     <nd ref='2349185876' />
     <nd ref='2349185879' />
     <nd ref='2349185886' />
     <nd ref='2349185883' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -14819,14 +14819,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='lele Health post' />
   </way>
-  <way id='226058163' timestamp='2013-08-01T09:38:43Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177074'>
+  <way id='226058163' action='modify' timestamp='2013-08-01T09:38:43Z' uid='1700096' user='GautamPratik' visible='true' version='3' changeset='17177074'>
     <nd ref='2349185892' />
     <nd ref='2349185888' />
     <nd ref='2349185889' />
     <nd ref='2349185893' />
     <nd ref='2349185892' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -14890,7 +14890,7 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Bhardev Sub Health post' />
   </way>
-  <way id='226060157' timestamp='2013-06-18T06:28:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16599283'>
+  <way id='226060157' action='modify' timestamp='2013-06-18T06:28:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16599283'>
     <nd ref='2349203398' />
     <nd ref='2349203409' />
     <nd ref='2349203407' />
@@ -14899,7 +14899,7 @@
     <nd ref='2349203394' />
     <nd ref='2349203398' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -14972,14 +14972,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='2' />
   </way>
-  <way id='226062180' timestamp='2013-06-24T09:59:52Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16681655'>
+  <way id='226062180' action='modify' timestamp='2013-06-24T09:59:52Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16681655'>
     <nd ref='2349238787' />
     <nd ref='2349238784' />
     <nd ref='2349238780' />
     <nd ref='2349238782' />
     <nd ref='2349238787' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -15008,14 +15008,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Siddhi Ganesh Saccos Health Clinic' />
   </way>
-  <way id='226062181' timestamp='2013-06-20T11:16:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628539'>
+  <way id='226062181' action='modify' timestamp='2013-06-20T11:16:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16628539'>
     <nd ref='2349238805' />
     <nd ref='2349238802' />
     <nd ref='2349238789' />
     <nd ref='2349238794' />
     <nd ref='2349238805' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -15114,14 +15114,14 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Balambu sub health post' />
   </way>
-  <way id='226067602' timestamp='2013-08-01T10:08:04Z' uid='1700096' user='GautamPratik' visible='true' version='5' changeset='17177453'>
+  <way id='226067602' action='modify' timestamp='2013-08-01T10:08:04Z' uid='1700096' user='GautamPratik' visible='true' version='5' changeset='17177453'>
     <nd ref='2349275727' />
     <nd ref='2349275729' />
     <nd ref='2349275726' />
     <nd ref='2349275724' />
     <nd ref='2349275727' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -15184,7 +15184,7 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Nagarkot health post' />
   </way>
-  <way id='226284407' timestamp='2013-06-19T09:45:11Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16614736'>
+  <way id='226284407' action='modify' timestamp='2013-06-19T09:45:11Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16614736'>
     <nd ref='2351378283' />
     <nd ref='2351378282' />
     <nd ref='2351378285' />
@@ -15193,7 +15193,7 @@
     <nd ref='2351378287' />
     <nd ref='2351378283' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -15398,7 +15398,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='7' />
   </way>
-  <way id='226396928' timestamp='2013-08-08T09:32:29Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226396928' action='modify' timestamp='2013-08-08T09:32:29Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2352322771' />
     <nd ref='2352322769' />
     <nd ref='2352322768' />
@@ -15406,7 +15406,7 @@
     <nd ref='2352322771' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -15444,7 +15444,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
   </way>
-  <way id='226396929' timestamp='2013-08-08T09:32:56Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
+  <way id='226396929' action='modify' timestamp='2013-08-08T09:32:56Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
     <nd ref='2352322767' />
     <nd ref='2352322766' />
     <nd ref='2352322764' />
@@ -15452,7 +15452,7 @@
     <nd ref='2352322767' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='5' />
     <tag k='building:condition' v='Good' />
@@ -15490,7 +15490,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='13' />
   </way>
-  <way id='226397159' timestamp='2013-08-08T09:31:22Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='226397159' action='modify' timestamp='2013-08-08T09:31:22Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2352326957' />
     <nd ref='2352326953' />
     <nd ref='2352326947' />
@@ -15498,7 +15498,7 @@
     <nd ref='2352326957' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -15746,7 +15746,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Lalitpur Dental Clinic Service Center' />
   </way>
-  <way id='226429179' timestamp='2013-08-08T09:31:20Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226429179' action='modify' timestamp='2013-08-08T09:31:20Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2352563589' />
     <nd ref='2352563592' />
     <nd ref='2352563586' />
@@ -15754,7 +15754,7 @@
     <nd ref='2352563589' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -15918,14 +15918,14 @@
     <tag k='occupants:night' v='' />
     <tag k='oid' v='1' />
   </way>
-  <way id='226429186' timestamp='2013-06-22T09:49:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16654022'>
+  <way id='226429186' action='modify' timestamp='2013-06-22T09:49:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16654022'>
     <nd ref='2352563631' />
     <nd ref='2352563632' />
     <nd ref='2352563637' />
     <nd ref='2352563636' />
     <nd ref='2352563631' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -15990,14 +15990,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Chest Hospital' />
   </way>
-  <way id='226429188' timestamp='2013-06-22T09:33:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16653871'>
+  <way id='226429188' action='modify' timestamp='2013-06-22T09:33:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16653871'>
     <nd ref='2352563582' />
     <nd ref='2352563587' />
     <nd ref='2352563588' />
     <nd ref='2352563583' />
     <nd ref='2352563582' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -16102,7 +16102,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Shree Jyoti Hospital and Research Center' />
   </way>
-  <way id='226429191' timestamp='2013-06-22T09:48:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16654004'>
+  <way id='226429191' action='modify' timestamp='2013-06-22T09:48:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16654004'>
     <nd ref='2352563635' />
     <nd ref='2352563638' />
     <nd ref='2352563629' />
@@ -16111,7 +16111,7 @@
     <nd ref='2352563626' />
     <nd ref='2352563635' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -16140,7 +16140,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Shree Jyoti Hospital and Research Center' />
   </way>
-  <way id='226429192' timestamp='2013-07-07T09:53:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16858841'>
+  <way id='226429192' action='modify' timestamp='2013-07-07T09:53:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16858841'>
     <nd ref='2352563614' />
     <nd ref='2352563613' />
     <nd ref='2352563622' />
@@ -16151,7 +16151,7 @@
     <nd ref='2352563617' />
     <nd ref='2352563614' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -16587,14 +16587,14 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Matathirtha Sub-health Post' />
   </way>
-  <way id='226472207' timestamp='2013-06-20T04:49:18Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16624853'>
+  <way id='226472207' action='modify' timestamp='2013-06-20T04:49:18Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16624853'>
     <nd ref='2352902547' />
     <nd ref='2352902544' />
     <nd ref='2352902538' />
     <nd ref='2352902542' />
     <nd ref='2352902547' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -16727,14 +16727,14 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Nirog Hospital' />
   </way>
-  <way id='226472212' timestamp='2013-08-01T10:43:55Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17177826'>
+  <way id='226472212' action='modify' timestamp='2013-08-01T10:43:55Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17177826'>
     <nd ref='2352902478' />
     <nd ref='2352902482' />
     <nd ref='2352902476' />
     <nd ref='2352902475' />
     <nd ref='2352902478' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -16834,7 +16834,7 @@
     <tag k='occupants:night' v='4' />
     <tag k='operator' v='Satungal Area Health Post' />
   </way>
-  <way id='226472215' timestamp='2013-08-01T10:22:57Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17177609'>
+  <way id='226472215' action='modify' timestamp='2013-08-01T10:22:57Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17177609'>
     <nd ref='2352902667' />
     <nd ref='2352902675' />
     <nd ref='2352902678' />
@@ -16843,7 +16843,7 @@
     <nd ref='2352902665' />
     <nd ref='2352902667' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -17171,7 +17171,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Alka Hospital' />
   </way>
-  <way id='226829160' timestamp='2013-06-22T12:10:38Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16655523'>
+  <way id='226829160' action='modify' timestamp='2013-06-22T12:10:38Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16655523'>
     <nd ref='2355629183' />
     <nd ref='2355629179' />
     <nd ref='2355629184' />
@@ -17180,7 +17180,7 @@
     <nd ref='2355629177' />
     <nd ref='2355629183' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -17209,7 +17209,7 @@
     <tag k='oid' v='6' />
     <tag k='operator' v='Alka Hospital' />
   </way>
-  <way id='226829161' timestamp='2013-06-22T12:07:54Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16655492'>
+  <way id='226829161' action='modify' timestamp='2013-06-22T12:07:54Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16655492'>
     <nd ref='2355629233' />
     <nd ref='2355629219' />
     <nd ref='2355629225' />
@@ -17218,7 +17218,7 @@
     <nd ref='2355629247' />
     <nd ref='2355629233' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -17328,14 +17328,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Alka Hospital' />
   </way>
-  <way id='226829995' timestamp='2013-06-22T12:26:05Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16655709'>
+  <way id='226829995' action='modify' timestamp='2013-06-22T12:26:05Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16655709'>
     <nd ref='2355637344' />
     <nd ref='2355637346' />
     <nd ref='2355637345' />
     <nd ref='2355637343' />
     <nd ref='2355637344' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -17362,7 +17362,7 @@
     <tag k='occupants:morning' v='5' />
     <tag k='occupants:night' v='5' />
   </way>
-  <way id='226831609' timestamp='2013-06-22T12:31:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16655760'>
+  <way id='226831609' action='modify' timestamp='2013-06-22T12:31:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16655760'>
     <nd ref='2355652834' />
     <nd ref='2355652829' />
     <nd ref='2355652817' />
@@ -17375,7 +17375,7 @@
     <nd ref='2355652830' />
     <nd ref='2355652834' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -17474,7 +17474,7 @@
     <tag k='occupants:morning' v='5' />
     <tag k='occupants:night' v='5' />
   </way>
-  <way id='226833777' timestamp='2013-08-08T09:31:25Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='226833777' action='modify' timestamp='2013-08-08T09:31:25Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2355676213' />
     <nd ref='2355676212' />
     <nd ref='2355676210' />
@@ -17482,7 +17482,7 @@
     <nd ref='2355676213' />
     <tag k='amenity' v='health_post' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -17699,7 +17699,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='3' />
   </way>
-  <way id='226835291' timestamp='2013-08-08T09:31:37Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226835291' action='modify' timestamp='2013-08-08T09:31:37Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2355696172' />
     <nd ref='2355696171' />
     <nd ref='2355696169' />
@@ -17707,7 +17707,7 @@
     <nd ref='2355696172' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -17744,7 +17744,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
   </way>
-  <way id='226835292' timestamp='2013-08-08T09:32:28Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226835292' action='modify' timestamp='2013-08-08T09:32:28Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2355696166' />
     <nd ref='2355696168' />
     <nd ref='2355696167' />
@@ -17752,7 +17752,7 @@
     <nd ref='2355696166' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -17789,7 +17789,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='11' />
   </way>
-  <way id='226852863' timestamp='2013-08-08T09:31:50Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226852863' action='modify' timestamp='2013-08-08T09:31:50Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2355873700' />
     <nd ref='2355873701' />
     <nd ref='2355873703' />
@@ -17797,7 +17797,7 @@
     <nd ref='2355873700' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -17836,7 +17836,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='9' />
   </way>
-  <way id='226852864' timestamp='2013-08-08T09:32:20Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226852864' action='modify' timestamp='2013-08-08T09:32:20Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2355873689' />
     <nd ref='2355873686' />
     <nd ref='2355873685' />
@@ -17845,7 +17845,7 @@
     <nd ref='2355873689' />
     <tag k='amenity' v='dentist' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='5' />
     <tag k='building:condition' v='Average' />
@@ -17883,7 +17883,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='15' />
   </way>
-  <way id='226852866' timestamp='2013-07-07T06:47:07Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856823'>
+  <way id='226852866' action='modify' timestamp='2013-07-07T06:47:07Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856823'>
     <nd ref='2217147814' />
     <nd ref='2217147791' />
     <nd ref='2355873677' />
@@ -17897,7 +17897,7 @@
     <nd ref='2355873680' />
     <nd ref='2217147814' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -17926,14 +17926,14 @@
     <tag k='oid' v='D' />
     <tag k='operator' v='Sumeru Hospital' />
   </way>
-  <way id='226852867' timestamp='2013-07-07T06:43:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16856791'>
+  <way id='226852867' action='modify' timestamp='2013-07-07T06:43:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16856791'>
     <nd ref='2355873665' />
     <nd ref='2355873660' />
     <nd ref='2355873657' />
     <nd ref='2355873663' />
     <nd ref='2355873665' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -17998,7 +17998,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Laliguras Hospital' />
   </way>
-  <way id='226852869' timestamp='2013-07-07T06:48:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856832'>
+  <way id='226852869' action='modify' timestamp='2013-07-07T06:48:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856832'>
     <nd ref='2355873675' />
     <nd ref='2355873667' />
     <nd ref='2355873664' />
@@ -18006,7 +18006,7 @@
     <nd ref='2355873673' />
     <nd ref='2355873675' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='4' />
     <tag k='building:condition' v='Good' />
@@ -18072,7 +18072,7 @@
     <tag k='occupants:night' v='8' />
     <tag k='operator' v='Patan Clinic' />
   </way>
-  <way id='226852871' timestamp='2013-07-07T06:43:22Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16856793'>
+  <way id='226852871' action='modify' timestamp='2013-07-07T06:43:22Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16856793'>
     <nd ref='2355873663' />
     <nd ref='2355873657' />
     <nd ref='2355873652' />
@@ -18082,7 +18082,7 @@
     <nd ref='2355873659' />
     <nd ref='2355873663' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -18111,7 +18111,7 @@
     <tag k='oid' v='A' />
     <tag k='operator' v='Sumeru Hospital' />
   </way>
-  <way id='226852872' timestamp='2013-07-07T06:44:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856805'>
+  <way id='226852872' action='modify' timestamp='2013-07-07T06:44:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856805'>
     <nd ref='2355873655' />
     <nd ref='2355873656' />
     <nd ref='2355873662' />
@@ -18121,7 +18121,7 @@
     <nd ref='2355873652' />
     <nd ref='2355873655' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -18150,7 +18150,7 @@
     <tag k='oid' v='B' />
     <tag k='operator' v='Sumeru Hospital' />
   </way>
-  <way id='226852873' timestamp='2013-07-07T06:45:52Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856814'>
+  <way id='226852873' action='modify' timestamp='2013-07-07T06:45:52Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856814'>
     <nd ref='2355873661' />
     <nd ref='2355873668' />
     <nd ref='2217147751' />
@@ -18161,7 +18161,7 @@
     <nd ref='2355873662' />
     <nd ref='2355873661' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -18450,14 +18450,14 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Namaste Nepal Medical Center' />
   </way>
-  <way id='226935934' timestamp='2013-06-23T06:28:51Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16664575'>
+  <way id='226935934' action='modify' timestamp='2013-06-23T06:28:51Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16664575'>
     <nd ref='2356754089' />
     <nd ref='2356754096' />
     <nd ref='2356754093' />
     <nd ref='2356754088' />
     <nd ref='2356754089' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -18520,14 +18520,14 @@
     <tag k='occupants:night' v='20' />
     <tag k='operator' v='Syrup Medical Centre' />
   </way>
-  <way id='226935937' timestamp='2013-06-23T06:13:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16664479'>
+  <way id='226935937' action='modify' timestamp='2013-06-23T06:13:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16664479'>
     <nd ref='2356754081' />
     <nd ref='2356754079' />
     <nd ref='2356754075' />
     <nd ref='2356754077' />
     <nd ref='2356754081' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Average' />
@@ -18555,7 +18555,7 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Mero Dental Hospital' />
   </way>
-  <way id='226935939' timestamp='2013-06-23T06:31:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16664592'>
+  <way id='226935939' action='modify' timestamp='2013-06-23T06:31:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16664592'>
     <nd ref='2356754113' />
     <nd ref='2356754117' />
     <nd ref='2356754112' />
@@ -18566,7 +18566,7 @@
     <nd ref='2356754103' />
     <nd ref='2356754113' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -18594,7 +18594,7 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Aadarsha Dental Hosptial' />
   </way>
-  <way id='226936305' timestamp='2013-08-08T09:31:50Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226936305' action='modify' timestamp='2013-08-08T09:31:50Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2356769254' />
     <nd ref='2356769256' />
     <nd ref='2356769257' />
@@ -18602,7 +18602,7 @@
     <nd ref='2356769254' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -18712,14 +18712,14 @@
     <tag k='occupants:night' v='0' />
     <tag k='operator' v='Tokha Saraswati Sub-Health Post' />
   </way>
-  <way id='226937087' timestamp='2013-06-23T09:49:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16666745'>
+  <way id='226937087' action='modify' timestamp='2013-06-23T09:49:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16666745'>
     <nd ref='2356776942' />
     <nd ref='2356776943' />
     <nd ref='2356776945' />
     <nd ref='2356776944' />
     <nd ref='2356776942' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='6' />
     <tag k='building:condition' v='Average' />
@@ -18747,7 +18747,7 @@
     <tag k='occupants:night' v='10' />
     <tag k='operator' v='Nepal jana Swasthya Kendra' />
   </way>
-  <way id='226969445' timestamp='2013-08-08T09:32:48Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226969445' action='modify' timestamp='2013-08-08T09:32:48Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2357064470' />
     <nd ref='2357064464' />
     <nd ref='2357064466' />
@@ -18757,7 +18757,7 @@
     <nd ref='2357064470' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -18795,7 +18795,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='4' />
   </way>
-  <way id='226972113' timestamp='2013-08-08T09:31:29Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='226972113' action='modify' timestamp='2013-08-08T09:31:29Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2357083575' />
     <nd ref='2357083578' />
     <nd ref='2357083571' />
@@ -18803,7 +18803,7 @@
     <nd ref='2357083575' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Poor' />
@@ -18841,7 +18841,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='10' />
   </way>
-  <way id='226972114' timestamp='2013-08-08T09:32:02Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='226972114' action='modify' timestamp='2013-08-08T09:32:02Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2357083568' />
     <nd ref='2357083565' />
     <nd ref='2357083569' />
@@ -18850,7 +18850,7 @@
     <nd ref='2357083568' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -18888,7 +18888,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
   </way>
-  <way id='226974433' timestamp='2013-08-08T09:31:42Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
+  <way id='226974433' action='modify' timestamp='2013-08-08T09:31:42Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17264173'>
     <nd ref='2357100795' />
     <nd ref='2357100788' />
     <nd ref='2357100787' />
@@ -18899,7 +18899,7 @@
     <nd ref='2357100795' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -18984,7 +18984,7 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='70' />
   </way>
-  <way id='226978805' timestamp='2013-08-08T09:32:17Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='226978805' action='modify' timestamp='2013-08-08T09:32:17Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2357139565' />
     <nd ref='2357139563' />
     <nd ref='2357139562' />
@@ -18992,7 +18992,7 @@
     <nd ref='2357139565' />
     <tag k='amenity' v='clinic' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -19078,14 +19078,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='5' />
   </way>
-  <way id='226978807' timestamp='2013-06-25T06:00:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694303'>
+  <way id='226978807' action='modify' timestamp='2013-06-25T06:00:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694303'>
     <nd ref='2357139573' />
     <nd ref='2357139571' />
     <nd ref='2357139570' />
     <nd ref='2357139572' />
     <nd ref='2357139573' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -19114,7 +19114,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Ayush Hospital' />
   </way>
-  <way id='226978808' timestamp='2013-06-25T06:19:34Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16694420'>
+  <way id='226978808' action='modify' timestamp='2013-06-25T06:19:34Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16694420'>
     <nd ref='2357139588' />
     <nd ref='2357139584' />
     <nd ref='2357139585' />
@@ -19123,7 +19123,7 @@
     <nd ref='2357139589' />
     <nd ref='2357139588' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -19306,7 +19306,7 @@
     <tag k='oid' v='6' />
     <tag k='operator' v='Nobel Hospital' />
   </way>
-  <way id='227115390' timestamp='2013-06-25T05:21:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694054'>
+  <way id='227115390' action='modify' timestamp='2013-06-25T05:21:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694054'>
     <nd ref='2358419966' />
     <nd ref='2358419970' />
     <nd ref='2358419968' />
@@ -19314,7 +19314,7 @@
     <nd ref='2358419965' />
     <nd ref='2358419966' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -19343,7 +19343,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Nobel Hospital' />
   </way>
-  <way id='227115391' timestamp='2013-07-15T08:31:24Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16958639'>
+  <way id='227115391' action='modify' timestamp='2013-07-15T08:31:24Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16958639'>
     <nd ref='2358419962' />
     <nd ref='2358419957' />
     <nd ref='2358419954' />
@@ -19352,7 +19352,7 @@
     <nd ref='2358419960' />
     <nd ref='2358419962' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -19381,7 +19381,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Nobel Hospital' />
   </way>
-  <way id='227119773' timestamp='2013-06-25T05:01:51Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16693949'>
+  <way id='227119773' action='modify' timestamp='2013-06-25T05:01:51Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16693949'>
     <nd ref='2358483093' />
     <nd ref='2358483095' />
     <nd ref='2358483090' />
@@ -19403,7 +19403,7 @@
     <nd ref='2358483108' />
     <nd ref='2358483093' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -19468,14 +19468,14 @@
     <tag k='oid' v='9' />
     <tag k='operator' v='Kathmandu Medical Teaching Hospital' />
   </way>
-  <way id='227119775' timestamp='2013-06-25T05:06:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16693983'>
+  <way id='227119775' action='modify' timestamp='2013-06-25T05:06:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16693983'>
     <nd ref='2358483030' />
     <nd ref='2358483053' />
     <nd ref='2358483046' />
     <nd ref='2358483020' />
     <nd ref='2358483030' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -19504,14 +19504,14 @@
     <tag k='oid' v='7' />
     <tag k='operator' v='Kathmandu Medical Teaching Hospital' />
   </way>
-  <way id='227119776' timestamp='2013-06-25T05:08:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16693996'>
+  <way id='227119776' action='modify' timestamp='2013-06-25T05:08:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16693996'>
     <nd ref='2358483002' />
     <nd ref='2358483012' />
     <nd ref='2358483006' />
     <nd ref='2358482994' />
     <nd ref='2358483002' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -19576,14 +19576,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Kathmandu Medical Teaching Hospital' />
   </way>
-  <way id='227119778' timestamp='2013-06-25T05:05:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16693970'>
+  <way id='227119778' action='modify' timestamp='2013-06-25T05:05:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16693970'>
     <nd ref='2358483020' />
     <nd ref='2358482990' />
     <nd ref='2358482992' />
     <nd ref='2358483030' />
     <nd ref='2358483020' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -19612,14 +19612,14 @@
     <tag k='oid' v='6' />
     <tag k='operator' v='Kathmandu Medical Teaching Hospital' />
   </way>
-  <way id='227119779' timestamp='2013-07-15T05:01:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16956742'>
+  <way id='227119779' action='modify' timestamp='2013-07-15T05:01:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16956742'>
     <nd ref='2358483059' />
     <nd ref='2358483084' />
     <nd ref='2358483081' />
     <nd ref='2358483049' />
     <nd ref='2358483059' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -19648,7 +19648,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Kathmandu Medical Teaching Hospital' />
   </way>
-  <way id='227119780' timestamp='2013-07-15T05:06:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16956760'>
+  <way id='227119780' action='modify' timestamp='2013-07-15T05:06:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16956760'>
     <nd ref='2358483103' />
     <nd ref='2358483120' />
     <nd ref='2358483067' />
@@ -19658,7 +19658,7 @@
     <nd ref='2358483081' />
     <nd ref='2358483103' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -19687,7 +19687,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Kathmandu Medical Teaching Hospital' />
   </way>
-  <way id='227119781' timestamp='2013-06-25T05:11:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694017'>
+  <way id='227119781' action='modify' timestamp='2013-06-25T05:11:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694017'>
     <nd ref='2358482986' />
     <nd ref='2358482976' />
     <nd ref='2358482971' />
@@ -19698,7 +19698,7 @@
     <nd ref='2358482984' />
     <nd ref='2358482986' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -19804,14 +19804,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Shankarapur Hospital' />
   </way>
-  <way id='227266286' timestamp='2013-06-25T05:42:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694180'>
+  <way id='227266286' action='modify' timestamp='2013-06-25T05:42:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694180'>
     <nd ref='2359791200' />
     <nd ref='2359791198' />
     <nd ref='2359791190' />
     <nd ref='2359791192' />
     <nd ref='2359791200' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='7' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -19876,14 +19876,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Shankarapur Hospital' />
   </way>
-  <way id='227276605' timestamp='2013-07-12T10:20:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16924129'>
+  <way id='227276605' action='modify' timestamp='2013-07-12T10:20:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16924129'>
     <nd ref='2359895430' />
     <nd ref='2359895437' />
     <nd ref='2359895464' />
     <nd ref='2359895453' />
     <nd ref='2359895430' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -19911,7 +19911,7 @@
     <tag k='occupants:night' v='7' />
     <tag k='operator' v='Shesmati Polyclinic and Diagonostic Centre' />
   </way>
-  <way id='227893820' timestamp='2013-06-30T03:53:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760127'>
+  <way id='227893820' action='modify' timestamp='2013-06-30T03:53:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760127'>
     <nd ref='2365248170' />
     <nd ref='2365248167' />
     <nd ref='2365248169' />
@@ -19924,7 +19924,7 @@
     <nd ref='2365248168' />
     <nd ref='2365248170' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -19953,7 +19953,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Kist Hospital' />
   </way>
-  <way id='227893821' timestamp='2013-06-30T03:58:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760146'>
+  <way id='227893821' action='modify' timestamp='2013-06-30T03:58:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760146'>
     <nd ref='2365248199' />
     <nd ref='2365248201' />
     <nd ref='2365248205' />
@@ -19967,7 +19967,7 @@
     <nd ref='2365248196' />
     <nd ref='2365248199' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -19996,7 +19996,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='B &amp; B Hospital' />
   </way>
-  <way id='227893822' timestamp='2013-06-30T03:59:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760148'>
+  <way id='227893822' action='modify' timestamp='2013-06-30T03:59:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760148'>
     <nd ref='2365248217' />
     <nd ref='2365248209' />
     <nd ref='2365248190' />
@@ -20011,7 +20011,7 @@
     <nd ref='2365248215' />
     <nd ref='2365248217' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -20040,14 +20040,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='B &amp; B Hospital' />
   </way>
-  <way id='227893823' timestamp='2013-06-30T03:49:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760113'>
+  <way id='227893823' action='modify' timestamp='2013-06-30T03:49:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760113'>
     <nd ref='2365248234' />
     <nd ref='2365248229' />
     <nd ref='2365248228' />
     <nd ref='2365248232' />
     <nd ref='2365248234' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -20076,14 +20076,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Global Hospital' />
   </way>
-  <way id='227893824' timestamp='2013-06-30T03:55:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760135'>
+  <way id='227893824' action='modify' timestamp='2013-06-30T03:55:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760135'>
     <nd ref='2365248182' />
     <nd ref='2365248185' />
     <nd ref='2365248184' />
     <nd ref='2365248181' />
     <nd ref='2365248182' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -20112,7 +20112,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Kist Hospital' />
   </way>
-  <way id='227893825' timestamp='2013-06-30T03:51:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760118'>
+  <way id='227893825' action='modify' timestamp='2013-06-30T03:51:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760118'>
     <nd ref='2365248228' />
     <nd ref='2365248232' />
     <nd ref='2365248233' />
@@ -20120,7 +20120,7 @@
     <nd ref='2365248223' />
     <nd ref='2365248228' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='10' />
     <tag k='building:condition' v='Good' />
@@ -20149,7 +20149,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Global Hospital' />
   </way>
-  <way id='227893826' timestamp='2013-06-30T03:52:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760122'>
+  <way id='227893826' action='modify' timestamp='2013-06-30T03:52:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760122'>
     <nd ref='2365248225' />
     <nd ref='2365248224' />
     <nd ref='2365248221' />
@@ -20157,7 +20157,7 @@
     <nd ref='2365248223' />
     <nd ref='2365248225' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -20186,7 +20186,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Global Hospital' />
   </way>
-  <way id='227893827' timestamp='2013-06-30T04:00:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760151'>
+  <way id='227893827' action='modify' timestamp='2013-06-30T04:00:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760151'>
     <nd ref='2365248197' />
     <nd ref='2365248191' />
     <nd ref='2365248187' />
@@ -20195,7 +20195,7 @@
     <nd ref='2365248195' />
     <nd ref='2365248197' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -20224,7 +20224,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='B &amp; B Hospital' />
   </way>
-  <way id='227893828' timestamp='2013-06-30T03:54:23Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760131'>
+  <way id='227893828' action='modify' timestamp='2013-06-30T03:54:23Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16760131'>
     <nd ref='2365248182' />
     <nd ref='2365248181' />
     <nd ref='2365248180' />
@@ -20234,7 +20234,7 @@
     <nd ref='2365248177' />
     <nd ref='2365248182' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='3' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
@@ -20263,7 +20263,7 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Kist Hospital' />
   </way>
-  <way id='227894766' timestamp='2013-06-29T11:44:21Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16750872'>
+  <way id='227894766' action='modify' timestamp='2013-06-29T11:44:21Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16750872'>
     <nd ref='2365260074' />
     <nd ref='2365260072' />
     <nd ref='2365260073' />
@@ -20277,7 +20277,7 @@
     <nd ref='2365260080' />
     <nd ref='2365260074' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='6' />
     <tag k='building:condition' v='Good' />
@@ -20537,7 +20537,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='12' />
   </way>
-  <way id='227933475' timestamp='2013-08-08T09:32:48Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
+  <way id='227933475' action='modify' timestamp='2013-08-08T09:32:48Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17264173'>
     <nd ref='2365640216' />
     <nd ref='2365640214' />
     <nd ref='2365640212' />
@@ -20545,7 +20545,7 @@
     <nd ref='2365640216' />
     <tag k='amenity' v='health_post' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -20584,7 +20584,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='5' />
   </way>
-  <way id='227939184' timestamp='2013-07-07T05:45:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856373'>
+  <way id='227939184' action='modify' timestamp='2013-07-07T05:45:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856373'>
     <nd ref='2365728665' />
     <nd ref='2365728668' />
     <nd ref='2365728673' />
@@ -20606,7 +20606,7 @@
     <nd ref='2365728664' />
     <nd ref='2365728665' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -20635,14 +20635,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Santi Sewa Griha' />
   </way>
-  <way id='227939189' timestamp='2013-07-07T05:48:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856393'>
+  <way id='227939189' action='modify' timestamp='2013-07-07T05:48:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856393'>
     <nd ref='2365728669' />
     <nd ref='2365728678' />
     <nd ref='2365728671' />
     <nd ref='2365728663' />
     <nd ref='2365728669' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='5' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -20671,14 +20671,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Santi Sewa Griha' />
   </way>
-  <way id='228168465' timestamp='2013-07-29T05:26:21Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134049'>
+  <way id='228168465' action='modify' timestamp='2013-07-29T05:26:21Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134049'>
     <nd ref='2368034647' />
     <nd ref='2368034641' />
     <nd ref='2368034640' />
     <nd ref='2368034646' />
     <nd ref='2368034647' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -20707,14 +20707,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Bhaktapur Cancer Hospital' />
   </way>
-  <way id='228168466' timestamp='2013-07-29T05:27:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134051'>
+  <way id='228168466' action='modify' timestamp='2013-07-29T05:27:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134051'>
     <nd ref='2368034648' />
     <nd ref='2368034655' />
     <nd ref='2368034662' />
     <nd ref='2368034663' />
     <nd ref='2368034648' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -20743,7 +20743,7 @@
     <tag k='oid' v='4' />
     <tag k='operator' v='Bhaktapur Cancer Hospital' />
   </way>
-  <way id='228168467' timestamp='2013-07-29T05:28:51Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134056'>
+  <way id='228168467' action='modify' timestamp='2013-07-29T05:28:51Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134056'>
     <nd ref='2368034653' />
     <nd ref='2368034657' />
     <nd ref='2368034664' />
@@ -20752,7 +20752,7 @@
     <nd ref='2368034661' />
     <nd ref='2368034653' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -20781,7 +20781,7 @@
     <tag k='oid' v='5' />
     <tag k='operator' v='Bhaktapur Cancer Hospital' />
   </way>
-  <way id='228168468' timestamp='2013-07-29T05:24:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134035'>
+  <way id='228168468' action='modify' timestamp='2013-07-29T05:24:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17134035'>
     <nd ref='2368034643' />
     <nd ref='2368034642' />
     <nd ref='2368034649' />
@@ -20790,7 +20790,7 @@
     <nd ref='2368034645' />
     <nd ref='2368034643' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='3' />
     <tag k='building:condition' v='Good' />
@@ -21046,7 +21046,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='People&apos;s Dental College &amp; Hospital' />
   </way>
-  <way id='229032303' timestamp='2013-08-08T09:31:46Z' uid='680067' user='amritkarma' visible='true' version='10' changeset='17264173'>
+  <way id='229032303' action='modify' timestamp='2013-08-08T09:31:46Z' uid='680067' user='amritkarma' visible='true' version='10' changeset='17264173'>
     <nd ref='2376712337' />
     <nd ref='2376712335' />
     <nd ref='2376712331' />
@@ -21054,7 +21054,7 @@
     <nd ref='2376712337' />
     <tag k='amenity' v='health_post' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Poor' />
@@ -21091,7 +21091,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='6' />
   </way>
-  <way id='229036468' timestamp='2013-08-08T09:31:34Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='229036468' action='modify' timestamp='2013-08-08T09:31:34Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2376745404' />
     <nd ref='2376745406' />
     <nd ref='2376745405' />
@@ -21108,7 +21108,7 @@
     <tag k='building:level' v='1' />
     <tag k='building:neighbour' v='Free_Standing' />
     <tag k='building:overhang' v='No' />
-    <tag k='building:owner' v='N/A' />
+    <tag k='building:owner' v='self' />
     <tag k='building:retrofit' v='No' />
     <tag k='building:roof_material' v='RCC/RBC' />
     <tag k='building:roof_material:others' v='' />
@@ -21395,7 +21395,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Metro Radiology and Imaging' />
   </way>
-  <way id='229141390' timestamp='2013-08-08T09:31:52Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='229141390' action='modify' timestamp='2013-08-08T09:31:52Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2377725954' />
     <nd ref='2377725955' />
     <nd ref='2377725953' />
@@ -21403,7 +21403,7 @@
     <nd ref='2377725954' />
     <tag k='amenity' v='health_post' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='1' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -21642,7 +21642,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Brighter Dental Clinic' />
   </way>
-  <way id='231628208' timestamp='2013-08-08T09:32:05Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
+  <way id='231628208' action='modify' timestamp='2013-08-08T09:32:05Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17264173'>
     <nd ref='2399739546' />
     <nd ref='2399739548' />
     <nd ref='2399739547' />
@@ -21650,7 +21650,7 @@
     <nd ref='2399739546' />
     <tag k='amenity' v='hospital' />
     <tag k='building' v='hospital' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='4' />
     <tag k='building:bay:y' v='6' />
     <tag k='building:condition' v='Good' />
@@ -21967,14 +21967,14 @@
     <tag k='operator:type' v='private' />
     <tag k='personnel:count' v='30' />
   </way>
-  <way id='231662820' timestamp='2013-07-29T05:14:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17133992'>
+  <way id='231662820' action='modify' timestamp='2013-07-29T05:14:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17133992'>
     <nd ref='2400020664' />
     <nd ref='2400020665' />
     <nd ref='2400020663' />
     <nd ref='2400020662' />
     <nd ref='2400020664' />
     <tag k='building' v='clinic' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
@@ -22003,14 +22003,14 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Khajana Polyclinic' />
   </way>
-  <way id='231978573' timestamp='2013-08-01T04:06:52Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17174323'>
+  <way id='231978573' action='modify' timestamp='2013-08-01T04:06:52Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17174323'>
     <nd ref='2403000587' />
     <nd ref='2403000591' />
     <nd ref='2403000584' />
     <nd ref='2403000579' />
     <nd ref='2403000587' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
@@ -22039,14 +22039,14 @@
     <tag k='oid' v='2' />
     <tag k='operator' v='Bajrabarahi Primary Health Care &amp; Research Center' />
   </way>
-  <way id='231978575' timestamp='2013-08-01T04:05:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17174317'>
+  <way id='231978575' action='modify' timestamp='2013-08-01T04:05:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17174317'>
     <nd ref='2403000594' />
     <nd ref='2403000595' />
     <nd ref='2403000590' />
     <nd ref='2403000589' />
     <nd ref='2403000594' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='2' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Good' />
@@ -22111,14 +22111,14 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Bajrabarahi Primary Health Care &amp; Research Center' />
   </way>
-  <way id='231978579' timestamp='2013-08-01T04:08:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17174333'>
+  <way id='231978579' action='modify' timestamp='2013-08-01T04:08:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17174333'>
     <nd ref='2403000588' />
     <nd ref='2403000596' />
     <nd ref='2403000592' />
     <nd ref='2403000583' />
     <nd ref='2403000588' />
     <tag k='building' v='health_post' />
-    <tag k='building:age' v='After_2000' />
+    <tag k='building:age' v='2000-2013' />
     <tag k='building:bay:x' v='6' />
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
