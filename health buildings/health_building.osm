@@ -2697,7 +2697,7 @@
     <tag k='building:condition' v='Good' />
     <tag k='building:floor_material' v='RCC/RBC' />
     <tag k='building:floor_material:others' v='' />
-    <tag k='building:level' v='N/A' />
+    <tag k='building:level' v='6' />
     <tag k='building:neighbour' v='Free_Standing' />
     <tag k='building:overhang' v='No' />
     <tag k='building:owner' v='Self' />
@@ -3806,7 +3806,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='National Institute of neurological and allied sciences' />
   </way>
-  <way id='200537853' timestamp='2013-06-19T10:28:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16615247'>
+  <way id='200537853' action='modify' timestamp='2013-06-19T10:28:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16615247'>
     <nd ref='2105153392' />
     <nd ref='2105153401' />
     <nd ref='2105153396' />
@@ -3831,7 +3831,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='No' />
-    <tag k='building:structure' v='Mud_Brick_in_Surkhi' />
+    <tag k='building:structure' v='Load_Bearing_Brick_Wall_in_Lime_Surkhi' />
     <tag k='building:structure:others' v='' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
@@ -5205,7 +5205,7 @@
     <tag k='operator:type' v='government' />
     <tag k='personnel:count' v='6' />
   </way>
-  <way id='211651975' timestamp='2013-08-08T09:32:51Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
+  <way id='211651975' action='modify' timestamp='2013-08-08T09:32:51Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17264173'>
     <nd ref='2216306070' />
     <nd ref='2216306089' />
     <nd ref='2216306046' />
@@ -5231,8 +5231,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='Yes' />
-    <tag k='building:structure' v='Mixed' />
-    <tag k='building:structure:others' v='1st and 2nd floor non engineered RC frame while 3rd floor is load bearing brick wall in cement mortar' />
+    <tag k='building:structure' v='Non_Engineered_Reinforced_Concrete;Load_Bearing_Brick_Wall_in_Cement_Mortar' />
     <tag k='building_count' v='1' />
     <tag k='capacity:beds' v='2' />
     <tag k='column:size' v='9x9' />
@@ -6570,7 +6569,7 @@
     <tag k='building:condition' v='Average' />
     <tag k='building:floor_material' v='Others' />
     <tag k='building:floor_material:others' v='I-Section steel' />
-    <tag k='building:level' v='N/A' />
+    <tag k='building:level' v='2' />
     <tag k='building:neighbour' v='Two_Sides_Different_Height' />
     <tag k='building:overhang' v='No' />
     <tag k='building:owner' v='Rent' />
@@ -6582,8 +6581,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='Triangular' />
     <tag k='building:soft_storey' v='Yes' />
-    <tag k='building:structure' v='Mixed' />
-    <tag k='building:structure:others' v='Steel Structure with aluminium partition' />
+    <tag k='building:structure' v='Steel Structure with aluminium partition' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='occupants:day' v='10' />
@@ -7276,8 +7274,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='No' />
-    <tag k='building:structure' v='Mixed' />
-    <tag k='building:structure:others' v='wooden' />
+    <tag k='building:structure' v='wood' />
     <tag k='column:size' v='' />
     <tag k='designation' v='maternity ward' />
     <tag k='earthquake_resistant_element' v='N/A' />
@@ -9162,7 +9159,7 @@
     <tag k='building:condition' v='Average' />
     <tag k='building:floor_material' v='N/A' />
     <tag k='building:floor_material:others' v='' />
-    <tag k='building:level' v='N/A' />
+    <tag k='building:level' v='1' />
     <tag k='building:neighbour' v='Free_Standing' />
     <tag k='building:overhang' v='No' />
     <tag k='building:owner' v='Rent' />
@@ -9210,7 +9207,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='No' />
-    <tag k='building:structure' v='N/A' />
+    <tag k='building:structure' v='Load_Bearing_Brick_Wall_in_Cement_Mortar' />
     <tag k='building:structure:others' v='' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
@@ -10728,8 +10725,7 @@
     <tag k='building:shape:elevation' v='Setback' />
     <tag k='building:shape:plan' v='Multi-Projected' />
     <tag k='building:soft_storey' v='No' />
-    <tag k='building:structure' v='Mixed' />
-    <tag k='building:structure:others' v='engineered RC Frame   load bearing brick wall in cement mortar' />
+    <tag k='building:structure' v='Engineered_RC_Frame' />
     <tag k='column:size' v='18x18' />
     <tag k='earthquake_resistant_element' v='Partial' />
     <tag k='occupants:day' v='50' />
@@ -13626,7 +13622,7 @@
     <tag k='oid' v='1' />
     <tag k='operator' v='Chaimale Sub Health Post' />
   </way>
-  <way id='225655068' timestamp='2013-08-01T10:32:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='3' changeset='17177710'>
+  <way id='225655068' action='modify' timestamp='2013-08-01T10:32:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='3' changeset='17177710'>
     <nd ref='2344133227' />
     <nd ref='2344133228' />
     <nd ref='2344133225' />
@@ -13653,8 +13649,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='L-Shaped' />
     <tag k='building:soft_storey' v='No' />
-    <tag k='building:structure' v='Mixed' />
-    <tag k='building:structure:others' v='block and cement' />
+    <tag k='building:structure' v='Load_Bearing_Concrete_Block_Wall_in_Cement_Mortar' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='occupants:day' v='40' />
@@ -16169,7 +16164,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='U-Shaped' />
     <tag k='building:soft_storey' v='No' />
-    <tag k='building:structure' v='Concrete_Block_in_Cement_Mortar' />
+    <tag k='building:structure' v='Load_Bearing_Concrete_Block_Wall_in_Cement_Mortar' />
     <tag k='building:structure:others' v='' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
@@ -16366,7 +16361,7 @@
     <tag k='oid' v='3' />
     <tag k='operator' v='Kathmandu Hospital' />
   </way>
-  <way id='226439741' timestamp='2013-06-22T10:26:20Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16654412'>
+  <way id='226439741' action='modify' timestamp='2013-06-22T10:26:20Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16654412'>
     <nd ref='2352666915' />
     <nd ref='2352666919' />
     <nd ref='2352666926' />
@@ -16391,8 +16386,7 @@
     <tag k='building:shape:elevation' v='Setback' />
     <tag k='building:shape:plan' v='Narrow_and_Long' />
     <tag k='building:soft_storey' v='Yes' />
-    <tag k='building:structure' v='Mixed' />
-    <tag k='building:structure:others' v='Load Bearing brick in cement and mud mortar' />
+    <tag k='building:structure' v='Load_Bearing_Brick_Wall_in_Mud_Mortar;Load_Bearing_Brick_Wall_in_Cement_Mortar' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='occupants:day' v='' />
@@ -16752,8 +16746,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='Narrow_and_Long' />
     <tag k='building:soft_storey' v='No' />
-    <tag k='building:structure' v='Non_Engineered_RC_Frame' />
-    <tag k='building:structure:others' v='' />
+    <tag k='building:structure' v='Load_Bearing_Brick_Wall_in_Mud_Mortar;Load_Bearing_Brick_Wall_in_Cement_Mortar' />
     <tag k='column:size' v='9x9' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='occupants:day' v='10' />
@@ -19768,7 +19761,7 @@
     <tag k='oid' v='5' />
     <tag k='operator' v='Kathmandu Medical Teaching Hospital' />
   </way>
-  <way id='227266283' timestamp='2013-06-25T05:41:01Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694172'>
+  <way id='227266283' action='modify' timestamp='2013-06-25T05:41:01Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16694172'>
     <nd ref='2359791197' />
     <nd ref='2359791196' />
     <nd ref='2359791193' />
@@ -19793,8 +19786,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='Yes' />
-    <tag k='building:structure' v='Mixed' />
-    <tag k='building:structure:others' v='iron column and ply' />
+    <tag k='building:structure' v='iron column and ply' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='occupants:day' v='40' />
@@ -20101,8 +20093,7 @@
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='No' />
-    <tag k='building:structure' v='Mixed' />
-    <tag k='building:structure:others' v='C.B' />
+    <tag k='building:structure' v='Load_Bearing_Concrete_Block_Wall_in_Cement_Mortar' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='occupants:day' v='' />
