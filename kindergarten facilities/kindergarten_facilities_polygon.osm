@@ -1,0 +1,1974 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='1891344078' timestamp='2012-08-31T11:20:26Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='12929626' lat='27.734141' lon='85.345821' />
+  <node id='1891344098' timestamp='2012-08-31T11:20:26Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='12929626' lat='27.7341611' lon='85.3458437' />
+  <node id='1891344137' timestamp='2012-08-31T11:20:27Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='12929626' lat='27.7342453' lon='85.3457462' />
+  <node id='1891344169' timestamp='2012-08-31T11:20:27Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='12929626' lat='27.7342794' lon='85.3455604' />
+  <node id='1891344181' timestamp='2013-04-04T04:37:56Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='2' changeset='15603123' lat='27.7343009' lon='85.3458053' />
+  <node id='1891344240' timestamp='2013-04-04T04:37:56Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='2' changeset='15603123' lat='27.7344051' lon='85.345658' />
+  <node id='1894398550' timestamp='2013-05-30T06:36:57Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16347079' lat='27.6837835' lon='85.3254358' />
+  <node id='1894398552' timestamp='2012-09-02T10:59:15Z' uid='831565' user='reeha (adyota)' visible='true' version='1' changeset='12952177' lat='27.6838292' lon='85.3252898' />
+  <node id='1894398553' timestamp='2013-05-30T06:36:57Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16347079' lat='27.6838454' lon='85.3252894' />
+  <node id='1894398554' timestamp='2012-09-02T10:59:15Z' uid='831565' user='reeha (adyota)' visible='true' version='1' changeset='12952177' lat='27.6838754' lon='85.3252295' />
+  <node id='1894398555' timestamp='2013-05-30T06:36:57Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16347079' lat='27.683921' lon='85.325471' />
+  <node id='1894398556' timestamp='2013-05-30T06:36:57Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16347079' lat='27.6839323' lon='85.32541' />
+  <node id='1894398558' timestamp='2012-09-02T10:59:15Z' uid='831565' user='reeha (adyota)' visible='true' version='1' changeset='12952177' lat='27.6840712' lon='85.3254264' />
+  <node id='1894398559' timestamp='2012-09-02T10:59:15Z' uid='831565' user='reeha (adyota)' visible='true' version='1' changeset='12952177' lat='27.6840818' lon='85.3252898' />
+  <node id='1895843053' timestamp='2012-09-03T07:15:23Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='12963486' lat='27.7306843' lon='85.3472702' />
+  <node id='1895843061' timestamp='2012-09-03T07:15:23Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='12963486' lat='27.7307951' lon='85.347346' />
+  <node id='1921084855' timestamp='2012-09-19T02:36:37Z' uid='680512' user='RupeshG' visible='true' version='1' changeset='13164720' lat='27.6807732' lon='85.3477899' />
+  <node id='1921084856' timestamp='2012-09-19T02:36:37Z' uid='680512' user='RupeshG' visible='true' version='1' changeset='13164720' lat='27.6807736' lon='85.3476937' />
+  <node id='1921084899' timestamp='2012-09-19T02:36:38Z' uid='680512' user='RupeshG' visible='true' version='1' changeset='13164720' lat='27.6808867' lon='85.3477905' />
+  <node id='1921084901' timestamp='2012-09-19T02:36:38Z' uid='680512' user='RupeshG' visible='true' version='1' changeset='13164720' lat='27.6808871' lon='85.3476943' />
+  <node id='2020287536' timestamp='2012-11-18T18:53:05Z' uid='866103' user='Ryan Sommerville' visible='true' version='1' changeset='13922632' lat='27.7227318' lon='85.3337773' />
+  <node id='2117343944' timestamp='2013-01-18T05:37:24Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='14692695' lat='27.6669094' lon='85.3120726' />
+  <node id='2176821470' timestamp='2013-06-29T04:00:46Z' uid='680067' user='amritkarma' visible='true' version='2' changeset='16747197' lat='27.7289317' lon='85.2883531' />
+  <node id='2176821472' timestamp='2013-06-29T04:00:46Z' uid='680067' user='amritkarma' visible='true' version='2' changeset='16747197' lat='27.7289329' lon='85.2882033' />
+  <node id='2176821483' timestamp='2013-06-29T04:00:46Z' uid='680067' user='amritkarma' visible='true' version='2' changeset='16747197' lat='27.7290353' lon='85.2883541' />
+  <node id='2176821490' timestamp='2013-06-29T04:00:46Z' uid='680067' user='amritkarma' visible='true' version='2' changeset='16747197' lat='27.7290364' lon='85.2882043' />
+  <node id='2185070311' timestamp='2013-03-04T06:55:08Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15242735' lat='27.7288736' lon='85.3503349' />
+  <node id='2185070312' timestamp='2013-03-04T06:55:08Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15242735' lat='27.7288831' lon='85.3503301' />
+  <node id='2185070316' timestamp='2013-03-04T06:55:08Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15242735' lat='27.7289373' lon='85.3503465' />
+  <node id='2185070317' timestamp='2013-03-04T06:55:08Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15242735' lat='27.7289527' lon='85.3503101' />
+  <node id='2185070319' timestamp='2013-03-04T06:55:08Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15242735' lat='27.7289943' lon='85.3504752' />
+  <node id='2185070323' timestamp='2013-03-04T06:55:08Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15242735' lat='27.729028' lon='85.3503329' />
+  <node id='2190999710' timestamp='2013-03-08T10:34:03Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15291826' lat='27.7421317' lon='85.3429331' />
+  <node id='2190999711' timestamp='2013-03-08T10:34:03Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15291826' lat='27.742142' lon='85.3428007' />
+  <node id='2193592814' timestamp='2013-03-10T02:35:30Z' uid='1201445' user='Ban Medo' visible='true' version='1' changeset='15309836' lat='27.744009' lon='85.3407058' />
+  <node id='2193592817' timestamp='2013-03-10T02:35:30Z' uid='1201445' user='Ban Medo' visible='true' version='1' changeset='15309836' lat='27.7440468' lon='85.340621' />
+  <node id='2193592820' timestamp='2013-03-10T02:35:30Z' uid='1201445' user='Ban Medo' visible='true' version='1' changeset='15309836' lat='27.7441045' lon='85.3408008' />
+  <node id='2193592823' timestamp='2013-03-10T02:35:30Z' uid='1201445' user='Ban Medo' visible='true' version='1' changeset='15309836' lat='27.7441465' lon='85.3406929' />
+  <node id='2246184592' timestamp='2013-04-11T10:46:20Z' uid='1068220' user='Helina' visible='true' version='2' changeset='15688215' lat='27.7038761' lon='85.3289311' />
+  <node id='2246184594' timestamp='2013-04-03T09:53:12Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15592332' lat='27.7038909' lon='85.3288887' />
+  <node id='2246184602' timestamp='2013-04-11T10:46:20Z' uid='1068220' user='Helina' visible='true' version='2' changeset='15688215' lat='27.7039644' lon='85.3286966' />
+  <node id='2246184604' timestamp='2013-04-11T10:46:20Z' uid='1068220' user='Helina' visible='true' version='2' changeset='15688215' lat='27.7039633' lon='85.3289746' />
+  <node id='2246184606' timestamp='2013-04-11T10:46:20Z' uid='1068220' user='Helina' visible='true' version='2' changeset='15688215' lat='27.7039913' lon='85.3288979' />
+  <node id='2246184607' timestamp='2013-04-11T10:46:20Z' uid='1068220' user='Helina' visible='true' version='2' changeset='15688215' lat='27.7040522' lon='85.3287372' />
+  <node id='2257882438' timestamp='2013-04-08T10:34:56Z' uid='715547' user='paudel ananda' visible='true' version='1' changeset='15652759' lat='27.7180871' lon='85.3338708' />
+  <node id='2257882440' timestamp='2013-04-08T10:34:56Z' uid='715547' user='paudel ananda' visible='true' version='1' changeset='15652759' lat='27.7180923' lon='85.3337522' />
+  <node id='2257882445' timestamp='2013-04-08T10:34:56Z' uid='715547' user='paudel ananda' visible='true' version='1' changeset='15652759' lat='27.7181156' lon='85.3336946' />
+  <node id='2257882447' timestamp='2013-04-08T10:34:56Z' uid='715547' user='paudel ananda' visible='true' version='1' changeset='15652759' lat='27.7181197' lon='85.333773' />
+  <node id='2257882458' timestamp='2013-04-08T10:34:56Z' uid='715547' user='paudel ananda' visible='true' version='1' changeset='15652759' lat='27.7183581' lon='85.3339844' />
+  <node id='2257882460' timestamp='2013-04-08T10:34:56Z' uid='715547' user='paudel ananda' visible='true' version='1' changeset='15652759' lat='27.7183753' lon='85.3338305' />
+  <node id='2257882463' timestamp='2013-04-08T10:34:56Z' uid='715547' user='paudel ananda' visible='true' version='1' changeset='15652759' lat='27.7183881' lon='85.33387' />
+  <node id='2260053437' timestamp='2013-04-09T11:53:50Z' uid='647540' user='sures' visible='true' version='1' changeset='15665269' lat='27.7129098' lon='85.3363696' />
+  <node id='2260053438' timestamp='2013-04-09T11:53:50Z' uid='647540' user='sures' visible='true' version='1' changeset='15665269' lat='27.7129266' lon='85.3362993' />
+  <node id='2260053439' timestamp='2013-04-09T11:53:50Z' uid='647540' user='sures' visible='true' version='1' changeset='15665269' lat='27.7129542' lon='85.3363831' />
+  <node id='2260053441' timestamp='2013-04-09T11:53:50Z' uid='647540' user='sures' visible='true' version='1' changeset='15665269' lat='27.7129986' lon='85.3363955' />
+  <node id='2260053442' timestamp='2013-04-09T11:53:50Z' uid='647540' user='sures' visible='true' version='1' changeset='15665269' lat='27.7130139' lon='85.3363258' />
+  <node id='2262475150' timestamp='2013-04-11T08:46:45Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15686833' lat='27.7226459' lon='85.3276397' />
+  <node id='2262475151' timestamp='2013-04-11T08:46:45Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15686833' lat='27.7226729' lon='85.3275021' />
+  <node id='2262475153' timestamp='2013-04-11T08:46:45Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15686833' lat='27.7227162' lon='85.3274065' />
+  <node id='2262475155' timestamp='2013-04-11T08:46:45Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15686833' lat='27.7227697' lon='85.3276825' />
+  <node id='2262475158' timestamp='2013-04-11T08:46:45Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15686833' lat='27.7228117' lon='85.3274363' />
+  <node id='2262531976' timestamp='2013-04-11T09:21:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15687204' lat='27.7320964' lon='85.3172223' />
+  <node id='2262531978' timestamp='2013-04-11T09:21:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15687204' lat='27.7321046' lon='85.3173956' />
+  <node id='2262531980' timestamp='2013-04-11T09:21:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15687204' lat='27.7322144' lon='85.3172223' />
+  <node id='2262531982' timestamp='2013-04-11T09:21:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15687204' lat='27.7322217' lon='85.3173946' />
+  <node id='2262602788' timestamp='2013-04-11T10:30:45Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15688046' lat='27.7470818' lon='85.3359073' />
+  <node id='2262602789' timestamp='2013-04-16T09:27:35Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='2' changeset='15747149' lat='27.7470895' lon='85.3359881' />
+  <node id='2262602790' timestamp='2013-04-11T10:30:45Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15688046' lat='27.7471883' lon='85.3357961' />
+  <node id='2262602791' timestamp='2013-04-11T10:30:45Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15688046' lat='27.7472627' lon='85.3359845' />
+  <node id='2268157465' timestamp='2013-04-15T11:41:38Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='15736186' lat='27.7147107' lon='85.3431331' />
+  <node id='2268157468' timestamp='2013-04-15T11:41:38Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='15736186' lat='27.7147304' lon='85.3430197' />
+  <node id='2268157480' timestamp='2013-04-15T11:41:38Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='15736186' lat='27.7147983' lon='85.3431486' />
+  <node id='2268157485' timestamp='2013-04-15T11:41:38Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='15736186' lat='27.714816' lon='85.3430441' />
+  <node id='2268998126' timestamp='2013-04-16T02:34:43Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15744171' lat='27.7304657' lon='85.3473634' />
+  <node id='2268998127' timestamp='2013-04-16T02:34:43Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15744171' lat='27.73051' lon='85.3472534' />
+  <node id='2268998130' timestamp='2013-04-16T02:34:43Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15744171' lat='27.7306469' lon='85.3473416' />
+  <node id='2268998134' timestamp='2013-04-16T02:34:43Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15744171' lat='27.7307288' lon='85.3475289' />
+  <node id='2268998137' timestamp='2013-04-16T02:34:43Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15744171' lat='27.7307481' lon='85.3473138' />
+  <node id='2269132287' timestamp='2013-04-16T08:01:51Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746181' lat='27.7420707' lon='85.3432755' />
+  <node id='2269132288' timestamp='2013-04-16T08:01:51Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746181' lat='27.7421718' lon='85.3428034' />
+  <node id='2269132289' timestamp='2013-04-16T08:01:51Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746181' lat='27.742194' lon='85.3427317' />
+  <node id='2269132290' timestamp='2013-04-16T08:01:51Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746181' lat='27.7422377' lon='85.3433151' />
+  <node id='2269132291' timestamp='2013-04-16T08:01:51Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746181' lat='27.7423421' lon='85.3427646' />
+  <node id='2269161770' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.7366056' lon='85.3406994' />
+  <node id='2269161771' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.7366107' lon='85.3403198' />
+  <node id='2269161772' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.7366113' lon='85.3403591' />
+  <node id='2269161773' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.7367102' lon='85.3403176' />
+  <node id='2269161775' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.7367134' lon='85.3406879' />
+  <node id='2269161780' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.7368441' lon='85.3406471' />
+  <node id='2269161784' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.7368694' lon='85.3403526' />
+  <node id='2269161786' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.736872' lon='85.3407431' />
+  <node id='2269161787' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.736903' lon='85.3405962' />
+  <node id='2269161788' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.7369113' lon='85.3403605' />
+  <node id='2269161789' timestamp='2013-04-16T08:39:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746603' lat='27.7369392' lon='85.3406987' />
+  <node id='2269206407' timestamp='2013-04-16T09:11:59Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746959' lat='27.7226417' lon='85.3338857' />
+  <node id='2269206417' timestamp='2013-04-16T09:11:59Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746959' lat='27.722692' lon='85.3337602' />
+  <node id='2269206422' timestamp='2013-04-16T09:11:59Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746959' lat='27.7228444' lon='85.3339765' />
+  <node id='2269206425' timestamp='2013-04-16T09:11:59Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15746959' lat='27.7228773' lon='85.3338458' />
+  <node id='2269238296' timestamp='2013-04-16T09:29:29Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15747178' lat='27.7203204' lon='85.3358541' />
+  <node id='2269238312' timestamp='2013-04-16T09:29:29Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15747178' lat='27.7203554' lon='85.3357738' />
+  <node id='2269238324' timestamp='2013-04-16T09:29:29Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15747178' lat='27.7204052' lon='85.3359092' />
+  <node id='2269238329' timestamp='2013-04-16T09:29:29Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15747178' lat='27.7204683' lon='85.3358366' />
+  <node id='2269352036' timestamp='2013-04-16T11:13:49Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='15748352' lat='27.7167699' lon='85.3320775' />
+  <node id='2269352038' timestamp='2013-04-16T11:13:49Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='15748352' lat='27.7168223' lon='85.331859' />
+  <node id='2269352047' timestamp='2013-04-16T11:13:50Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='15748352' lat='27.7170291' lon='85.3321568' />
+  <node id='2269352049' timestamp='2013-04-16T11:13:50Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='15748352' lat='27.7170734' lon='85.3319718' />
+  <node id='2269352050' timestamp='2013-04-16T11:13:50Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='15748352' lat='27.7170815' lon='85.3319383' />
+  <node id='2270267465' timestamp='2013-04-17T06:14:01Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758666' lat='27.7227555' lon='85.3467765' />
+  <node id='2270267466' timestamp='2013-04-17T06:14:01Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758666' lat='27.7227953' lon='85.3466244' />
+  <node id='2270267467' timestamp='2013-04-17T06:14:01Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758666' lat='27.7228958' lon='85.346782' />
+  <node id='2270267468' timestamp='2013-04-17T06:14:01Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758666' lat='27.7229202' lon='85.3466654' />
+  <node id='2270268854' timestamp='2013-04-17T06:19:00Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758702' lat='27.7242607' lon='85.353771' />
+  <node id='2270268861' timestamp='2013-04-17T06:19:01Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758702' lat='27.7243912' lon='85.3536367' />
+  <node id='2270268866' timestamp='2013-04-17T06:19:01Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758702' lat='27.7244169' lon='85.3539982' />
+  <node id='2270268869' timestamp='2013-04-17T06:19:01Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758702' lat='27.7244832' lon='85.3538768' />
+  <node id='2270268870' timestamp='2013-04-17T06:19:01Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758702' lat='27.7245108' lon='85.3539161' />
+  <node id='2270268872' timestamp='2013-04-17T06:19:01Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15758702' lat='27.7245231' lon='85.3538295' />
+  <node id='2270294419' timestamp='2013-04-17T06:59:09Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15759033' lat='27.7287907' lon='85.3504678' />
+  <node id='2270294420' timestamp='2013-04-17T06:59:09Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15759033' lat='27.7288033' lon='85.3506038' />
+  <node id='2270294421' timestamp='2013-04-17T06:59:09Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15759033' lat='27.7288252' lon='85.3504925' />
+  <node id='2270294422' timestamp='2013-04-17T06:59:09Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15759033' lat='27.7288332' lon='85.3503214' />
+  <node id='2270294423' timestamp='2013-04-17T06:59:09Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15759033' lat='27.7289434' lon='85.3506594' />
+  <node id='2283335498' timestamp='2013-04-27T17:09:05Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='15886263' lat='27.6700344' lon='85.4226427' />
+  <node id='2283335501' timestamp='2013-04-27T17:09:05Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='15886263' lat='27.6700577' lon='85.4225159' />
+  <node id='2283335502' timestamp='2013-04-27T17:09:05Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='15886263' lat='27.670148' lon='85.4226693' />
+  <node id='2283335504' timestamp='2013-04-27T17:09:05Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='15886263' lat='27.6701713' lon='85.4225425' />
+  <node id='2284192297' timestamp='2013-05-11T04:20:16Z' uid='647540' user='sures' visible='true' version='2' changeset='16074285' lat='27.6701615' lon='85.422596' />
+  <node id='2287857971' timestamp='2013-05-01T09:59:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15931517' lat='27.7280663' lon='85.3139955' />
+  <node id='2287857973' timestamp='2013-05-01T09:59:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15931517' lat='27.7280674' lon='85.3143251' />
+  <node id='2287857975' timestamp='2013-05-01T09:59:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15931517' lat='27.7280789' lon='85.3138663' />
+  <node id='2287857978' timestamp='2013-05-01T09:59:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15931517' lat='27.7281017' lon='85.313771' />
+  <node id='2287857980' timestamp='2013-05-01T09:59:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15931517' lat='27.7281108' lon='85.3144595' />
+  <node id='2287857984' timestamp='2013-05-01T09:59:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15931517' lat='27.728176' lon='85.3145279' />
+  <node id='2287857994' timestamp='2013-05-01T09:59:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15931517' lat='27.7283464' lon='85.313864' />
+  <node id='2289814524' timestamp='2013-05-03T00:59:20Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15954434' lat='27.6750663' lon='85.3589541' />
+  <node id='2289814526' timestamp='2013-05-03T00:59:20Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15954434' lat='27.6750478' lon='85.3590751' />
+  <node id='2289814533' timestamp='2013-05-03T00:59:20Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15954434' lat='27.6752045' lon='85.3591415' />
+  <node id='2289814539' timestamp='2013-05-03T00:59:20Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='15954434' lat='27.6752539' lon='85.3590146' />
+  <node id='2290264360' timestamp='2013-05-03T11:22:25Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15959011' lat='27.6948718' lon='85.3365029' />
+  <node id='2290264361' timestamp='2013-05-03T11:22:25Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15959011' lat='27.6949099' lon='85.3364168' />
+  <node id='2290264385' timestamp='2013-05-03T11:22:26Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15959011' lat='27.6950488' lon='85.3365952' />
+  <node id='2290264388' timestamp='2013-05-03T11:22:26Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15959011' lat='27.6951019' lon='85.3365875' />
+  <node id='2290264393' timestamp='2013-05-03T11:22:26Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15959011' lat='27.6951278' lon='85.336466' />
+  <node id='2290264394' timestamp='2013-05-03T11:22:26Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15959011' lat='27.6951319' lon='85.3365306' />
+  <node id='2290302798' timestamp='2013-05-03T12:07:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15959635' lat='27.7216805' lon='85.3094036' />
+  <node id='2290302801' timestamp='2013-05-03T12:07:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15959635' lat='27.7217349' lon='85.3096519' />
+  <node id='2290302830' timestamp='2013-05-03T12:07:31Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15959635' lat='27.7219009' lon='85.3093182' />
+  <node id='2290302831' timestamp='2013-05-03T12:07:31Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='15959635' lat='27.7219044' lon='85.3096431' />
+  <node id='2290583740' timestamp='2013-05-03T16:51:35Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15962719' lat='27.7172278' lon='85.3672728' />
+  <node id='2290583742' timestamp='2013-05-03T16:51:35Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15962719' lat='27.7172777' lon='85.3670765' />
+  <node id='2290583745' timestamp='2013-05-03T16:51:35Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15962719' lat='27.7173576' lon='85.3673148' />
+  <node id='2290583749' timestamp='2013-05-03T16:51:35Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15962719' lat='27.7174074' lon='85.3671186' />
+  <node id='2290583773' timestamp='2013-05-03T16:51:35Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15962719' lat='27.7192238' lon='85.3665517' />
+  <node id='2290583775' timestamp='2013-05-03T16:51:35Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15962719' lat='27.7192884' lon='85.3663866' />
+  <node id='2290583781' timestamp='2013-05-03T16:51:35Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15962719' lat='27.7193535' lon='85.3664238' />
+  <node id='2290583789' timestamp='2013-05-03T16:51:36Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15962719' lat='27.7194099' lon='85.3666099' />
+  <node id='2290583797' timestamp='2013-05-03T16:51:36Z' uid='1286351' user='Bijesh' visible='true' version='1' changeset='15962719' lat='27.7194693' lon='85.3664833' />
+  <node id='2293564611' timestamp='2013-05-06T12:36:50Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15997140' lat='27.6975177' lon='85.3364706' />
+  <node id='2293564614' timestamp='2013-05-06T12:36:50Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15997140' lat='27.6975731' lon='85.3363034' />
+  <node id='2293564618' timestamp='2013-05-06T12:36:50Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15997140' lat='27.6976412' lon='85.3365228' />
+  <node id='2293564626' timestamp='2013-05-06T12:36:50Z' uid='750985' user='Poshan' visible='true' version='1' changeset='15997140' lat='27.6976966' lon='85.3363556' />
+  <node id='2293774335' timestamp='2013-05-06T16:32:59Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='15999819' lat='27.6719203' lon='85.4046664' />
+  <node id='2293774336' timestamp='2013-06-13T05:12:11Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16532846' lat='27.6719324' lon='85.4047695' />
+  <node id='2293774337' timestamp='2013-06-13T05:12:11Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16532846' lat='27.67191' lon='85.4045968' />
+  <node id='2293774341' timestamp='2013-05-06T16:32:59Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='15999819' lat='27.6721294' lon='85.4045709' />
+  <node id='2293774343' timestamp='2013-05-06T16:32:59Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='15999819' lat='27.672149' lon='85.4047294' />
+  <node id='2293870593' timestamp='2013-05-06T17:45:28Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.6726622' lon='85.3311813' />
+  <node id='2293870598' timestamp='2013-05-06T17:45:29Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.6727517' lon='85.3309515' />
+  <node id='2293870600' timestamp='2013-05-06T17:45:31Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.6728687' lon='85.3308893' />
+  <node id='2293870603' timestamp='2013-05-06T17:45:35Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.6729444' lon='85.3308738' />
+  <node id='2293870624' timestamp='2013-05-06T17:45:37Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.6729513' lon='85.3309237' />
+  <node id='2293870626' timestamp='2013-05-06T17:45:41Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.6730693' lon='85.3313012' />
+  <node id='2293906861' timestamp='2013-05-06T18:18:14Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.6723287' lon='85.3384109' />
+  <node id='2293906862' timestamp='2013-07-01T05:14:18Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772952' lat='27.6723353' lon='85.3381215' />
+  <node id='2293906887' timestamp='2013-05-06T18:18:22Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.6724446' lon='85.3384112' />
+  <node id='2293906898' timestamp='2013-07-01T05:14:18Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772952' lat='27.6724512' lon='85.3381329' />
+  <node id='2293906915' timestamp='2013-07-01T05:13:25Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772950' lat='27.6724534' lon='85.3393231' />
+  <node id='2293906926' timestamp='2013-07-01T05:13:25Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772950' lat='27.6724528' lon='85.3391863' />
+  <node id='2293906965' timestamp='2013-05-06T18:18:28Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.67265' lon='85.3393267' />
+  <node id='2293906966' timestamp='2013-05-06T18:18:29Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16000706' lat='27.6726543' lon='85.3391871' />
+  <node id='2294256623' timestamp='2013-05-07T03:23:05Z' uid='750985' user='Poshan' visible='true' version='1' changeset='16005768' lat='27.693131' lon='85.3400825' />
+  <node id='2294256625' timestamp='2013-05-07T03:23:05Z' uid='750985' user='Poshan' visible='true' version='1' changeset='16005768' lat='27.6931792' lon='85.3401737' />
+  <node id='2294256628' timestamp='2013-06-08T06:29:11Z' uid='751081' user='Biplov Bhandari' visible='true' version='2' changeset='16465136' lat='27.6931969' lon='85.3400473' />
+  <node id='2294256630' timestamp='2013-05-07T03:23:05Z' uid='750985' user='Poshan' visible='true' version='1' changeset='16005768' lat='27.6932245' lon='85.3401333' />
+  <node id='2294504415' timestamp='2013-07-01T04:59:53Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772890' lat='27.6633944' lon='85.3393208' />
+  <node id='2294504417' timestamp='2013-07-01T04:59:53Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772890' lat='27.663431' lon='85.3392662' />
+  <node id='2294504420' timestamp='2013-07-01T04:59:53Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772890' lat='27.6634397' lon='85.3394349' />
+  <node id='2294504422' timestamp='2013-07-01T04:59:53Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772890' lat='27.6634653' lon='85.3393739' />
+  <node id='2294504438' timestamp='2013-07-01T04:59:53Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772890' lat='27.6635387' lon='85.3394863' />
+  <node id='2294504453' timestamp='2013-07-01T04:59:53Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772890' lat='27.6636062' lon='85.3393612' />
+  <node id='2295387086' timestamp='2013-05-08T04:03:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16022640' lat='27.7427364' lon='85.3054515' />
+  <node id='2295387087' timestamp='2013-05-08T04:03:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16022640' lat='27.742823' lon='85.3052899' />
+  <node id='2295387091' timestamp='2013-05-08T04:03:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16022640' lat='27.7429784' lon='85.3056192' />
+  <node id='2295387094' timestamp='2013-05-08T04:03:21Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16022640' lat='27.7430705' lon='85.3054654' />
+  <node id='2296895630' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.720274' lon='85.3186722' />
+  <node id='2296895631' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7203368' lon='85.318458' />
+  <node id='2296895632' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7204179' lon='85.3187479' />
+  <node id='2296895633' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7204425' lon='85.3187121' />
+  <node id='2296895634' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7204588' lon='85.3185145' />
+  <node id='2296895635' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7204856' lon='85.3184675' />
+  <node id='2296895638' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7205723' lon='85.3185177' />
+  <node id='2296895639' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7205864' lon='85.3184699' />
+  <node id='2296895641' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7206139' lon='85.3187949' />
+  <node id='2296895643' timestamp='2013-05-09T11:00:52Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7207105' lon='85.3185432' />
+  <node id='2296895686' timestamp='2013-05-09T11:00:53Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7256097' lon='85.3433627' />
+  <node id='2296895692' timestamp='2013-05-09T11:00:53Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7258032' lon='85.3434725' />
+  <node id='2296895694' timestamp='2013-05-09T11:00:53Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.725859' lon='85.3428819' />
+  <node id='2296895704' timestamp='2013-05-09T11:00:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16045761' lat='27.7260173' lon='85.3430344' />
+  <node id='2303740860' timestamp='2013-05-14T12:40:28Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16124968' lat='27.6887141' lon='85.3124139' />
+  <node id='2303740863' timestamp='2013-05-14T12:40:28Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16124968' lat='27.6887327' lon='85.3121859' />
+  <node id='2303740886' timestamp='2013-05-14T12:40:28Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16124968' lat='27.6890448' lon='85.312502' />
+  <node id='2303740891' timestamp='2013-05-14T12:40:28Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16124968' lat='27.689103' lon='85.3122796' />
+  <node id='2303810201' timestamp='2013-05-14T13:58:20Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16125948' lat='27.6944571' lon='85.3074209' />
+  <node id='2303810202' timestamp='2013-05-14T13:58:20Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16125948' lat='27.6944878' lon='85.3073435' />
+  <node id='2303810206' timestamp='2013-05-14T13:58:20Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16125948' lat='27.6945581' lon='85.307472' />
+  <node id='2303810207' timestamp='2013-05-14T13:58:20Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16125948' lat='27.6945675' lon='85.3071423' />
+  <node id='2303810209' timestamp='2013-05-14T13:58:20Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16125948' lat='27.6945923' lon='85.3073186' />
+  <node id='2303810210' timestamp='2013-05-14T13:58:20Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16125948' lat='27.6945934' lon='85.3071555' />
+  <node id='2303810211' timestamp='2013-05-14T13:58:20Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16125948' lat='27.6946003' lon='85.3073656' />
+  <node id='2303810212' timestamp='2013-05-14T13:58:20Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16125948' lat='27.6946145' lon='85.3073296' />
+  <node id='2303810215' timestamp='2013-05-14T13:58:20Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16125948' lat='27.6946461' lon='85.3071819' />
+  <node id='2306396987' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6958107' lon='85.2991103' />
+  <node id='2306396988' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6958333' lon='85.2990713' />
+  <node id='2306396989' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6958562' lon='85.2991439' />
+  <node id='2306396990' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6958654' lon='85.2990154' />
+  <node id='2306396991' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6958672' lon='85.299125' />
+  <node id='2306396992' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6958677' lon='85.2991255' />
+  <node id='2306396995' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6958885' lon='85.2990076' />
+  <node id='2306396999' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6959196' lon='85.2991648' />
+  <node id='2306397001' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6959674' lon='85.2990844' />
+  <node id='2306397002' timestamp='2013-05-16T13:04:01Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16152993' lat='27.6959739' lon='85.2990771' />
+  <node id='2306676937' timestamp='2013-05-16T18:03:38Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16156893' lat='27.6667755' lon='85.3118154' />
+  <node id='2306676939' timestamp='2013-05-16T18:03:38Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16156893' lat='27.6668432' lon='85.3117595' />
+  <node id='2306676944' timestamp='2013-05-16T18:03:38Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16156893' lat='27.6670044' lon='85.3120029' />
+  <node id='2306676945' timestamp='2013-05-16T18:03:38Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16156893' lat='27.6670346' lon='85.3117242' />
+  <node id='2306676947' timestamp='2013-05-16T18:03:38Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16156893' lat='27.6670276' lon='85.311937' />
+  <node id='2306676949' timestamp='2013-05-16T18:03:39Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16156893' lat='27.6672079' lon='85.3117709' />
+  <node id='2306676950' timestamp='2013-05-16T18:03:39Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16156893' lat='27.6672321' lon='85.311838' />
+  <node id='2308181845' timestamp='2013-05-17T13:05:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16167044' lat='27.6771835' lon='85.3102787' />
+  <node id='2308181849' timestamp='2013-05-17T13:05:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16167044' lat='27.6772554' lon='85.3100198' />
+  <node id='2308181855' timestamp='2013-05-17T13:05:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16167044' lat='27.6773842' lon='85.3103552' />
+  <node id='2308181864' timestamp='2013-05-17T13:05:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16167044' lat='27.6774548' lon='85.3100918' />
+  <node id='2308181865' timestamp='2013-05-22T04:20:10Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='2' changeset='16232887' lat='27.6793991' lon='85.307142' />
+  <node id='2308181868' timestamp='2013-05-17T13:05:31Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16167044' lat='27.6794283' lon='85.3070341' />
+  <node id='2308181871' timestamp='2013-05-17T13:05:31Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16167044' lat='27.6794461' lon='85.3072222' />
+  <node id='2308181873' timestamp='2013-05-22T04:20:10Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='2' changeset='16232887' lat='27.6794641' lon='85.3071674' />
+  <node id='2308181911' timestamp='2013-05-17T13:05:31Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16167044' lat='27.6797697' lon='85.3073447' />
+  <node id='2308181912' timestamp='2013-05-17T13:05:31Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16167044' lat='27.6798158' lon='85.3071819' />
+  <node id='2311097695' timestamp='2013-05-19T11:56:10Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16192616' lat='27.6836379' lon='85.3029507' />
+  <node id='2311097696' timestamp='2013-05-19T11:56:10Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16192616' lat='27.683676' lon='85.3027977' />
+  <node id='2311097701' timestamp='2013-05-19T11:56:10Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16192616' lat='27.6838693' lon='85.3029744' />
+  <node id='2311097702' timestamp='2013-05-19T11:56:10Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16192616' lat='27.6838798' lon='85.3028037' />
+  <node id='2311499083' timestamp='2013-05-19T16:15:51Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16195434' lat='27.6717656' lon='85.3329372' />
+  <node id='2311499084' timestamp='2013-07-01T04:38:20Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772800' lat='27.6717471' lon='85.3330689' />
+  <node id='2311499086' timestamp='2013-07-01T04:38:20Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772800' lat='27.6718058' lon='85.332967' />
+  <node id='2311499087' timestamp='2013-07-01T04:38:20Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772800' lat='27.6718231' lon='85.33311' />
+  <node id='2311499089' timestamp='2013-05-19T16:15:58Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16195434' lat='27.6718292' lon='85.3328514' />
+  <node id='2311499097' timestamp='2013-07-01T04:38:20Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16772800' lat='27.6719217' lon='85.3329376' />
+  <node id='2311644642' timestamp='2013-05-19T17:54:41Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16195434' lat='27.6721992' lon='85.3323443' />
+  <node id='2311644694' timestamp='2013-05-19T17:54:44Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16195434' lat='27.6722707' lon='85.3321762' />
+  <node id='2311644757' timestamp='2013-05-19T17:54:45Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16195434' lat='27.6723008' lon='85.3323922' />
+  <node id='2311644834' timestamp='2013-05-19T17:54:47Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16195434' lat='27.6723698' lon='85.3322335' />
+  <node id='2314627454' timestamp='2013-05-21T14:57:24Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16225417' lat='27.6944749' lon='85.2841708' />
+  <node id='2314627455' timestamp='2013-05-21T14:57:24Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16225417' lat='27.6944772' lon='85.2842809' />
+  <node id='2314627464' timestamp='2013-05-21T14:57:24Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16225417' lat='27.6945381' lon='85.284354' />
+  <node id='2314627466' timestamp='2013-05-21T14:57:24Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16225417' lat='27.6945915' lon='85.2839445' />
+  <node id='2314627470' timestamp='2013-05-21T14:57:24Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16225417' lat='27.6946402' lon='85.2842009' />
+  <node id='2314627474' timestamp='2013-05-21T14:57:25Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16225417' lat='27.6947011' lon='85.2842559' />
+  <node id='2314627477' timestamp='2013-05-21T14:57:25Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16225417' lat='27.6947865' lon='85.2841226' />
+  <node id='2316603955' timestamp='2013-05-23T01:10:15Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16246260' lat='27.6672508' lon='85.3063734' />
+  <node id='2316603957' timestamp='2013-05-23T01:10:15Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16246260' lat='27.6672961' lon='85.3061578' />
+  <node id='2316603972' timestamp='2013-05-23T01:10:15Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16246260' lat='27.6674329' lon='85.3064008' />
+  <node id='2316603975' timestamp='2013-05-23T01:10:15Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16246260' lat='27.6674914' lon='85.3061528' />
+  <node id='2316914218' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7489057' lon='85.3307773' />
+  <node id='2316914222' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7489554' lon='85.3308952' />
+  <node id='2316914224' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7489829' lon='85.3308381' />
+  <node id='2316914226' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7490009' lon='85.3306627' />
+  <node id='2316914235' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7491141' lon='85.330881' />
+  <node id='2316914236' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7491416' lon='85.3307531' />
+  <node id='2316914237' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7492128' lon='85.3310565' />
+  <node id='2316914238' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7492936' lon='85.3309615' />
+  <node id='2316914239' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7503802' lon='85.3334117' />
+  <node id='2316914244' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7504517' lon='85.3335761' />
+  <node id='2316914247' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.7505195' lon='85.3333343' />
+  <node id='2316914250' timestamp='2013-05-23T10:44:54Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16250424' lat='27.750591' lon='85.3334987' />
+  <node id='2317295166' timestamp='2013-05-23T16:18:14Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16254635' lat='27.6668096' lon='85.3163256' />
+  <node id='2317295167' timestamp='2013-05-23T16:18:14Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16254635' lat='27.6667983' lon='85.3165697' />
+  <node id='2317295174' timestamp='2013-05-23T16:18:14Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16254635' lat='27.667035' lon='85.3163558' />
+  <node id='2317295175' timestamp='2013-05-23T16:18:14Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16254635' lat='27.6670196' lon='85.3165883' />
+  <node id='2317885516' timestamp='2013-05-24T05:05:23Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16260489' lat='27.6916658' lon='85.2833109' />
+  <node id='2317885517' timestamp='2013-05-24T05:05:23Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16260489' lat='27.6916769' lon='85.2833658' />
+  <node id='2317885518' timestamp='2013-05-24T05:05:23Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16260489' lat='27.691682' lon='85.2832044' />
+  <node id='2317885522' timestamp='2013-05-24T05:05:23Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16260489' lat='27.6917256' lon='85.2834036' />
+  <node id='2317885523' timestamp='2013-05-24T05:05:23Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16260489' lat='27.691756' lon='85.283446' />
+  <node id='2317885535' timestamp='2013-05-24T05:05:23Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16260489' lat='27.6919142' lon='85.2834437' />
+  <node id='2317885536' timestamp='2013-05-24T05:05:23Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16260489' lat='27.6919162' lon='85.2832158' />
+  <node id='2318170192' timestamp='2013-05-24T10:30:04Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6861784' lon='85.2947292' />
+  <node id='2318170194' timestamp='2013-05-24T10:30:04Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6861998' lon='85.294579' />
+  <node id='2318170198' timestamp='2013-05-24T10:30:04Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6863372' lon='85.2947546' />
+  <node id='2318170199' timestamp='2013-05-24T10:30:04Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6863654' lon='85.2945663' />
+  <node id='2318170325' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6933244' lon='85.2910069' />
+  <node id='2318170326' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6933424' lon='85.2908962' />
+  <node id='2318170328' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6934243' lon='85.2908324' />
+  <node id='2318170329' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6934574' lon='85.2910336' />
+  <node id='2318170330' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6934923' lon='85.290892' />
+  <node id='2318170331' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6935069' lon='85.2909446' />
+  <node id='2318170332' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6935711' lon='85.2909993' />
+  <node id='2318170333' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6936641' lon='85.2910613' />
+  <node id='2318170334' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6936692' lon='85.2910133' />
+  <node id='2318170335' timestamp='2013-05-24T10:30:06Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6937396' lon='85.2910715' />
+  <node id='2318170336' timestamp='2013-05-24T10:30:07Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16263475' lat='27.6937446' lon='85.2910234' />
+  <node id='2319779724' timestamp='2013-05-25T16:54:30Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16281884' lat='27.6616011' lon='85.3167098' />
+  <node id='2319779726' timestamp='2013-05-25T16:54:30Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16281884' lat='27.6616416' lon='85.3169157' />
+  <node id='2319779728' timestamp='2013-05-25T16:54:30Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16281884' lat='27.661713' lon='85.3166817' />
+  <node id='2319779731' timestamp='2013-05-25T16:54:30Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16281884' lat='27.6617535' lon='85.3168876' />
+  <node id='2320655764' timestamp='2013-05-26T13:18:29Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16293289' lat='27.7380416' lon='85.3080681' />
+  <node id='2320655769' timestamp='2013-05-26T13:18:29Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16293289' lat='27.7381148' lon='85.3079237' />
+  <node id='2320655773' timestamp='2013-05-26T13:18:29Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16293289' lat='27.7381651' lon='85.3081543' />
+  <node id='2320655777' timestamp='2013-05-26T13:18:29Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16293289' lat='27.7382346' lon='85.3080112' />
+  <node id='2321897928' timestamp='2013-05-27T12:44:44Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309162' lat='27.6400148' lon='85.3181003' />
+  <node id='2321897938' timestamp='2013-05-27T12:44:44Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309162' lat='27.6400689' lon='85.3181702' />
+  <node id='2321897943' timestamp='2013-05-27T12:44:44Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309162' lat='27.6400873' lon='85.3183057' />
+  <node id='2321897947' timestamp='2013-05-27T12:44:44Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309162' lat='27.6401071' lon='85.3182342' />
+  <node id='2321897957' timestamp='2013-05-27T12:44:44Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309162' lat='27.6401751' lon='85.3183921' />
+  <node id='2321897965' timestamp='2013-05-27T12:44:44Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309162' lat='27.6402815' lon='85.318435' />
+  <node id='2321897966' timestamp='2013-05-27T12:44:44Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309162' lat='27.6402996' lon='85.3180645' />
+  <node id='2321897968' timestamp='2013-05-27T12:44:44Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309162' lat='27.6403188' lon='85.31827' />
+  <node id='2321901081' timestamp='2013-05-27T12:50:31Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309232' lat='27.6356483' lon='85.3193086' />
+  <node id='2321901083' timestamp='2013-05-27T12:50:31Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309232' lat='27.6357209' lon='85.3190868' />
+  <node id='2321901093' timestamp='2013-05-27T12:50:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309232' lat='27.6357835' lon='85.3193734' />
+  <node id='2321901096' timestamp='2013-05-27T12:50:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309232' lat='27.6358461' lon='85.3191315' />
+  <node id='2321901097' timestamp='2013-05-27T12:50:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309232' lat='27.6375528' lon='85.3182598' />
+  <node id='2321901098' timestamp='2013-05-27T12:50:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309232' lat='27.6375458' lon='85.3183524' />
+  <node id='2321901100' timestamp='2013-05-27T12:50:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309232' lat='27.6375864' lon='85.3183659' />
+  <node id='2321901106' timestamp='2013-05-27T12:50:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309232' lat='27.6377291' lon='85.3182103' />
+  <node id='2321901111' timestamp='2013-05-27T12:50:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16309232' lat='27.6378114' lon='85.3184163' />
+  <node id='2321901113' timestamp='2013-06-12T08:57:10Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16521006' lat='27.637847' lon='85.3182306' />
+  <node id='2321906132' timestamp='2013-05-27T12:55:37Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16309298' lat='27.7413118' lon='85.321953' />
+  <node id='2321906139' timestamp='2013-05-27T12:55:37Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16309298' lat='27.7414235' lon='85.3216514' />
+  <node id='2321906140' timestamp='2013-05-27T12:55:37Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16309298' lat='27.7414425' lon='85.3220317' />
+  <node id='2321906143' timestamp='2013-05-27T12:55:37Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16309298' lat='27.7415447' lon='85.3217167' />
+  <node id='2322097550' timestamp='2013-05-27T16:28:33Z' uid='647540' user='sures' visible='true' version='1' changeset='16312105' lat='27.7055061' lon='85.3414318' />
+  <node id='2322097551' timestamp='2013-05-27T16:28:33Z' uid='647540' user='sures' visible='true' version='1' changeset='16312105' lat='27.7055438' lon='85.3414586' />
+  <node id='2322097552' timestamp='2013-05-27T16:28:33Z' uid='647540' user='sures' visible='true' version='1' changeset='16312105' lat='27.7055463' lon='85.3413261' />
+  <node id='2322097553' timestamp='2013-05-27T16:28:33Z' uid='647540' user='sures' visible='true' version='1' changeset='16312105' lat='27.7055881' lon='85.341479' />
+  <node id='2322097554' timestamp='2013-05-27T16:28:33Z' uid='647540' user='sures' visible='true' version='1' changeset='16312105' lat='27.7055922' lon='85.3413447' />
+  <node id='2322097557' timestamp='2013-05-27T16:28:33Z' uid='647540' user='sures' visible='true' version='1' changeset='16312105' lat='27.7056349' lon='85.3413669' />
+  <node id='2322097560' timestamp='2013-05-27T16:28:33Z' uid='647540' user='sures' visible='true' version='1' changeset='16312105' lat='27.7057111' lon='85.3414003' />
+  <node id='2322097561' timestamp='2013-05-27T16:28:33Z' uid='647540' user='sures' visible='true' version='1' changeset='16312105' lat='27.7057374' lon='85.3415374' />
+  <node id='2322097562' timestamp='2013-05-27T16:28:33Z' uid='647540' user='sures' visible='true' version='1' changeset='16312105' lat='27.7057841' lon='85.3414364' />
+  <node id='2322097563' timestamp='2013-06-04T08:35:53Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16416714' lat='27.7058152' lon='85.3415642' />
+  <node id='2322097564' timestamp='2013-06-04T08:35:53Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16416714' lat='27.7058439' lon='85.34146' />
+  <node id='2323066999' timestamp='2013-05-28T12:52:49Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16322428' lat='27.6810674' lon='85.326108' />
+  <node id='2323067000' timestamp='2013-05-28T12:52:50Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16322428' lat='27.6810882' lon='85.3259041' />
+  <node id='2323067029' timestamp='2013-05-28T12:52:59Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16322428' lat='27.681209' lon='85.3261767' />
+  <node id='2323067030' timestamp='2013-05-28T12:52:59Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16322428' lat='27.6812445' lon='85.325906' />
+  <node id='2323931378' timestamp='2013-05-29T05:24:14Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16332906' lat='27.6858754' lon='85.3204735' />
+  <node id='2323931384' timestamp='2013-05-29T05:24:22Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16332906' lat='27.6859437' lon='85.3205125' />
+  <node id='2323931385' timestamp='2013-05-29T05:24:22Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16332906' lat='27.6859459' lon='85.3203302' />
+  <node id='2323931389' timestamp='2013-05-29T05:24:25Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16332906' lat='27.6860106' lon='85.3203745' />
+  <node id='2323970157' timestamp='2013-05-29T06:50:34Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16333638' lat='27.6478217' lon='85.3297695' />
+  <node id='2323970159' timestamp='2013-05-29T06:50:34Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16333638' lat='27.647886' lon='85.3296257' />
+  <node id='2323970161' timestamp='2013-05-29T06:50:34Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16333638' lat='27.6479009' lon='85.3298147' />
+  <node id='2323970163' timestamp='2013-05-29T06:50:34Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16333638' lat='27.6479652' lon='85.3296709' />
+  <node id='2325432150' timestamp='2013-05-30T12:11:54Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16350838' lat='27.6625013' lon='85.3368387' />
+  <node id='2325432151' timestamp='2013-05-30T12:11:54Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16350838' lat='27.6625022' lon='85.3369466' />
+  <node id='2325432152' timestamp='2013-05-30T12:11:54Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16350838' lat='27.6625522' lon='85.3366664' />
+  <node id='2325432153' timestamp='2013-05-30T12:11:54Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16350838' lat='27.6625536' lon='85.3368382' />
+  <node id='2325432155' timestamp='2013-05-30T12:11:54Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16350838' lat='27.6626173' lon='85.3366558' />
+  <node id='2325432156' timestamp='2013-05-30T12:11:54Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16350838' lat='27.6626184' lon='85.3368041' />
+  <node id='2325432161' timestamp='2013-05-30T12:11:55Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16350838' lat='27.6626836' lon='85.3368034' />
+  <node id='2325432164' timestamp='2013-05-30T12:11:55Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16350838' lat='27.6626847' lon='85.3369448' />
+  <node id='2325604096' timestamp='2013-05-30T13:58:44Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16352056' lat='27.7001397' lon='85.2958128' />
+  <node id='2325604101' timestamp='2013-05-30T13:58:44Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16352056' lat='27.7001886' lon='85.2956129' />
+  <node id='2325604141' timestamp='2013-05-30T13:58:45Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16352056' lat='27.7003834' lon='85.2958889' />
+  <node id='2325604145' timestamp='2013-05-30T13:58:45Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16352056' lat='27.7004323' lon='85.295689' />
+  <node id='2330167400' timestamp='2013-06-03T02:04:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16400243' lat='27.6636433' lon='85.3364624' />
+  <node id='2330167401' timestamp='2013-06-03T02:04:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16400243' lat='27.663663' lon='85.3362742' />
+  <node id='2330167404' timestamp='2013-06-03T02:04:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16400243' lat='27.6637264' lon='85.3362374' />
+  <node id='2330167405' timestamp='2013-06-03T02:04:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16400243' lat='27.6637781' lon='85.3364955' />
+  <node id='2330167407' timestamp='2013-06-03T02:04:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16400243' lat='27.6638056' lon='85.3363764' />
+  <node id='2330167409' timestamp='2013-06-03T02:04:32Z' uid='1396340' user='shahasan' visible='true' version='1' changeset='16400243' lat='27.6638205' lon='85.3362647' />
+  <node id='2330738774' timestamp='2013-06-11T05:52:40Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16505401' lat='27.6162525' lon='85.3551505' />
+  <node id='2330738775' timestamp='2013-06-11T05:52:40Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16505401' lat='27.6163044' lon='85.3552296' />
+  <node id='2330738776' timestamp='2013-06-11T05:52:40Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16505401' lat='27.6163043' lon='85.3551072' />
+  <node id='2330738777' timestamp='2013-06-11T05:52:40Z' uid='1034219' user='shrijana' visible='true' version='2' changeset='16505401' lat='27.6163562' lon='85.3551864' />
+  <node id='2330850502' timestamp='2013-06-03T18:04:45Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16410308' lat='27.6492762' lon='85.3594202' />
+  <node id='2330850505' timestamp='2013-06-03T18:04:46Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16410308' lat='27.6492912' lon='85.3592732' />
+  <node id='2330850530' timestamp='2013-06-03T18:04:50Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16410308' lat='27.6493608' lon='85.3592809' />
+  <node id='2330850535' timestamp='2013-06-03T18:04:53Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16410308' lat='27.6494233' lon='85.3594392' />
+  <node id='2330850537' timestamp='2013-06-03T18:04:54Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16410308' lat='27.6494383' lon='85.3592894' />
+  <node id='2332813451' timestamp='2013-06-05T08:23:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16428759' lat='27.7396288' lon='85.3297706' />
+  <node id='2332813454' timestamp='2013-06-05T08:23:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16428759' lat='27.739697' lon='85.3296479' />
+  <node id='2332813470' timestamp='2013-06-05T08:23:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16428759' lat='27.7397737' lon='85.3298522' />
+  <node id='2332813475' timestamp='2013-06-05T08:23:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16428759' lat='27.73984' lon='85.3297405' />
+  <node id='2332813493' timestamp='2013-06-05T08:23:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16428759' lat='27.7413561' lon='85.3324136' />
+  <node id='2332813495' timestamp='2013-06-05T08:23:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16428759' lat='27.741443' lon='85.332233' />
+  <node id='2332813497' timestamp='2013-06-05T08:23:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16428759' lat='27.7414747' lon='85.3324866' />
+  <node id='2332813500' timestamp='2013-06-05T08:23:38Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16428759' lat='27.7415531' lon='85.3322964' />
+  <node id='2334339660' timestamp='2013-06-06T11:44:27Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16443882' lat='27.7487448' lon='85.3261645' />
+  <node id='2334339662' timestamp='2013-06-06T11:44:27Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16443882' lat='27.7487667' lon='85.3260166' />
+  <node id='2334339668' timestamp='2013-06-06T11:44:27Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16443882' lat='27.7488505' lon='85.3261801' />
+  <node id='2334339669' timestamp='2013-06-06T11:44:27Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='1' changeset='16443882' lat='27.7488664' lon='85.3260386' />
+  <node id='2337220207' timestamp='2013-06-08T15:38:17Z' uid='647540' user='sures' visible='true' version='1' changeset='16470284' lat='27.6244376' lon='85.319214' />
+  <node id='2337220211' timestamp='2013-06-08T15:38:17Z' uid='647540' user='sures' visible='true' version='1' changeset='16470284' lat='27.6244949' lon='85.3189789' />
+  <node id='2337220220' timestamp='2013-06-08T15:38:17Z' uid='647540' user='sures' visible='true' version='1' changeset='16470284' lat='27.624562' lon='85.3189934' />
+  <node id='2337220223' timestamp='2013-06-08T15:38:17Z' uid='647540' user='sures' visible='true' version='1' changeset='16470284' lat='27.6245758' lon='85.319223' />
+  <node id='2337220226' timestamp='2013-06-08T15:38:17Z' uid='647540' user='sures' visible='true' version='1' changeset='16470284' lat='27.6246222' lon='85.3190101' />
+  <node id='2338010756' timestamp='2013-06-09T10:37:52Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7052962' lon='85.3014892' />
+  <node id='2338010757' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7052974' lon='85.3013243' />
+  <node id='2338010762' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7054213' lon='85.3014878' />
+  <node id='2338010763' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7054262' lon='85.3013271' />
+  <node id='2338010764' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7118215' lon='85.294749' />
+  <node id='2338010765' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7118323' lon='85.2946302' />
+  <node id='2338010766' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7119092' lon='85.2947764' />
+  <node id='2338010767' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7119335' lon='85.2946515' />
+  <node id='2338010768' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7119896' lon='85.2947964' />
+  <node id='2338010769' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7120139' lon='85.2946714' />
+  <node id='2338010770' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7120279' lon='85.2948069' />
+  <node id='2338010771' timestamp='2013-06-09T10:37:53Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16479678' lat='27.7120508' lon='85.2946789' />
+  <node id='2338442493' timestamp='2013-06-09T17:59:58Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16485936' lat='27.6896631' lon='85.3243606' />
+  <node id='2338442496' timestamp='2013-06-09T17:59:58Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16485936' lat='27.689724' lon='85.3240974' />
+  <node id='2338442514' timestamp='2013-06-09T17:59:59Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16485936' lat='27.6898421' lon='85.3244088' />
+  <node id='2338442518' timestamp='2013-06-09T17:59:59Z' uid='864593' user='Sazal(Solaris)' visible='true' version='1' changeset='16485936' lat='27.6899076' lon='85.3241456' />
+  <node id='2342018500' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6820938' lon='85.363929' />
+  <node id='2342018501' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6821087' lon='85.3636174' />
+  <node id='2342018502' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6821501' lon='85.3634135' />
+  <node id='2342018503' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6821745' lon='85.364003' />
+  <node id='2342018504' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6821938' lon='85.3636901' />
+  <node id='2342018505' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6822085' lon='85.3640381' />
+  <node id='2342018506' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6822145' lon='85.3634771' />
+  <node id='2342018507' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6822226' lon='85.3640693' />
+  <node id='2342018508' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6822697' lon='85.3640329' />
+  <node id='2342018510' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6823318' lon='85.363629' />
+  <node id='2342018512' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.682379' lon='85.3639849' />
+  <node id='2342018515' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6824204' lon='85.3637381' />
+  <node id='2342018516' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6824273' lon='85.3640771' />
+  <node id='2342018520' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.682509' lon='85.3637615' />
+  <node id='2342018522' timestamp='2013-06-12T14:03:32Z' uid='647540' user='sures' visible='true' version='1' changeset='16524321' lat='27.6825458' lon='85.3639927' />
+  <node id='2342125831' timestamp='2013-06-12T16:20:23Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6185177' lon='85.3545087' />
+  <node id='2342125833' timestamp='2013-06-12T16:20:23Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6185542' lon='85.3546862' />
+  <node id='2342125839' timestamp='2013-06-12T16:20:23Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6186744' lon='85.3545075' />
+  <node id='2342125857' timestamp='2013-06-12T16:20:23Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.618848' lon='85.3543988' />
+  <node id='2342125866' timestamp='2013-06-12T16:20:23Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6189041' lon='85.3544929' />
+  <node id='2342125868' timestamp='2013-06-12T16:20:23Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6189328' lon='85.3545655' />
+  <node id='2342196381' timestamp='2013-06-12T17:17:02Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6331706' lon='85.3434321' />
+  <node id='2342196382' timestamp='2013-06-12T17:17:02Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6332003' lon='85.3435111' />
+  <node id='2342196383' timestamp='2013-06-12T17:17:02Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6332186' lon='85.3435624' />
+  <node id='2342196386' timestamp='2013-06-12T17:17:02Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6333055' lon='85.3433675' />
+  <node id='2342196388' timestamp='2013-06-12T17:17:02Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6333586' lon='85.3433398' />
+  <node id='2342196389' timestamp='2013-06-12T17:17:02Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16526005' lat='27.6334066' lon='85.3434655' />
+  <node id='2351341454' timestamp='2013-06-18T16:25:57Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16605815' lat='27.6463125' lon='85.3307782' />
+  <node id='2351341456' timestamp='2013-06-18T16:25:57Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16605815' lat='27.6464014' lon='85.3306222' />
+  <node id='2351341459' timestamp='2013-06-18T16:25:57Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16605815' lat='27.6464282' lon='85.3308736' />
+  <node id='2351341461' timestamp='2013-06-18T16:25:57Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16605815' lat='27.6465031' lon='85.3306573' />
+  <node id='2351827730' timestamp='2013-06-19T05:35:09Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16612635' lat='27.6576453' lon='85.3212155' />
+  <node id='2351827734' timestamp='2013-06-19T05:35:15Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16612635' lat='27.657754' lon='85.3208713' />
+  <node id='2351827737' timestamp='2013-06-19T05:35:17Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16612635' lat='27.6578123' lon='85.3212708' />
+  <node id='2351827739' timestamp='2013-06-19T05:35:18Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16612635' lat='27.6578551' lon='85.3211792' />
+  <node id='2351827740' timestamp='2013-06-19T05:35:20Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16612635' lat='27.6578659' lon='85.3210477' />
+  <node id='2351827741' timestamp='2013-06-19T05:35:21Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16612635' lat='27.6578812' lon='85.3209076' />
+  <node id='2351827742' timestamp='2013-06-19T05:35:21Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16612635' lat='27.6579088' lon='85.3212155' />
+  <node id='2351827743' timestamp='2013-06-19T05:35:21Z' uid='717666' user='Binod Humagain' visible='true' version='1' changeset='16612635' lat='27.6579409' lon='85.3211186' />
+  <node id='2358156209' timestamp='2013-06-24T04:43:02Z' uid='1577075' user='Dark SKY' visible='true' version='1' changeset='16678526' lat='27.6674684' lon='85.3062504' />
+  <node id='2358166086' timestamp='2013-06-24T06:35:13Z' uid='1577075' user='Dark SKY' visible='true' version='2' changeset='16679223' lat='27.6674692' lon='85.3063019' />
+  <node id='2365760066' timestamp='2013-06-29T14:38:53Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16750643' lat='27.6917937' lon='85.371167' />
+  <node id='2365760073' timestamp='2013-06-29T14:38:53Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16750643' lat='27.6919507' lon='85.3704194' />
+  <node id='2365760077' timestamp='2013-06-29T14:38:53Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16750643' lat='27.6919357' lon='85.3712067' />
+  <node id='2365760081' timestamp='2013-06-29T14:38:53Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16750643' lat='27.6920989' lon='85.3704615' />
+  <node id='2374510813' timestamp='2013-07-05T05:56:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16830460' lat='27.6287153' lon='85.3275916' />
+  <node id='2374510816' timestamp='2013-07-05T05:56:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16830460' lat='27.6287132' lon='85.3276789' />
+  <node id='2374510818' timestamp='2013-07-05T05:56:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16830460' lat='27.6288' lon='85.3275942' />
+  <node id='2374510819' timestamp='2013-07-05T05:56:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16830460' lat='27.628798' lon='85.3276814' />
+  <node id='2374532972' timestamp='2013-07-05T06:49:09Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16831133' lat='27.7380986' lon='85.3503083' />
+  <node id='2374532973' timestamp='2013-07-05T06:49:09Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16831133' lat='27.7381835' lon='85.3502226' />
+  <node id='2374532974' timestamp='2013-07-05T06:49:09Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16831133' lat='27.7381869' lon='85.3504164' />
+  <node id='2374532975' timestamp='2013-07-05T06:49:09Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16831133' lat='27.7382718' lon='85.350343' />
+  <way id='178772719' timestamp='2013-04-11T11:50:40Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='15688879'>
+    <nd ref='1891344078' />
+    <nd ref='1891344169' />
+    <nd ref='1891344240' />
+    <nd ref='1891344181' />
+    <nd ref='1891344137' />
+    <nd ref='1891344098' />
+    <nd ref='1891344078' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Paradise Montessori' />
+    <tag k='personnel' v='7' />
+    <tag k='students' v='27' />
+  </way>
+  <way id='179100528' timestamp='2013-05-30T06:24:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16347056'>
+    <nd ref='1894398559' />
+    <nd ref='1894398558' />
+    <nd ref='1894398556' />
+    <nd ref='1894398555' />
+    <nd ref='1894398550' />
+    <nd ref='1894398552' />
+    <nd ref='1894398553' />
+    <nd ref='1894398554' />
+    <nd ref='1894398559' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='primary' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Kid&apos;s merryland school' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='100' />
+  </way>
+  <way id='181689163' timestamp='2013-05-17T09:15:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16164240'>
+    <nd ref='1921084856' />
+    <nd ref='1921084901' />
+    <nd ref='1921084899' />
+    <nd ref='1921084855' />
+    <nd ref='1921084856' />
+    <tag k='addr:city' v='Kathmandu' />
+    <tag k='addr:country' v='NP' />
+    <tag k='addr:postcode' v='Ward TBD' />
+    <tag k='addr:street' v='TBD' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building' v='yes' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Kids Wonderland' />
+    <tag k='personnel' v='7' />
+    <tag k='students' v='80' />
+  </way>
+  <way id='207427061' timestamp='2013-07-05T09:30:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16833076'>
+    <nd ref='2176821483' />
+    <nd ref='2176821470' />
+    <nd ref='2176821472' />
+    <nd ref='2176821490' />
+    <nd ref='2176821483' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building' v='kindergarten' />
+    <tag k='building:age' v='1990-2000' />
+    <tag k='building:bay:x' v='3' />
+    <tag k='building:bay:y' v='2' />
+    <tag k='building:condition' v='Average' />
+    <tag k='building:floor_material' v='RCC/RBC' />
+    <tag k='building:floor_material:others' v='' />
+    <tag k='building:level' v='4' />
+    <tag k='building:neighbour' v='Free_Standing' />
+    <tag k='building:overhang' v='No' />
+    <tag k='building:owner' v='Rent' />
+    <tag k='building:retrofit' v='No' />
+    <tag k='building:roof_material' v='RCC/RBC' />
+    <tag k='building:roof_material:others' v='' />
+    <tag k='building:roof_slope' v='Flat' />
+    <tag k='building:roof_slope:others' v='' />
+    <tag k='building:shape:elevation' v='Setback' />
+    <tag k='building:shape:plan' v='Rectangular' />
+    <tag k='building:soft_storey' v='Yes' />
+    <tag k='building:structure' v='Load_Bearing_Brick_Wall_in_Cement_Mortar' />
+    <tag k='building:structure:others' v='' />
+    <tag k='building_count' v='1' />
+    <tag k='column:size' v='' />
+    <tag k='earthquake_resistant_element' v='No' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Rosemary Montessori School' />
+    <tag k='occupants:day' v='8' />
+    <tag k='occupants:evening' v='5' />
+    <tag k='occupants:morning' v='5' />
+    <tag k='occupants:night' v='5' />
+    <tag k='oid' v='1' />
+    <tag k='operator' v='Rosemary Montessori School' />
+    <tag k='personnel' v='2' />
+    <tag k='students' v='4' />
+  </way>
+  <way id='209124588' timestamp='2013-07-09T05:41:32Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='16882537'>
+    <nd ref='2193592820' />
+    <nd ref='2193592814' />
+    <nd ref='2193592817' />
+    <nd ref='2193592823' />
+    <nd ref='2193592820' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building' v='kindergarten' />
+    <tag k='building:age' v='1960-1990' />
+    <tag k='building:bay:x' v='1' />
+    <tag k='building:bay:y' v='1' />
+    <tag k='building:condition' v='Average' />
+    <tag k='building:floor_material' v='Wood' />
+    <tag k='building:floor_material:others' v='' />
+    <tag k='building:level' v='3' />
+    <tag k='building:neighbour' v='Free_Standing' />
+    <tag k='building:overhang' v='No' />
+    <tag k='building:owner' v='Rent' />
+    <tag k='building:retrofit' v='No' />
+    <tag k='building:roof_material' v='RCC/RBC' />
+    <tag k='building:roof_material:others' v='' />
+    <tag k='building:roof_slope' v='Flat' />
+    <tag k='building:roof_slope:others' v='' />
+    <tag k='building:shape:elevation' v='Setback' />
+    <tag k='building:shape:plan' v='L-Shaped' />
+    <tag k='building:soft_storey' v='No' />
+    <tag k='building:structure' v='Load_Bearing_Brick_Wall_in_Cement_Mortar' />
+    <tag k='building:structure:others' v='' />
+    <tag k='building_count' v='1' />
+    <tag k='column:size' v='' />
+    <tag k='earthquake_resistant_element' v='No' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Smriti Child Care and Kindergarten' />
+    <tag k='occupants:day' v='61' />
+    <tag k='occupants:evening' v='1' />
+    <tag k='occupants:morning' v='1' />
+    <tag k='occupants:night' v='1' />
+    <tag k='personnel' v='11' />
+    <tag k='students' v='50' />
+  </way>
+  <way id='215212427' timestamp='2013-04-17T10:41:58Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='15761125'>
+    <nd ref='2246184607' />
+    <nd ref='2246184606' />
+    <nd ref='2246184604' />
+    <nd ref='2246184592' />
+    <nd ref='2246184594' />
+    <nd ref='2246184602' />
+    <nd ref='2246184607' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='MaitiDevi Kindergarten' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='100' />
+  </way>
+  <way id='216443375' timestamp='2013-07-30T11:00:41Z' uid='1068220' user='Helina' visible='true' version='3' changeset='17151279'>
+    <nd ref='2257882445' />
+    <nd ref='2257882440' />
+    <nd ref='2257882447' />
+    <nd ref='2257882438' />
+    <nd ref='2257882458' />
+    <nd ref='2257882463' />
+    <nd ref='2257882460' />
+    <nd ref='2257882445' />
+    <tag k='addr:city' v='Bhatbhateni' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Kopila Cottage pre-school' />
+    <tag k='phone' v='01-4414509' />
+  </way>
+  <way id='216612425' timestamp='2013-04-16T04:02:09Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15744580'>
+    <nd ref='2260053442' />
+    <nd ref='2260053438' />
+    <nd ref='2260053437' />
+    <nd ref='2260053439' />
+    <nd ref='2260053441' />
+    <nd ref='2260053442' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Learnhub primary School' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='40' />
+  </way>
+  <way id='216931871' timestamp='2013-04-12T05:49:18Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15697225'>
+    <nd ref='2262475153' />
+    <nd ref='2262475158' />
+    <nd ref='2262475155' />
+    <nd ref='2262475150' />
+    <nd ref='2262475151' />
+    <nd ref='2262475153' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Mother Goose Day Care Centre and School' />
+    <tag k='personnel' v='12' />
+    <tag k='students' v='35' />
+  </way>
+  <way id='216935007' timestamp='2013-04-11T10:48:07Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15688249'>
+    <nd ref='2262531980' />
+    <nd ref='2262531982' />
+    <nd ref='2262531978' />
+    <nd ref='2262531976' />
+    <nd ref='2262531980' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Drion Pre School' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='65' />
+  </way>
+  <way id='216940428' timestamp='2013-04-12T02:43:36Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15696436'>
+    <nd ref='2262602790' />
+    <nd ref='2262602788' />
+    <nd ref='2262602789' />
+    <nd ref='2262602791' />
+    <nd ref='2262602790' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Mom House' />
+    <tag k='personnel' v='15' />
+    <tag k='students' v='50' />
+  </way>
+  <way id='217533471' timestamp='2013-04-15T12:41:14Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15736834'>
+    <nd ref='2268157465' />
+    <nd ref='2268157480' />
+    <nd ref='2268157485' />
+    <nd ref='2268157468' />
+    <nd ref='2268157465' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Sano Sansar Pre School' />
+    <tag k='personnel' v='5' />
+    <tag k='students' v='30' />
+  </way>
+  <way id='217604909' timestamp='2013-04-17T09:20:17Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15760286'>
+    <nd ref='1895843061' />
+    <nd ref='2268998137' />
+    <nd ref='1895843053' />
+    <nd ref='2268998130' />
+    <nd ref='2268998127' />
+    <nd ref='2268998126' />
+    <nd ref='2268998134' />
+    <nd ref='1895843061' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Tiny Corners Montessori' />
+    <tag k='personnel' v='4' />
+    <tag k='phone' v='4105003' />
+    <tag k='students' v='5' />
+  </way>
+  <way id='217617659' timestamp='2013-04-16T08:24:19Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15746428'>
+    <nd ref='2269132291' />
+    <nd ref='2269132289' />
+    <nd ref='2269132288' />
+    <nd ref='2190999711' />
+    <nd ref='2190999710' />
+    <nd ref='2269132287' />
+    <nd ref='2269132290' />
+    <nd ref='2269132291' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Graceland Montessori' />
+    <tag k='personnel' v='10' />
+    <tag k='phone' v='4372768' />
+    <tag k='students' v='25' />
+  </way>
+  <way id='217620032' timestamp='2013-04-17T07:31:20Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15759286'>
+    <nd ref='2269161784' />
+    <nd ref='2269161773' />
+    <nd ref='2269161771' />
+    <nd ref='2269161772' />
+    <nd ref='2269161770' />
+    <nd ref='2269161775' />
+    <nd ref='2269161780' />
+    <nd ref='2269161786' />
+    <nd ref='2269161789' />
+    <nd ref='2269161787' />
+    <nd ref='2269161788' />
+    <nd ref='2269161784' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Mills Berry Kids World' />
+    <tag k='personnel' v='15' />
+    <tag k='students' v='175' />
+  </way>
+  <way id='217622464' timestamp='2013-04-17T07:31:50Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15759292'>
+    <nd ref='2020287536' />
+    <nd ref='2269206425' />
+    <nd ref='2269206422' />
+    <nd ref='2269206407' />
+    <nd ref='2269206417' />
+    <nd ref='2020287536' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Asian Kids' />
+    <tag k='personnel' v='10' />
+    <tag k='phone' v='01-4422642' />
+    <tag k='students' v='45' />
+  </way>
+  <way id='217623711' timestamp='2013-04-17T11:08:01Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='15761362'>
+    <nd ref='2269238329' />
+    <nd ref='2269238324' />
+    <nd ref='2269238296' />
+    <nd ref='2269238312' />
+    <nd ref='2269238329' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Busy Bees Kindergarten' />
+    <tag k='personnel' v='3' />
+    <tag k='phone' v='+977 01 4419816=1}' />
+    <tag k='source' v='field_visit' />
+    <tag k='students' v='13' />
+  </way>
+  <way id='217631624' timestamp='2013-04-16T13:58:15Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15750360'>
+    <nd ref='2269352036' />
+    <nd ref='2269352047' />
+    <nd ref='2269352049' />
+    <nd ref='2269352050' />
+    <nd ref='2269352038' />
+    <nd ref='2269352036' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Disney International Pre-school' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='56' />
+  </way>
+  <way id='217724759' timestamp='2013-04-17T07:31:42Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15759290'>
+    <nd ref='2270267468' />
+    <nd ref='2270267466' />
+    <nd ref='2270267465' />
+    <nd ref='2270267467' />
+    <nd ref='2270267468' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='primary' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Creative Kids Pre-School' />
+    <tag k='personnel' v='12' />
+    <tag k='phone' v='4821222' />
+    <tag k='students' v='45' />
+  </way>
+  <way id='217724980' timestamp='2013-04-17T09:36:35Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15760461'>
+    <nd ref='2270268872' />
+    <nd ref='2270268869' />
+    <nd ref='2270268870' />
+    <nd ref='2270268866' />
+    <nd ref='2270268854' />
+    <nd ref='2270268861' />
+    <nd ref='2270268872' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Holy Spirit Montessori' />
+    <tag k='personnel' v='6' />
+    <tag k='phone' v='4812323' />
+    <tag k='students' v='27' />
+  </way>
+  <way id='217727678' timestamp='2013-04-17T10:35:53Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15761070'>
+    <nd ref='2270294419' />
+    <nd ref='2270294422' />
+    <nd ref='2185070311' />
+    <nd ref='2185070312' />
+    <nd ref='2185070316' />
+    <nd ref='2185070317' />
+    <nd ref='2185070323' />
+    <nd ref='2185070319' />
+    <nd ref='2270294423' />
+    <nd ref='2270294420' />
+    <nd ref='2270294421' />
+    <nd ref='2270294419' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Darshan Child Care' />
+    <tag k='personnel' v='4' />
+    <tag k='students' v='12' />
+  </way>
+  <way id='219134694' timestamp='2013-05-11T04:20:16Z' uid='647540' user='sures' visible='true' version='6' changeset='16074285'>
+    <nd ref='2283335501' />
+    <nd ref='2283335498' />
+    <nd ref='2283335502' />
+    <nd ref='2284192297' />
+    <nd ref='2283335504' />
+    <nd ref='2283335501' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='community' />
+    <tag k='name' v='Sisu shayar kendra' />
+    <tag k='operator' v='sishu shayar kendra' />
+    <tag k='personnel' v='4' />
+    <tag k='students' v='30' />
+  </way>
+  <way id='219640843' timestamp='2013-05-13T06:23:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16106434'>
+    <nd ref='2287857978' />
+    <nd ref='2287857994' />
+    <nd ref='2287857984' />
+    <nd ref='2287857980' />
+    <nd ref='2287857973' />
+    <nd ref='2287857971' />
+    <nd ref='2287857975' />
+    <nd ref='2287857978' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='4' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Redhon Montessori Pre-School' />
+    <tag k='personnel' v='16' />
+    <tag k='students' v='248' />
+  </way>
+  <way id='219848240' timestamp='2013-05-17T09:43:51Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16164607'>
+    <nd ref='2289814524' />
+    <nd ref='2289814539' />
+    <nd ref='2289814533' />
+    <nd ref='2289814526' />
+    <nd ref='2289814524' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Vision Montessori' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='25' />
+  </way>
+  <way id='219896797' timestamp='2013-05-07T02:18:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16005494'>
+    <nd ref='2290264393' />
+    <nd ref='2290264361' />
+    <nd ref='2290264360' />
+    <nd ref='2290264385' />
+    <nd ref='2290264388' />
+    <nd ref='2290264394' />
+    <nd ref='2290264393' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='International Kindergarden' />
+    <tag k='personnel' v='18' />
+    <tag k='students' v='35' />
+  </way>
+  <way id='219900963' timestamp='2013-05-14T04:22:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16119895'>
+    <nd ref='2290302830' />
+    <nd ref='2290302831' />
+    <nd ref='2290302801' />
+    <nd ref='2290302798' />
+    <nd ref='2290302830' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='ELIPHSS Pre-School' />
+    <tag k='personnel' v='11' />
+    <tag k='students' v='142' />
+  </way>
+  <way id='219928581' timestamp='2013-05-07T06:43:23Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16006745'>
+    <nd ref='2290583749' />
+    <nd ref='2290583745' />
+    <nd ref='2290583740' />
+    <nd ref='2290583742' />
+    <nd ref='2290583749' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Disneyland Pre School' />
+    <tag k='personnel' v='3' />
+    <tag k='students' v='13' />
+  </way>
+  <way id='219928588' timestamp='2013-05-07T06:52:05Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16006807'>
+    <nd ref='2290583781' />
+    <nd ref='2290583775' />
+    <nd ref='2290583773' />
+    <nd ref='2290583789' />
+    <nd ref='2290583797' />
+    <nd ref='2290583781' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Sneha Kids Home' />
+    <tag k='personnel' v='14' />
+    <tag k='students' v='105' />
+  </way>
+  <way id='220227983' timestamp='2013-05-07T02:37:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16005551'>
+    <nd ref='2293564626' />
+    <nd ref='2293564618' />
+    <nd ref='2293564611' />
+    <nd ref='2293564614' />
+    <nd ref='2293564626' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Riverdale International Montessori' />
+    <tag k='personnel' v='17' />
+    <tag k='phone' v='4492098' />
+    <tag k='students' v='50' />
+  </way>
+  <way id='220249313' timestamp='2013-05-07T15:43:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16013210'>
+    <nd ref='2293774341' />
+    <nd ref='2293774337' />
+    <nd ref='2293774335' />
+    <nd ref='2293774336' />
+    <nd ref='2293774343' />
+    <nd ref='2293774341' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Dreamland montessori' />
+    <tag k='personnel' v='6' />
+    <tag k='students' v='30' />
+  </way>
+  <way id='220258409' timestamp='2013-05-09T10:15:00Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16044883'>
+    <nd ref='2293870624' />
+    <nd ref='2293870626' />
+    <nd ref='2293870593' />
+    <nd ref='2293870598' />
+    <nd ref='2293870600' />
+    <nd ref='2293870603' />
+    <nd ref='2293870624' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Early Kids Home' />
+    <tag k='personnel' v='5' />
+    <tag k='phone' v='01-5940840' />
+    <tag k='students' v='8' />
+  </way>
+  <way id='220261443' timestamp='2013-05-09T09:57:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16044594'>
+    <nd ref='2293906926' />
+    <nd ref='2293906915' />
+    <nd ref='2293906965' />
+    <nd ref='2293906966' />
+    <nd ref='2293906926' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Angel&apos;s Kinder World' />
+    <tag k='personnel' v='4' />
+    <tag k='phone' v='01-5536321' />
+    <tag k='students' v='12' />
+  </way>
+  <way id='220261444' timestamp='2013-05-09T09:55:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16044554'>
+    <nd ref='2293906887' />
+    <nd ref='2293906861' />
+    <nd ref='2293906862' />
+    <nd ref='2293906898' />
+    <nd ref='2293906887' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Bhassara Kids Castle' />
+    <tag k='personnel' v='5' />
+    <tag k='phone' v='01-5006236' />
+    <tag k='students' v='27' />
+  </way>
+  <way id='220295670' timestamp='2013-05-08T07:07:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16024263'>
+    <nd ref='2294256628' />
+    <nd ref='2294256623' />
+    <nd ref='2294256625' />
+    <nd ref='2294256630' />
+    <nd ref='2294256628' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Venus Bright Montessori' />
+    <tag k='personnel' v='7' />
+    <tag k='phone' v='4104244' />
+    <tag k='students' v='29' />
+  </way>
+  <way id='220316417' timestamp='2013-05-09T10:24:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16045071'>
+    <nd ref='2294504415' />
+    <nd ref='2294504422' />
+    <nd ref='2294504420' />
+    <nd ref='2294504438' />
+    <nd ref='2294504453' />
+    <nd ref='2294504417' />
+    <nd ref='2294504415' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Trillium Kindergarten' />
+    <tag k='personnel' v='3' />
+    <tag k='phone' v='01-5203639' />
+    <tag k='students' v='5' />
+  </way>
+  <way id='220414609' timestamp='2013-05-14T06:09:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16120587'>
+    <nd ref='2295387087' />
+    <nd ref='2295387094' />
+    <nd ref='2295387091' />
+    <nd ref='2295387086' />
+    <nd ref='2295387087' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Rajan Memorial Pre-School' />
+    <tag k='personnel' v='5' />
+    <tag k='students' v='15' />
+  </way>
+  <way id='220577242' timestamp='2013-05-14T08:27:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16121928'>
+    <nd ref='2296895694' />
+    <nd ref='2296895686' />
+    <nd ref='2296895692' />
+    <nd ref='2296895704' />
+    <nd ref='2296895694' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='3' />
+    <tag k='email' v='happyfeet414@gmail.com' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Happy Feet Montessori' />
+    <tag k='personnel' v='13' />
+    <tag k='phone' v='01-4431964' />
+    <tag k='students' v='46' />
+  </way>
+  <way id='220577246' timestamp='2013-05-14T08:48:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16122150'>
+    <nd ref='2296895643' />
+    <nd ref='2296895641' />
+    <nd ref='2296895633' />
+    <nd ref='2296895632' />
+    <nd ref='2296895630' />
+    <nd ref='2296895631' />
+    <nd ref='2296895634' />
+    <nd ref='2296895635' />
+    <nd ref='2296895638' />
+    <nd ref='2296895639' />
+    <nd ref='2296895643' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Sesame World School' />
+    <tag k='personnel' v='22' />
+    <tag k='students' v='47' />
+  </way>
+  <way id='221344943' timestamp='2013-05-19T05:44:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16188740'>
+    <nd ref='2303740891' />
+    <nd ref='2303740863' />
+    <nd ref='2303740860' />
+    <nd ref='2303740886' />
+    <nd ref='2303740891' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='3' />
+    <tag k='isced:level' v='primary' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Nightingale Pre-School' />
+    <tag k='personnel' v='23' />
+    <tag k='students' v='304' />
+  </way>
+  <way id='221351929' timestamp='2013-05-16T05:20:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16147622'>
+    <nd ref='2303810215' />
+    <nd ref='2303810209' />
+    <nd ref='2303810212' />
+    <nd ref='2303810211' />
+    <nd ref='2303810206' />
+    <nd ref='2303810201' />
+    <nd ref='2303810202' />
+    <nd ref='2303810207' />
+    <nd ref='2303810210' />
+    <nd ref='2303810215' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='New Era Academy' />
+    <tag k='personnel' v='10' />
+    <tag k='students' v='40' />
+  </way>
+  <way id='221605639' timestamp='2013-05-17T13:54:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16167674'>
+    <nd ref='2306397001' />
+    <nd ref='2306396999' />
+    <nd ref='2306396992' />
+    <nd ref='2306396991' />
+    <nd ref='2306396989' />
+    <nd ref='2306396987' />
+    <nd ref='2306396988' />
+    <nd ref='2306396990' />
+    <nd ref='2306396995' />
+    <nd ref='2306397002' />
+    <nd ref='2306397001' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Holy Smile Pre-School' />
+    <tag k='personnel' v='9' />
+    <tag k='students' v='60' />
+  </way>
+  <way id='221633883' timestamp='2013-06-17T07:54:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16585677'>
+    <nd ref='2306676949' />
+    <nd ref='2306676945' />
+    <nd ref='2306676939' />
+    <nd ref='2306676937' />
+    <nd ref='2117343944' />
+    <nd ref='2306676944' />
+    <nd ref='2306676947' />
+    <nd ref='2306676950' />
+    <nd ref='2306676949' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Tender Loving Care Pre School' />
+    <tag k='personnel' v='5' />
+    <tag k='students' v='14' />
+  </way>
+  <way id='221824842' timestamp='2013-05-19T06:45:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189129'>
+    <nd ref='2308181849' />
+    <nd ref='2308181845' />
+    <nd ref='2308181855' />
+    <nd ref='2308181864' />
+    <nd ref='2308181849' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Premier International Pre-School' />
+    <tag k='personnel' v='10' />
+    <tag k='students' v='13' />
+  </way>
+  <way id='221824845' timestamp='2013-05-19T06:48:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189161'>
+    <nd ref='2308181912' />
+    <nd ref='2308181868' />
+    <nd ref='2308181865' />
+    <nd ref='2308181873' />
+    <nd ref='2308181871' />
+    <nd ref='2308181911' />
+    <nd ref='2308181912' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Toto&apos;s World Pre-School' />
+    <tag k='personnel' v='12' />
+    <tag k='students' v='32' />
+  </way>
+  <way id='222136572' timestamp='2013-05-20T04:25:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16202614'>
+    <nd ref='2311097696' />
+    <nd ref='2311097702' />
+    <nd ref='2311097701' />
+    <nd ref='2311097695' />
+    <nd ref='2311097696' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Jolly Buds Pre-School' />
+    <tag k='personnel' v='6' />
+    <tag k='students' v='16' />
+  </way>
+  <way id='222169997' timestamp='2013-07-01T04:38:20Z' uid='1034219' user='shrijana' visible='true' version='3' changeset='16772800'>
+    <nd ref='2311499087' />
+    <nd ref='2311499097' />
+    <nd ref='2311499089' />
+    <nd ref='2311499083' />
+    <nd ref='2311499086' />
+    <nd ref='2311499084' />
+    <nd ref='2311499087' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='primary' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Moral Kindergarten(Academy)' />
+    <tag k='personnel' v='13' />
+    <tag k='phone' v='01-5535595' />
+    <tag k='students' v='60' />
+  </way>
+  <way id='222182627' timestamp='2013-07-09T10:14:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16885152'>
+    <nd ref='2311644834' />
+    <nd ref='2311644694' />
+    <nd ref='2311644642' />
+    <nd ref='2311644757' />
+    <nd ref='2311644834' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Little Flower Child Care Centre' />
+    <tag k='personnel' v='3' />
+    <tag k='phone' v='9808572279' />
+    <tag k='students' v='11' />
+  </way>
+  <way id='222495751' timestamp='2013-05-26T05:33:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16287730'>
+    <nd ref='2314627466' />
+    <nd ref='2314627477' />
+    <nd ref='2314627474' />
+    <nd ref='2314627470' />
+    <nd ref='2314627464' />
+    <nd ref='2314627455' />
+    <nd ref='2314627454' />
+    <nd ref='2314627466' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Baby Zone Montessori Pre School' />
+    <tag k='personnel' v='15' />
+    <tag k='students' v='100' />
+  </way>
+  <way id='222716499' timestamp='2013-06-24T04:47:57Z' uid='1577075' user='Dark SKY' visible='true' version='4' changeset='16678605'>
+    <nd ref='2316603957' />
+    <nd ref='2316603955' />
+    <nd ref='2316603972' />
+    <nd ref='2358166086' />
+    <nd ref='2358156209' />
+    <nd ref='2316603975' />
+    <nd ref='2316603957' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Bethel International Academy' />
+    <tag k='personnel' v='11' />
+    <tag k='students' v='40' />
+  </way>
+  <way id='222753147' timestamp='2013-05-24T04:00:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16260140'>
+    <nd ref='2316914247' />
+    <nd ref='2316914250' />
+    <nd ref='2316914244' />
+    <nd ref='2316914239' />
+    <nd ref='2316914247' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Sano Pathshala' />
+    <tag k='personnel' v='7' />
+    <tag k='students' v='20' />
+  </way>
+  <way id='222753149' timestamp='2013-05-24T04:11:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16260189'>
+    <nd ref='2316914226' />
+    <nd ref='2316914236' />
+    <nd ref='2316914235' />
+    <nd ref='2316914238' />
+    <nd ref='2316914237' />
+    <nd ref='2316914222' />
+    <nd ref='2316914224' />
+    <nd ref='2316914218' />
+    <nd ref='2316914226' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Wonderland International Pre-School' />
+    <tag k='personnel' v='15' />
+    <tag k='students' v='36' />
+  </way>
+  <way id='222788943' timestamp='2013-07-12T04:35:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16921182'>
+    <nd ref='2317295174' />
+    <nd ref='2317295175' />
+    <nd ref='2317295167' />
+    <nd ref='2317295166' />
+    <nd ref='2317295174' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Kids Care Int&apos;l Pre School' />
+    <tag k='personnel' v='9' />
+    <tag k='students' v='38' />
+  </way>
+  <way id='222842640' timestamp='2013-05-26T05:24:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16287679'>
+    <nd ref='2317885518' />
+    <nd ref='2317885536' />
+    <nd ref='2317885535' />
+    <nd ref='2317885523' />
+    <nd ref='2317885522' />
+    <nd ref='2317885517' />
+    <nd ref='2317885516' />
+    <nd ref='2317885518' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Wonderland Kindergarten' />
+    <tag k='personnel' v='' />
+    <tag k='students' v='' />
+  </way>
+  <way id='222872127' timestamp='2013-05-26T07:22:18Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16288415'>
+    <nd ref='2318170328' />
+    <nd ref='2318170330' />
+    <nd ref='2318170331' />
+    <nd ref='2318170332' />
+    <nd ref='2318170334' />
+    <nd ref='2318170336' />
+    <nd ref='2318170335' />
+    <nd ref='2318170333' />
+    <nd ref='2318170329' />
+    <nd ref='2318170325' />
+    <nd ref='2318170326' />
+    <nd ref='2318170328' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='New Spring Kindergarten' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='48' />
+  </way>
+  <way id='222872128' timestamp='2013-07-07T10:57:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16859589'>
+    <nd ref='2318170192' />
+    <nd ref='2318170194' />
+    <nd ref='2318170199' />
+    <nd ref='2318170198' />
+    <nd ref='2318170192' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Rising Star Kindergarten' />
+    <tag k='personnel' v='10' />
+    <tag k='students' v='35' />
+  </way>
+  <way id='223034123' timestamp='2013-06-10T16:52:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16498622'>
+    <nd ref='2319779731' />
+    <nd ref='2319779726' />
+    <nd ref='2319779724' />
+    <nd ref='2319779728' />
+    <nd ref='2319779731' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Garfield Academy' />
+    <tag k='personnel' v='4' />
+    <tag k='students' v='15' />
+  </way>
+  <way id='223132670' timestamp='2013-05-27T06:06:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16305103'>
+    <nd ref='2320655769' />
+    <nd ref='2320655777' />
+    <nd ref='2320655773' />
+    <nd ref='2320655764' />
+    <nd ref='2320655769' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Mount Green Montessori' />
+    <tag k='personnel' v='3' />
+    <tag k='students' v='20' />
+  </way>
+  <way id='223274581' timestamp='2013-05-28T03:25:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16318326'>
+    <nd ref='2321897965' />
+    <nd ref='2321897968' />
+    <nd ref='2321897966' />
+    <nd ref='2321897928' />
+    <nd ref='2321897938' />
+    <nd ref='2321897947' />
+    <nd ref='2321897943' />
+    <nd ref='2321897957' />
+    <nd ref='2321897965' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Euro Kids' />
+    <tag k='personnel' v='16' />
+    <tag k='students' v='41' />
+  </way>
+  <way id='223275036' timestamp='2013-05-28T03:33:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16318371'>
+    <nd ref='2321901096' />
+    <nd ref='2321901083' />
+    <nd ref='2321901081' />
+    <nd ref='2321901093' />
+    <nd ref='2321901096' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Elvids Academy' />
+    <tag k='personnel' v='6' />
+    <tag k='students' v='13' />
+  </way>
+  <way id='223275037' timestamp='2013-05-28T03:29:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16318350'>
+    <nd ref='2321901111' />
+    <nd ref='2321901113' />
+    <nd ref='2321901106' />
+    <nd ref='2321901097' />
+    <nd ref='2321901098' />
+    <nd ref='2321901100' />
+    <nd ref='2321901111' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='3' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Mother Ganga Day Care &amp; Pre school' />
+    <tag k='personnel' v='12' />
+    <tag k='students' v='55' />
+  </way>
+  <way id='223275413' timestamp='2013-05-31T06:50:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16360822'>
+    <nd ref='2321906143' />
+    <nd ref='2321906140' />
+    <nd ref='2321906132' />
+    <nd ref='2321906139' />
+    <nd ref='2321906143' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='School of Leaders (SOL)' />
+    <tag k='personnel' v='7' />
+    <tag k='students' v='10' />
+  </way>
+  <way id='223299782' timestamp='2013-05-29T10:28:39Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16335898'>
+    <nd ref='2322097563' />
+    <nd ref='2322097561' />
+    <nd ref='2322097553' />
+    <nd ref='2322097551' />
+    <nd ref='2322097550' />
+    <nd ref='2322097552' />
+    <nd ref='2322097554' />
+    <nd ref='2322097557' />
+    <nd ref='2322097560' />
+    <nd ref='2322097562' />
+    <nd ref='2322097564' />
+    <nd ref='2322097563' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Glacier Montessori and Kidz Home' />
+    <tag k='personnel' v='5' />
+    <tag k='students' v='25' />
+  </way>
+  <way id='223407551' timestamp='2013-05-30T07:47:23Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16347776'>
+    <nd ref='2323067000' />
+    <nd ref='2323066999' />
+    <nd ref='2323067029' />
+    <nd ref='2323067030' />
+    <nd ref='2323067000' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='IGK Pre-School' />
+    <tag k='personnel' v='13' />
+    <tag k='phone' v='01-5260403' />
+    <tag k='students' v='40' />
+  </way>
+  <way id='223499320' timestamp='2013-05-30T07:53:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16347844'>
+    <nd ref='2323931384' />
+    <nd ref='2323931378' />
+    <nd ref='2323931385' />
+    <nd ref='2323931389' />
+    <nd ref='2323931384' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Sunshine Smile Kindergarten &amp; Pre School' />
+    <tag k='personnel' v='3' />
+    <tag k='phone' v='01-5553012' />
+    <tag k='students' v='15' />
+  </way>
+  <way id='223504504' timestamp='2013-07-07T10:45:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16859461'>
+    <nd ref='2323970157' />
+    <nd ref='2323970159' />
+    <nd ref='2323970163' />
+    <nd ref='2323970161' />
+    <nd ref='2323970157' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building' v='kindergarten' />
+    <tag k='building:age' v='1990-2000' />
+    <tag k='building:bay:x' v='3' />
+    <tag k='building:bay:y' v='2' />
+    <tag k='building:condition' v='Average' />
+    <tag k='building:floor_material' v='RCC/RBC' />
+    <tag k='building:floor_material:others' v='' />
+    <tag k='building:level' v='4' />
+    <tag k='building:neighbour' v='Free_Standing' />
+    <tag k='building:overhang' v='No' />
+    <tag k='building:owner' v='Rent' />
+    <tag k='building:retrofit' v='No' />
+    <tag k='building:roof_material' v='RCC/RBC' />
+    <tag k='building:roof_material:others' v='' />
+    <tag k='building:roof_slope' v='Flat' />
+    <tag k='building:roof_slope:others' v='' />
+    <tag k='building:shape:elevation' v='Regular' />
+    <tag k='building:shape:plan' v='Rectangular' />
+    <tag k='building:soft_storey' v='Yes' />
+    <tag k='building:structure' v='Non_Engineered_RC_Frame' />
+    <tag k='building:structure:others' v='' />
+    <tag k='building_count' v='1' />
+    <tag k='column:size' v='9x9' />
+    <tag k='earthquake_resistant_element' v='No' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Essel World Montessori' />
+    <tag k='occupants:day' v='14' />
+    <tag k='occupants:evening' v='7' />
+    <tag k='occupants:morning' v='7' />
+    <tag k='occupants:night' v='7' />
+    <tag k='oid' v='1' />
+    <tag k='operator' v='Essel World Montessori' />
+    <tag k='personnel' v='4' />
+    <tag k='students' v='10' />
+  </way>
+  <way id='223673490' timestamp='2013-06-14T06:27:22Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16546012'>
+    <nd ref='2325432155' />
+    <nd ref='2325432156' />
+    <nd ref='2325432161' />
+    <nd ref='2325432164' />
+    <nd ref='2325432151' />
+    <nd ref='2325432150' />
+    <nd ref='2325432153' />
+    <nd ref='2325432152' />
+    <nd ref='2325432155' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='World Class School' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='31' />
+  </way>
+  <way id='223684778' timestamp='2013-06-10T09:31:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16493210'>
+    <nd ref='2325604145' />
+    <nd ref='2325604141' />
+    <nd ref='2325604096' />
+    <nd ref='2325604101' />
+    <nd ref='2325604145' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Shemrock Little Harvard' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='75' />
+  </way>
+  <way id='224192702' timestamp='2013-06-12T05:51:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16519335'>
+    <nd ref='2330167409' />
+    <nd ref='2330167407' />
+    <nd ref='2330167405' />
+    <nd ref='2330167400' />
+    <nd ref='2330167401' />
+    <nd ref='2330167404' />
+    <nd ref='2330167409' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Star public Montessori' />
+    <tag k='personnel' v='9' />
+    <tag k='students' v='24' />
+  </way>
+  <way id='224253816' timestamp='2013-07-12T10:25:35Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='16924189'>
+    <nd ref='2330738776' />
+    <nd ref='2330738777' />
+    <nd ref='2330738775' />
+    <nd ref='2330738774' />
+    <nd ref='2330738776' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building' v='kindergarten' />
+    <tag k='building:age' v='1990-2000' />
+    <tag k='building:bay:x' v='1' />
+    <tag k='building:bay:y' v='2' />
+    <tag k='building:condition' v='Good' />
+    <tag k='building:floor_material' v='RCC/RBC' />
+    <tag k='building:floor_material:others' v='' />
+    <tag k='building:level' v='4' />
+    <tag k='building:neighbour' v='One_Side_Different_Height' />
+    <tag k='building:overhang' v='No' />
+    <tag k='building:owner' v='Rent' />
+    <tag k='building:retrofit' v='No' />
+    <tag k='building:roof_material' v='RCC/RBC' />
+    <tag k='building:roof_material:others' v='' />
+    <tag k='building:roof_slope' v='Flat' />
+    <tag k='building:roof_slope:others' v='' />
+    <tag k='building:shape:elevation' v='Setback' />
+    <tag k='building:shape:plan' v='Rectangular' />
+    <tag k='building:soft_storey' v='No' />
+    <tag k='building:structure' v='Non_Engineered_RC_Frame' />
+    <tag k='building:structure:others' v='' />
+    <tag k='building_count' v='1' />
+    <tag k='column:size' v='9x9' />
+    <tag k='earthquake_resistant_element' v='No' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Shuvam Montessori' />
+    <tag k='occupants:day' v='51' />
+    <tag k='occupants:evening' v='0' />
+    <tag k='occupants:morning' v='0' />
+    <tag k='occupants:night' v='0' />
+    <tag k='personnel' v='6' />
+    <tag k='students' v='45' />
+  </way>
+  <way id='224266778' timestamp='2013-07-08T09:54:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16871159'>
+    <nd ref='2330850537' />
+    <nd ref='2330850530' />
+    <nd ref='2330850505' />
+    <nd ref='2330850502' />
+    <nd ref='2330850535' />
+    <nd ref='2330850537' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Thasi Montessori Kindergarten' />
+    <tag k='personnel' v='7' />
+    <tag k='phone' v='01-5582858' />
+    <tag k='students' v='50' />
+  </way>
+  <way id='224458572' timestamp='2013-06-06T04:59:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440052'>
+    <nd ref='2332813493' />
+    <nd ref='2332813495' />
+    <nd ref='2332813500' />
+    <nd ref='2332813497' />
+    <nd ref='2332813493' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Kantipur Montessori Kinder World' />
+    <tag k='personnel' v='5' />
+    <tag k='students' v='22' />
+  </way>
+  <way id='224458573' timestamp='2013-06-06T04:52:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440003'>
+    <nd ref='2332813454' />
+    <nd ref='2332813475' />
+    <nd ref='2332813470' />
+    <nd ref='2332813451' />
+    <nd ref='2332813454' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Spring Garden Kid&apos;s World' />
+    <tag k='personnel' v='7' />
+    <tag k='students' v='32' />
+  </way>
+  <way id='224632272' timestamp='2013-06-07T05:38:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16452798'>
+    <nd ref='2334339662' />
+    <nd ref='2334339669' />
+    <nd ref='2334339668' />
+    <nd ref='2334339660' />
+    <nd ref='2334339662' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Donald Home' />
+    <tag k='personnel' v='6' />
+    <tag k='students' v='14' />
+  </way>
+  <way id='224877226' timestamp='2013-06-17T12:31:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16589202'>
+    <nd ref='2337220226' />
+    <nd ref='2337220220' />
+    <nd ref='2337220211' />
+    <nd ref='2337220207' />
+    <nd ref='2337220223' />
+    <nd ref='2337220226' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Montessori  International Pre-School' />
+    <tag k='personnel' v='5' />
+    <tag k='students' v='23' />
+  </way>
+  <way id='224961217' timestamp='2013-06-10T11:17:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16494470'>
+    <nd ref='2338010765' />
+    <nd ref='2338010764' />
+    <nd ref='2338010766' />
+    <nd ref='2338010768' />
+    <nd ref='2338010770' />
+    <nd ref='2338010771' />
+    <nd ref='2338010769' />
+    <nd ref='2338010767' />
+    <nd ref='2338010765' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Purna Kalash Montessori Kindergarten' />
+    <tag k='personnel' v='12' />
+    <tag k='students' v='70' />
+  </way>
+  <way id='224961218' timestamp='2013-06-10T11:23:39Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16494547'>
+    <nd ref='2338010756' />
+    <nd ref='2338010762' />
+    <nd ref='2338010763' />
+    <nd ref='2338010757' />
+    <nd ref='2338010756' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='School of Sponge Learners' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='80' />
+  </way>
+  <way id='225013709' timestamp='2013-06-22T08:14:28Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16653058'>
+    <nd ref='2338442518' />
+    <nd ref='2338442514' />
+    <nd ref='2338442493' />
+    <nd ref='2338442496' />
+    <nd ref='2338442518' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Tiny Tots Kindergarten' />
+    <tag k='personnel' v='16' />
+    <tag k='students' v='36' />
+  </way>
+  <way id='225422529' timestamp='2013-06-20T09:02:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16626977'>
+    <nd ref='2342018503' />
+    <nd ref='2342018500' />
+    <nd ref='2342018504' />
+    <nd ref='2342018501' />
+    <nd ref='2342018502' />
+    <nd ref='2342018506' />
+    <nd ref='2342018510' />
+    <nd ref='2342018515' />
+    <nd ref='2342018520' />
+    <nd ref='2342018522' />
+    <nd ref='2342018516' />
+    <nd ref='2342018512' />
+    <nd ref='2342018508' />
+    <nd ref='2342018507' />
+    <nd ref='2342018505' />
+    <nd ref='2342018503' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Urbana School' />
+    <tag k='personnel' v='23' />
+    <tag k='students' v='100' />
+  </way>
+  <way id='225435978' timestamp='2013-06-19T10:27:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16615228'>
+    <nd ref='2342125868' />
+    <nd ref='2342125866' />
+    <nd ref='2342125857' />
+    <nd ref='2342125839' />
+    <nd ref='2342125831' />
+    <nd ref='2342125833' />
+    <nd ref='2342125868' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Namaste Kids World' />
+    <tag k='personnel' v='7' />
+    <tag k='students' v='35' />
+  </way>
+  <way id='225443243' timestamp='2013-06-19T10:56:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16615556'>
+    <nd ref='2342196388' />
+    <nd ref='2342196386' />
+    <nd ref='2342196381' />
+    <nd ref='2342196382' />
+    <nd ref='2342196383' />
+    <nd ref='2342196389' />
+    <nd ref='2342196388' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Rose Petal Kindergarten' />
+    <tag k='personnel' v='3' />
+    <tag k='students' v='20' />
+  </way>
+  <way id='226280677' timestamp='2013-06-19T12:17:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16616450'>
+    <nd ref='2351341456' />
+    <nd ref='2351341454' />
+    <nd ref='2351341459' />
+    <nd ref='2351341461' />
+    <nd ref='2351341456' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Fairy&apos;s World Montessori' />
+    <tag k='personnel' v='14' />
+    <tag k='students' v='60' />
+  </way>
+  <way id='226336778' timestamp='2013-06-21T03:49:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16638526'>
+    <nd ref='2351827743' />
+    <nd ref='2351827740' />
+    <nd ref='2351827741' />
+    <nd ref='2351827734' />
+    <nd ref='2351827730' />
+    <nd ref='2351827737' />
+    <nd ref='2351827739' />
+    <nd ref='2351827742' />
+    <nd ref='2351827743' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Montessori Kids Wonderland' />
+    <tag k='personnel' v='7' />
+    <tag k='phone' v='5554312' />
+    <tag k='students' v='25' />
+  </way>
+  <way id='227942898' timestamp='2013-07-07T06:07:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856535'>
+    <nd ref='2365760081' />
+    <nd ref='2365760077' />
+    <nd ref='2365760066' />
+    <nd ref='2365760073' />
+    <nd ref='2365760081' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Ujjwal Tara Pre School' />
+    <tag k='personnel' v='10' />
+    <tag k='students' v='36' />
+  </way>
+  <way id='228775614' timestamp='2013-07-07T08:48:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16858058'>
+    <nd ref='2374510818' />
+    <nd ref='2374510819' />
+    <nd ref='2374510816' />
+    <nd ref='2374510813' />
+    <nd ref='2374510818' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building' v='kindergarten' />
+    <tag k='building:age' v='After_2000' />
+    <tag k='building:bay:x' v='2' />
+    <tag k='building:bay:y' v='2' />
+    <tag k='building:condition' v='Good' />
+    <tag k='building:floor_material' v='RCC/RBC' />
+    <tag k='building:floor_material:others' v='' />
+    <tag k='building:level' v='3' />
+    <tag k='building:neighbour' v='Free_Standing' />
+    <tag k='building:overhang' v='Yes' />
+    <tag k='building:owner' v='Rent' />
+    <tag k='building:retrofit' v='No' />
+    <tag k='building:roof_material' v='RCC/RBC' />
+    <tag k='building:roof_material:others' v='' />
+    <tag k='building:roof_slope' v='Flat' />
+    <tag k='building:roof_slope:others' v='' />
+    <tag k='building:shape:elevation' v='Setback' />
+    <tag k='building:shape:plan' v='Rectangular' />
+    <tag k='building:soft_storey' v='No' />
+    <tag k='building:structure' v='Non_Engineered_RC_Frame' />
+    <tag k='building:structure:others' v='' />
+    <tag k='building_count' v='1' />
+    <tag k='column:size' v='9x9' />
+    <tag k='earthquake_resistant_element' v='N/A' />
+    <tag k='isced:level' v='kindergarten' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Nawa Kshitiz Montessori' />
+    <tag k='occupants:day' v='7' />
+    <tag k='occupants:evening' v='7' />
+    <tag k='occupants:morning' v='7' />
+    <tag k='occupants:night' v='4' />
+    <tag k='oid' v='1' />
+    <tag k='operator' v='Nawa Kshitiz Montessori' />
+    <tag k='personnel' v='3' />
+    <tag k='students' v='4' />
+  </way>
+  <way id='228778525' timestamp='2013-07-07T08:28:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16857801'>
+    <nd ref='2374532973' />
+    <nd ref='2374532975' />
+    <nd ref='2374532974' />
+    <nd ref='2374532972' />
+    <nd ref='2374532973' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='primary' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Chhunumunu Montessori School' />
+    <tag k='personnel' v='8' />
+    <tag k='students' v='60' />
+  </way>
+</osm>
