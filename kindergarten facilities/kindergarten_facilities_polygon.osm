@@ -477,7 +477,7 @@
   <node id='2374532973' timestamp='2013-07-05T06:49:09Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16831133' lat='27.7381835' lon='85.3502226' />
   <node id='2374532974' timestamp='2013-07-05T06:49:09Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16831133' lat='27.7381869' lon='85.3504164' />
   <node id='2374532975' timestamp='2013-07-05T06:49:09Z' uid='1068220' user='Helina' visible='true' version='1' changeset='16831133' lat='27.7382718' lon='85.350343' />
-  <way id='178772719' timestamp='2013-04-11T11:50:40Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='15688879'>
+  <way id='178772719' timestamp='2013-04-11T11:50:40Z' uid='864593' user='Sazal(Solaris)' visible='true' version='4' changeset='17342205'>
     <nd ref='1891344078' />
     <nd ref='1891344169' />
     <nd ref='1891344240' />
@@ -488,12 +488,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Paradise Montessori' />
-    <tag k='personnel' v='7' />
-    <tag k='students' v='27' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='7' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='27' />
   </way>
-  <way id='179100528' timestamp='2013-05-30T06:24:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16347056'>
+  <way id='179100528' timestamp='2013-05-30T06:24:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='1894398559' />
     <nd ref='1894398558' />
     <nd ref='1894398556' />
@@ -506,12 +507,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='primary' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Kid&apos;s merryland school' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='100' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='100' />
   </way>
-  <way id='181689163' timestamp='2013-05-17T09:15:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16164240'>
+  <way id='181689163' timestamp='2013-05-17T09:15:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17342205'>
     <nd ref='1921084856' />
     <nd ref='1921084901' />
     <nd ref='1921084899' />
@@ -525,12 +527,13 @@
     <tag k='building' v='yes' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Kids Wonderland' />
-    <tag k='personnel' v='7' />
-    <tag k='students' v='80' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='7' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='80' />
   </way>
-  <way id='207427061' timestamp='2013-07-05T09:30:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='16833076'>
+  <way id='207427061' timestamp='2013-07-05T09:30:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17342205'>
     <nd ref='2176821483' />
     <nd ref='2176821470' />
     <nd ref='2176821472' />
@@ -543,26 +546,21 @@
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
     <tag k='building:floor_material' v='RCC/RBC' />
-    <tag k='building:floor_material:others' v='' />
     <tag k='building:level' v='4' />
     <tag k='building:neighbour' v='Free_Standing' />
     <tag k='building:overhang' v='No' />
     <tag k='building:owner' v='Rent' />
     <tag k='building:retrofit' v='No' />
     <tag k='building:roof_material' v='RCC/RBC' />
-    <tag k='building:roof_material:others' v='' />
     <tag k='building:roof_slope' v='Flat' />
-    <tag k='building:roof_slope:others' v='' />
     <tag k='building:shape:elevation' v='Setback' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='Yes' />
     <tag k='building:structure' v='Load_Bearing_Brick_Wall_in_Cement_Mortar' />
-    <tag k='building:structure:others' v='' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Rosemary Montessori School' />
     <tag k='occupants:day' v='8' />
     <tag k='occupants:evening' v='5' />
@@ -570,10 +568,12 @@
     <tag k='occupants:night' v='5' />
     <tag k='oid' v='1' />
     <tag k='operator' v='Rosemary Montessori School' />
-    <tag k='personnel' v='2' />
-    <tag k='students' v='4' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='2' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='4' />
   </way>
-  <way id='209124588' timestamp='2013-07-09T05:41:32Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='16882537'>
+  <way id='209124588' timestamp='2013-07-09T05:41:32Z' uid='1406652' user='Nepal-Mapper' visible='true' version='7' changeset='17342205'>
     <nd ref='2193592820' />
     <nd ref='2193592814' />
     <nd ref='2193592817' />
@@ -586,35 +586,32 @@
     <tag k='building:bay:y' v='1' />
     <tag k='building:condition' v='Average' />
     <tag k='building:floor_material' v='Wood' />
-    <tag k='building:floor_material:others' v='' />
     <tag k='building:level' v='3' />
     <tag k='building:neighbour' v='Free_Standing' />
     <tag k='building:overhang' v='No' />
     <tag k='building:owner' v='Rent' />
     <tag k='building:retrofit' v='No' />
     <tag k='building:roof_material' v='RCC/RBC' />
-    <tag k='building:roof_material:others' v='' />
     <tag k='building:roof_slope' v='Flat' />
-    <tag k='building:roof_slope:others' v='' />
     <tag k='building:shape:elevation' v='Setback' />
     <tag k='building:shape:plan' v='L-Shaped' />
     <tag k='building:soft_storey' v='No' />
     <tag k='building:structure' v='Load_Bearing_Brick_Wall_in_Cement_Mortar' />
-    <tag k='building:structure:others' v='' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Smriti Child Care and Kindergarten' />
     <tag k='occupants:day' v='61' />
     <tag k='occupants:evening' v='1' />
     <tag k='occupants:morning' v='1' />
     <tag k='occupants:night' v='1' />
-    <tag k='personnel' v='11' />
-    <tag k='students' v='50' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='11' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='50' />
   </way>
-  <way id='215212427' timestamp='2013-04-17T10:41:58Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='15761125'>
+  <way id='215212427' timestamp='2013-04-17T10:41:58Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='17342205'>
     <nd ref='2246184607' />
     <nd ref='2246184606' />
     <nd ref='2246184604' />
@@ -625,12 +622,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='MaitiDevi Kindergarten' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='100' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='100' />
   </way>
-  <way id='216443375' timestamp='2013-07-30T11:00:41Z' uid='1068220' user='Helina' visible='true' version='3' changeset='17151279'>
+  <way id='216443375' timestamp='2013-07-30T11:00:41Z' uid='1068220' user='Helina' visible='true' version='4' changeset='17342205'>
     <nd ref='2257882445' />
     <nd ref='2257882440' />
     <nd ref='2257882447' />
@@ -641,12 +639,14 @@
     <nd ref='2257882445' />
     <tag k='addr:city' v='Bhatbhateni' />
     <tag k='amenity' v='kindergarten' />
+    <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Kopila Cottage pre-school' />
+    <tag k='operator:type' v='private' />
     <tag k='phone' v='01-4414509' />
+    <tag k='source' v='OpenDRI survey' />
   </way>
-  <way id='216612425' timestamp='2013-04-16T04:02:09Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15744580'>
+  <way id='216612425' timestamp='2013-04-16T04:02:09Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='17342205'>
     <nd ref='2260053442' />
     <nd ref='2260053438' />
     <nd ref='2260053437' />
@@ -656,12 +656,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Learnhub primary School' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='40' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='40' />
   </way>
-  <way id='216931871' timestamp='2013-04-12T05:49:18Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15697225'>
+  <way id='216931871' timestamp='2013-04-12T05:49:18Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='17342205'>
     <nd ref='2262475153' />
     <nd ref='2262475158' />
     <nd ref='2262475155' />
@@ -671,12 +672,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Mother Goose Day Care Centre and School' />
-    <tag k='personnel' v='12' />
-    <tag k='students' v='35' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='12' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='35' />
   </way>
-  <way id='216935007' timestamp='2013-04-11T10:48:07Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15688249'>
+  <way id='216935007' timestamp='2013-04-11T10:48:07Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='17342205'>
     <nd ref='2262531980' />
     <nd ref='2262531982' />
     <nd ref='2262531978' />
@@ -685,12 +687,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Drion Pre School' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='65' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='65' />
   </way>
-  <way id='216940428' timestamp='2013-04-12T02:43:36Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15696436'>
+  <way id='216940428' timestamp='2013-04-12T02:43:36Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='17342205'>
     <nd ref='2262602790' />
     <nd ref='2262602788' />
     <nd ref='2262602789' />
@@ -699,12 +702,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Mom House' />
-    <tag k='personnel' v='15' />
-    <tag k='students' v='50' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='15' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='50' />
   </way>
-  <way id='217533471' timestamp='2013-04-15T12:41:14Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15736834'>
+  <way id='217533471' timestamp='2013-04-15T12:41:14Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='17342205'>
     <nd ref='2268157465' />
     <nd ref='2268157480' />
     <nd ref='2268157485' />
@@ -713,12 +717,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Sano Sansar Pre School' />
-    <tag k='personnel' v='5' />
-    <tag k='students' v='30' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='30' />
   </way>
-  <way id='217604909' timestamp='2013-04-17T09:20:17Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15760286'>
+  <way id='217604909' timestamp='2013-04-17T09:20:17Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17342205'>
     <nd ref='1895843061' />
     <nd ref='2268998137' />
     <nd ref='1895843053' />
@@ -730,13 +735,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Tiny Corners Montessori' />
-    <tag k='personnel' v='4' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='4' />
     <tag k='phone' v='4105003' />
-    <tag k='students' v='5' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='5' />
   </way>
-  <way id='217617659' timestamp='2013-04-16T08:24:19Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15746428'>
+  <way id='217617659' timestamp='2013-04-16T08:24:19Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='17342205'>
     <nd ref='2269132291' />
     <nd ref='2269132289' />
     <nd ref='2269132288' />
@@ -748,13 +754,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Graceland Montessori' />
-    <tag k='personnel' v='10' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='10' />
     <tag k='phone' v='4372768' />
-    <tag k='students' v='25' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='25' />
   </way>
-  <way id='217620032' timestamp='2013-04-17T07:31:20Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15759286'>
+  <way id='217620032' timestamp='2013-04-17T07:31:20Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17342205'>
     <nd ref='2269161784' />
     <nd ref='2269161773' />
     <nd ref='2269161771' />
@@ -770,12 +777,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Mills Berry Kids World' />
-    <tag k='personnel' v='15' />
-    <tag k='students' v='175' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='15' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='175' />
   </way>
-  <way id='217622464' timestamp='2013-04-17T07:31:50Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15759292'>
+  <way id='217622464' timestamp='2013-04-17T07:31:50Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17342205'>
     <nd ref='2020287536' />
     <nd ref='2269206425' />
     <nd ref='2269206422' />
@@ -785,13 +793,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Asian Kids' />
-    <tag k='personnel' v='10' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='10' />
     <tag k='phone' v='01-4422642' />
-    <tag k='students' v='45' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='45' />
   </way>
-  <way id='217623711' timestamp='2013-04-17T11:08:01Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='15761362'>
+  <way id='217623711' timestamp='2013-04-17T11:08:01Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='17342205'>
     <nd ref='2269238329' />
     <nd ref='2269238324' />
     <nd ref='2269238296' />
@@ -800,14 +809,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Busy Bees Kindergarten' />
-    <tag k='personnel' v='3' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='3' />
     <tag k='phone' v='+977 01 4419816=1}' />
-    <tag k='source' v='field_visit' />
-    <tag k='students' v='13' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='13' />
   </way>
-  <way id='217631624' timestamp='2013-04-16T13:58:15Z' uid='864593' user='Sazal(Solaris)' visible='true' version='2' changeset='15750360'>
+  <way id='217631624' timestamp='2013-04-16T13:58:15Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='17342205'>
     <nd ref='2269352036' />
     <nd ref='2269352047' />
     <nd ref='2269352049' />
@@ -817,12 +826,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Disney International Pre-school' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='56' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='56' />
   </way>
-  <way id='217724759' timestamp='2013-04-17T07:31:42Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15759290'>
+  <way id='217724759' timestamp='2013-04-17T07:31:42Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17342205'>
     <nd ref='2270267468' />
     <nd ref='2270267466' />
     <nd ref='2270267465' />
@@ -831,13 +841,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='primary' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Creative Kids Pre-School' />
-    <tag k='personnel' v='12' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='12' />
     <tag k='phone' v='4821222' />
-    <tag k='students' v='45' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='45' />
   </way>
-  <way id='217724980' timestamp='2013-04-17T09:36:35Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15760461'>
+  <way id='217724980' timestamp='2013-04-17T09:36:35Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17342205'>
     <nd ref='2270268872' />
     <nd ref='2270268869' />
     <nd ref='2270268870' />
@@ -848,13 +859,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Holy Spirit Montessori' />
-    <tag k='personnel' v='6' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='6' />
     <tag k='phone' v='4812323' />
-    <tag k='students' v='27' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='27' />
   </way>
-  <way id='217727678' timestamp='2013-04-17T10:35:53Z' uid='1361677' user='KTM-Mappers' visible='true' version='2' changeset='15761070'>
+  <way id='217727678' timestamp='2013-04-17T10:35:53Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17342205'>
     <nd ref='2270294419' />
     <nd ref='2270294422' />
     <nd ref='2185070311' />
@@ -870,12 +882,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Darshan Child Care' />
-    <tag k='personnel' v='4' />
-    <tag k='students' v='12' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='12' />
   </way>
-  <way id='219134694' timestamp='2013-05-11T04:20:16Z' uid='647540' user='sures' visible='true' version='6' changeset='16074285'>
+  <way id='219134694' timestamp='2013-05-11T04:20:16Z' uid='647540' user='sures' visible='true' version='7' changeset='17342205'>
     <nd ref='2283335501' />
     <nd ref='2283335498' />
     <nd ref='2283335502' />
@@ -885,13 +898,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='community' />
     <tag k='name' v='Sisu shayar kendra' />
     <tag k='operator' v='sishu shayar kendra' />
-    <tag k='personnel' v='4' />
-    <tag k='students' v='30' />
+    <tag k='operator:type' v='community' />
+    <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='30' />
   </way>
-  <way id='219640843' timestamp='2013-05-13T06:23:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16106434'>
+  <way id='219640843' timestamp='2013-05-13T06:23:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17342205'>
     <nd ref='2287857978' />
     <nd ref='2287857994' />
     <nd ref='2287857984' />
@@ -903,12 +917,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='4' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Redhon Montessori Pre-School' />
-    <tag k='personnel' v='16' />
-    <tag k='students' v='248' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='16' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='248' />
   </way>
-  <way id='219848240' timestamp='2013-05-17T09:43:51Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16164607'>
+  <way id='219848240' timestamp='2013-05-17T09:43:51Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2289814524' />
     <nd ref='2289814539' />
     <nd ref='2289814533' />
@@ -917,12 +932,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Vision Montessori' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='25' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='25' />
   </way>
-  <way id='219896797' timestamp='2013-05-07T02:18:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16005494'>
+  <way id='219896797' timestamp='2013-05-07T02:18:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2290264393' />
     <nd ref='2290264361' />
     <nd ref='2290264360' />
@@ -933,12 +949,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='International Kindergarden' />
-    <tag k='personnel' v='18' />
-    <tag k='students' v='35' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='18' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='35' />
   </way>
-  <way id='219900963' timestamp='2013-05-14T04:22:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16119895'>
+  <way id='219900963' timestamp='2013-05-14T04:22:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17342205'>
     <nd ref='2290302830' />
     <nd ref='2290302831' />
     <nd ref='2290302801' />
@@ -947,12 +964,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='ELIPHSS Pre-School' />
-    <tag k='personnel' v='11' />
-    <tag k='students' v='142' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='11' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='142' />
   </way>
-  <way id='219928581' timestamp='2013-05-07T06:43:23Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16006745'>
+  <way id='219928581' timestamp='2013-05-07T06:43:23Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2290583749' />
     <nd ref='2290583745' />
     <nd ref='2290583740' />
@@ -961,12 +979,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Disneyland Pre School' />
-    <tag k='personnel' v='3' />
-    <tag k='students' v='13' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='3' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='13' />
   </way>
-  <way id='219928588' timestamp='2013-05-07T06:52:05Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16006807'>
+  <way id='219928588' timestamp='2013-05-07T06:52:05Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2290583781' />
     <nd ref='2290583775' />
     <nd ref='2290583773' />
@@ -976,12 +995,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Sneha Kids Home' />
-    <tag k='personnel' v='14' />
-    <tag k='students' v='105' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='14' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='105' />
   </way>
-  <way id='220227983' timestamp='2013-05-07T02:37:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16005551'>
+  <way id='220227983' timestamp='2013-05-07T02:37:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2293564626' />
     <nd ref='2293564618' />
     <nd ref='2293564611' />
@@ -990,13 +1010,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Riverdale International Montessori' />
-    <tag k='personnel' v='17' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='17' />
     <tag k='phone' v='4492098' />
-    <tag k='students' v='50' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='50' />
   </way>
-  <way id='220249313' timestamp='2013-05-07T15:43:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16013210'>
+  <way id='220249313' timestamp='2013-05-07T15:43:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='17342205'>
     <nd ref='2293774341' />
     <nd ref='2293774337' />
     <nd ref='2293774335' />
@@ -1006,12 +1027,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Dreamland montessori' />
-    <tag k='personnel' v='6' />
-    <tag k='students' v='30' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='30' />
   </way>
-  <way id='220258409' timestamp='2013-05-09T10:15:00Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16044883'>
+  <way id='220258409' timestamp='2013-05-09T10:15:00Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2293870624' />
     <nd ref='2293870626' />
     <nd ref='2293870593' />
@@ -1022,13 +1044,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Early Kids Home' />
-    <tag k='personnel' v='5' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='5' />
     <tag k='phone' v='01-5940840' />
-    <tag k='students' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='8' />
   </way>
-  <way id='220261443' timestamp='2013-05-09T09:57:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16044594'>
+  <way id='220261443' timestamp='2013-05-09T09:57:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2293906926' />
     <nd ref='2293906915' />
     <nd ref='2293906965' />
@@ -1037,13 +1060,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Angel&apos;s Kinder World' />
-    <tag k='personnel' v='4' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='4' />
     <tag k='phone' v='01-5536321' />
-    <tag k='students' v='12' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='12' />
   </way>
-  <way id='220261444' timestamp='2013-05-09T09:55:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16044554'>
+  <way id='220261444' timestamp='2013-05-09T09:55:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2293906887' />
     <nd ref='2293906861' />
     <nd ref='2293906862' />
@@ -1052,13 +1076,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Bhassara Kids Castle' />
-    <tag k='personnel' v='5' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='5' />
     <tag k='phone' v='01-5006236' />
-    <tag k='students' v='27' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='27' />
   </way>
-  <way id='220295670' timestamp='2013-05-08T07:07:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16024263'>
+  <way id='220295670' timestamp='2013-05-08T07:07:42Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2294256628' />
     <nd ref='2294256623' />
     <nd ref='2294256625' />
@@ -1067,13 +1092,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Venus Bright Montessori' />
-    <tag k='personnel' v='7' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='7' />
     <tag k='phone' v='4104244' />
-    <tag k='students' v='29' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='29' />
   </way>
-  <way id='220316417' timestamp='2013-05-09T10:24:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16045071'>
+  <way id='220316417' timestamp='2013-05-09T10:24:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2294504415' />
     <nd ref='2294504422' />
     <nd ref='2294504420' />
@@ -1084,13 +1110,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Trillium Kindergarten' />
-    <tag k='personnel' v='3' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='3' />
     <tag k='phone' v='01-5203639' />
-    <tag k='students' v='5' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='5' />
   </way>
-  <way id='220414609' timestamp='2013-05-14T06:09:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16120587'>
+  <way id='220414609' timestamp='2013-05-14T06:09:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2295387087' />
     <nd ref='2295387094' />
     <nd ref='2295387091' />
@@ -1099,12 +1126,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Rajan Memorial Pre-School' />
-    <tag k='personnel' v='5' />
-    <tag k='students' v='15' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='15' />
   </way>
-  <way id='220577242' timestamp='2013-05-14T08:27:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16121928'>
+  <way id='220577242' timestamp='2013-05-14T08:27:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2296895694' />
     <nd ref='2296895686' />
     <nd ref='2296895692' />
@@ -1114,13 +1142,14 @@
     <tag k='building_count' v='3' />
     <tag k='email' v='happyfeet414@gmail.com' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Happy Feet Montessori' />
-    <tag k='personnel' v='13' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='13' />
     <tag k='phone' v='01-4431964' />
-    <tag k='students' v='46' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='46' />
   </way>
-  <way id='220577246' timestamp='2013-05-14T08:48:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16122150'>
+  <way id='220577246' timestamp='2013-05-14T08:48:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17342205'>
     <nd ref='2296895643' />
     <nd ref='2296895641' />
     <nd ref='2296895633' />
@@ -1135,12 +1164,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Sesame World School' />
-    <tag k='personnel' v='22' />
-    <tag k='students' v='47' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='22' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='47' />
   </way>
-  <way id='221344943' timestamp='2013-05-19T05:44:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16188740'>
+  <way id='221344943' timestamp='2013-05-19T05:44:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2303740891' />
     <nd ref='2303740863' />
     <nd ref='2303740860' />
@@ -1149,12 +1179,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='3' />
     <tag k='isced:level' v='primary' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Nightingale Pre-School' />
-    <tag k='personnel' v='23' />
-    <tag k='students' v='304' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='23' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='304' />
   </way>
-  <way id='221351929' timestamp='2013-05-16T05:20:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16147622'>
+  <way id='221351929' timestamp='2013-05-16T05:20:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2303810215' />
     <nd ref='2303810209' />
     <nd ref='2303810212' />
@@ -1168,12 +1199,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='New Era Academy' />
-    <tag k='personnel' v='10' />
-    <tag k='students' v='40' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='10' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='40' />
   </way>
-  <way id='221605639' timestamp='2013-05-17T13:54:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16167674'>
+  <way id='221605639' timestamp='2013-05-17T13:54:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2306397001' />
     <nd ref='2306396999' />
     <nd ref='2306396992' />
@@ -1188,12 +1220,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Holy Smile Pre-School' />
-    <tag k='personnel' v='9' />
-    <tag k='students' v='60' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='9' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='60' />
   </way>
-  <way id='221633883' timestamp='2013-06-17T07:54:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16585677'>
+  <way id='221633883' timestamp='2013-06-17T07:54:40Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2306676949' />
     <nd ref='2306676945' />
     <nd ref='2306676939' />
@@ -1206,12 +1239,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Tender Loving Care Pre School' />
-    <tag k='personnel' v='5' />
-    <tag k='students' v='14' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='14' />
   </way>
-  <way id='221824842' timestamp='2013-05-19T06:45:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189129'>
+  <way id='221824842' timestamp='2013-05-19T06:45:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2308181849' />
     <nd ref='2308181845' />
     <nd ref='2308181855' />
@@ -1220,12 +1254,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Premier International Pre-School' />
-    <tag k='personnel' v='10' />
-    <tag k='students' v='13' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='10' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='13' />
   </way>
-  <way id='221824845' timestamp='2013-05-19T06:48:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16189161'>
+  <way id='221824845' timestamp='2013-05-19T06:48:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2308181912' />
     <nd ref='2308181868' />
     <nd ref='2308181865' />
@@ -1236,12 +1271,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Toto&apos;s World Pre-School' />
-    <tag k='personnel' v='12' />
-    <tag k='students' v='32' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='12' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='32' />
   </way>
-  <way id='222136572' timestamp='2013-05-20T04:25:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16202614'>
+  <way id='222136572' timestamp='2013-05-20T04:25:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2311097696' />
     <nd ref='2311097702' />
     <nd ref='2311097701' />
@@ -1250,12 +1286,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Jolly Buds Pre-School' />
-    <tag k='personnel' v='6' />
-    <tag k='students' v='16' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='16' />
   </way>
-  <way id='222169997' timestamp='2013-07-01T04:38:20Z' uid='1034219' user='shrijana' visible='true' version='3' changeset='16772800'>
+  <way id='222169997' timestamp='2013-07-01T04:38:20Z' uid='1034219' user='shrijana' visible='true' version='4' changeset='17342205'>
     <nd ref='2311499087' />
     <nd ref='2311499097' />
     <nd ref='2311499089' />
@@ -1266,13 +1303,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='primary' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Moral Kindergarten(Academy)' />
-    <tag k='personnel' v='13' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='13' />
     <tag k='phone' v='01-5535595' />
-    <tag k='students' v='60' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='60' />
   </way>
-  <way id='222182627' timestamp='2013-07-09T10:14:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16885152'>
+  <way id='222182627' timestamp='2013-07-09T10:14:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17342205'>
     <nd ref='2311644834' />
     <nd ref='2311644694' />
     <nd ref='2311644642' />
@@ -1281,13 +1319,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Little Flower Child Care Centre' />
-    <tag k='personnel' v='3' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='3' />
     <tag k='phone' v='9808572279' />
-    <tag k='students' v='11' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='11' />
   </way>
-  <way id='222495751' timestamp='2013-05-26T05:33:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16287730'>
+  <way id='222495751' timestamp='2013-05-26T05:33:03Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2314627466' />
     <nd ref='2314627477' />
     <nd ref='2314627474' />
@@ -1299,12 +1338,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Baby Zone Montessori Pre School' />
-    <tag k='personnel' v='15' />
-    <tag k='students' v='100' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='15' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='100' />
   </way>
-  <way id='222716499' timestamp='2013-06-24T04:47:57Z' uid='1577075' user='Dark SKY' visible='true' version='4' changeset='16678605'>
+  <way id='222716499' timestamp='2013-06-24T04:47:57Z' uid='1577075' user='Dark SKY' visible='true' version='5' changeset='17342205'>
     <nd ref='2316603957' />
     <nd ref='2316603955' />
     <nd ref='2316603972' />
@@ -1315,12 +1355,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Bethel International Academy' />
-    <tag k='personnel' v='11' />
-    <tag k='students' v='40' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='11' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='40' />
   </way>
-  <way id='222753147' timestamp='2013-05-24T04:00:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16260140'>
+  <way id='222753147' timestamp='2013-05-24T04:00:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2316914247' />
     <nd ref='2316914250' />
     <nd ref='2316914244' />
@@ -1329,12 +1370,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Sano Pathshala' />
-    <tag k='personnel' v='7' />
-    <tag k='students' v='20' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='7' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='20' />
   </way>
-  <way id='222753149' timestamp='2013-05-24T04:11:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16260189'>
+  <way id='222753149' timestamp='2013-05-24T04:11:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2316914226' />
     <nd ref='2316914236' />
     <nd ref='2316914235' />
@@ -1347,12 +1389,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Wonderland International Pre-School' />
-    <tag k='personnel' v='15' />
-    <tag k='students' v='36' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='15' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='36' />
   </way>
-  <way id='222788943' timestamp='2013-07-12T04:35:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16921182'>
+  <way id='222788943' timestamp='2013-07-12T04:35:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17342205'>
     <nd ref='2317295174' />
     <nd ref='2317295175' />
     <nd ref='2317295167' />
@@ -1361,12 +1404,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Kids Care Int&apos;l Pre School' />
-    <tag k='personnel' v='9' />
-    <tag k='students' v='38' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='9' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='38' />
   </way>
-  <way id='222842640' timestamp='2013-05-26T05:24:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16287679'>
+  <way id='222842640' timestamp='2013-05-26T05:24:57Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2317885518' />
     <nd ref='2317885536' />
     <nd ref='2317885535' />
@@ -1376,14 +1420,13 @@
     <nd ref='2317885516' />
     <nd ref='2317885518' />
     <tag k='amenity' v='kindergarten' />
-    <tag k='building_count' v='' />
+    <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Wonderland Kindergarten' />
-    <tag k='personnel' v='' />
-    <tag k='students' v='' />
+    <tag k='operator:type' v='private' />
+    <tag k='source' v='OpenDRI survey' />
   </way>
-  <way id='222872127' timestamp='2013-05-26T07:22:18Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16288415'>
+  <way id='222872127' timestamp='2013-05-26T07:22:18Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2318170328' />
     <nd ref='2318170330' />
     <nd ref='2318170331' />
@@ -1399,12 +1442,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='New Spring Kindergarten' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='48' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='48' />
   </way>
-  <way id='222872128' timestamp='2013-07-07T10:57:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16859589'>
+  <way id='222872128' timestamp='2013-07-07T10:57:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2318170192' />
     <nd ref='2318170194' />
     <nd ref='2318170199' />
@@ -1413,12 +1457,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Rising Star Kindergarten' />
-    <tag k='personnel' v='10' />
-    <tag k='students' v='35' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='10' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='35' />
   </way>
-  <way id='223034123' timestamp='2013-06-10T16:52:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16498622'>
+  <way id='223034123' timestamp='2013-06-10T16:52:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2319779731' />
     <nd ref='2319779726' />
     <nd ref='2319779724' />
@@ -1427,12 +1472,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Garfield Academy' />
-    <tag k='personnel' v='4' />
-    <tag k='students' v='15' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='15' />
   </way>
-  <way id='223132670' timestamp='2013-05-27T06:06:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16305103'>
+  <way id='223132670' timestamp='2013-05-27T06:06:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2320655769' />
     <nd ref='2320655777' />
     <nd ref='2320655773' />
@@ -1441,12 +1487,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Mount Green Montessori' />
-    <tag k='personnel' v='3' />
-    <tag k='students' v='20' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='3' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='20' />
   </way>
-  <way id='223274581' timestamp='2013-05-28T03:25:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16318326'>
+  <way id='223274581' timestamp='2013-05-28T03:25:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2321897965' />
     <nd ref='2321897968' />
     <nd ref='2321897966' />
@@ -1459,12 +1506,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Euro Kids' />
-    <tag k='personnel' v='16' />
-    <tag k='students' v='41' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='16' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='41' />
   </way>
-  <way id='223275036' timestamp='2013-05-28T03:33:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16318371'>
+  <way id='223275036' timestamp='2013-05-28T03:33:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2321901096' />
     <nd ref='2321901083' />
     <nd ref='2321901081' />
@@ -1473,12 +1521,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Elvids Academy' />
-    <tag k='personnel' v='6' />
-    <tag k='students' v='13' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='13' />
   </way>
-  <way id='223275037' timestamp='2013-05-28T03:29:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16318350'>
+  <way id='223275037' timestamp='2013-05-28T03:29:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2321901111' />
     <nd ref='2321901113' />
     <nd ref='2321901106' />
@@ -1489,12 +1538,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='3' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Mother Ganga Day Care &amp; Pre school' />
-    <tag k='personnel' v='12' />
-    <tag k='students' v='55' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='12' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='55' />
   </way>
-  <way id='223275413' timestamp='2013-05-31T06:50:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16360822'>
+  <way id='223275413' timestamp='2013-05-31T06:50:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2321906143' />
     <nd ref='2321906140' />
     <nd ref='2321906132' />
@@ -1503,12 +1553,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='School of Leaders (SOL)' />
-    <tag k='personnel' v='7' />
-    <tag k='students' v='10' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='7' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='10' />
   </way>
-  <way id='223299782' timestamp='2013-05-29T10:28:39Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16335898'>
+  <way id='223299782' timestamp='2013-05-29T10:28:39Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2322097563' />
     <nd ref='2322097561' />
     <nd ref='2322097553' />
@@ -1524,12 +1575,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Glacier Montessori and Kidz Home' />
-    <tag k='personnel' v='5' />
-    <tag k='students' v='25' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='25' />
   </way>
-  <way id='223407551' timestamp='2013-05-30T07:47:23Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16347776'>
+  <way id='223407551' timestamp='2013-05-30T07:47:23Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2323067000' />
     <nd ref='2323066999' />
     <nd ref='2323067029' />
@@ -1538,13 +1590,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='IGK Pre-School' />
-    <tag k='personnel' v='13' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='13' />
     <tag k='phone' v='01-5260403' />
-    <tag k='students' v='40' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='40' />
   </way>
-  <way id='223499320' timestamp='2013-05-30T07:53:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16347844'>
+  <way id='223499320' timestamp='2013-05-30T07:53:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2323931384' />
     <nd ref='2323931378' />
     <nd ref='2323931385' />
@@ -1553,13 +1606,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Sunshine Smile Kindergarten &amp; Pre School' />
-    <tag k='personnel' v='3' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='3' />
     <tag k='phone' v='01-5553012' />
-    <tag k='students' v='15' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='15' />
   </way>
-  <way id='223504504' timestamp='2013-07-07T10:45:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='16859461'>
+  <way id='223504504' timestamp='2013-07-07T10:45:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='17342205'>
     <nd ref='2323970157' />
     <nd ref='2323970159' />
     <nd ref='2323970163' />
@@ -1572,26 +1626,21 @@
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Average' />
     <tag k='building:floor_material' v='RCC/RBC' />
-    <tag k='building:floor_material:others' v='' />
     <tag k='building:level' v='4' />
     <tag k='building:neighbour' v='Free_Standing' />
     <tag k='building:overhang' v='No' />
     <tag k='building:owner' v='Rent' />
     <tag k='building:retrofit' v='No' />
     <tag k='building:roof_material' v='RCC/RBC' />
-    <tag k='building:roof_material:others' v='' />
     <tag k='building:roof_slope' v='Flat' />
-    <tag k='building:roof_slope:others' v='' />
     <tag k='building:shape:elevation' v='Regular' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='Yes' />
     <tag k='building:structure' v='Non_Engineered_RC_Frame' />
-    <tag k='building:structure:others' v='' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='9x9' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Essel World Montessori' />
     <tag k='occupants:day' v='14' />
     <tag k='occupants:evening' v='7' />
@@ -1599,10 +1648,12 @@
     <tag k='occupants:night' v='7' />
     <tag k='oid' v='1' />
     <tag k='operator' v='Essel World Montessori' />
-    <tag k='personnel' v='4' />
-    <tag k='students' v='10' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='4' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='10' />
   </way>
-  <way id='223673490' timestamp='2013-06-14T06:27:22Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16546012'>
+  <way id='223673490' timestamp='2013-06-14T06:27:22Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2325432155' />
     <nd ref='2325432156' />
     <nd ref='2325432161' />
@@ -1615,12 +1666,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='World Class School' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='31' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='31' />
   </way>
-  <way id='223684778' timestamp='2013-06-10T09:31:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16493210'>
+  <way id='223684778' timestamp='2013-06-10T09:31:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2325604145' />
     <nd ref='2325604141' />
     <nd ref='2325604096' />
@@ -1629,12 +1681,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Shemrock Little Harvard' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='75' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='75' />
   </way>
-  <way id='224192702' timestamp='2013-06-12T05:51:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16519335'>
+  <way id='224192702' timestamp='2013-06-12T05:51:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2330167409' />
     <nd ref='2330167407' />
     <nd ref='2330167405' />
@@ -1645,12 +1698,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Star public Montessori' />
-    <tag k='personnel' v='9' />
-    <tag k='students' v='24' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='9' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='24' />
   </way>
-  <way id='224253816' timestamp='2013-07-12T10:25:35Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='16924189'>
+  <way id='224253816' timestamp='2013-07-12T10:25:35Z' uid='1361677' user='KTM-Mappers' visible='true' version='5' changeset='17342205'>
     <nd ref='2330738776' />
     <nd ref='2330738777' />
     <nd ref='2330738775' />
@@ -1663,35 +1717,32 @@
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
     <tag k='building:floor_material' v='RCC/RBC' />
-    <tag k='building:floor_material:others' v='' />
     <tag k='building:level' v='4' />
     <tag k='building:neighbour' v='One_Side_Different_Height' />
     <tag k='building:overhang' v='No' />
     <tag k='building:owner' v='Rent' />
     <tag k='building:retrofit' v='No' />
     <tag k='building:roof_material' v='RCC/RBC' />
-    <tag k='building:roof_material:others' v='' />
     <tag k='building:roof_slope' v='Flat' />
-    <tag k='building:roof_slope:others' v='' />
     <tag k='building:shape:elevation' v='Setback' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='No' />
     <tag k='building:structure' v='Non_Engineered_RC_Frame' />
-    <tag k='building:structure:others' v='' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='9x9' />
     <tag k='earthquake_resistant_element' v='No' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Shuvam Montessori' />
     <tag k='occupants:day' v='51' />
     <tag k='occupants:evening' v='0' />
     <tag k='occupants:morning' v='0' />
     <tag k='occupants:night' v='0' />
-    <tag k='personnel' v='6' />
-    <tag k='students' v='45' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='45' />
   </way>
-  <way id='224266778' timestamp='2013-07-08T09:54:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16871159'>
+  <way id='224266778' timestamp='2013-07-08T09:54:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17342205'>
     <nd ref='2330850537' />
     <nd ref='2330850530' />
     <nd ref='2330850505' />
@@ -1701,13 +1752,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Thasi Montessori Kindergarten' />
-    <tag k='personnel' v='7' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='7' />
     <tag k='phone' v='01-5582858' />
-    <tag k='students' v='50' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='50' />
   </way>
-  <way id='224458572' timestamp='2013-06-06T04:59:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440052'>
+  <way id='224458572' timestamp='2013-06-06T04:59:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2332813493' />
     <nd ref='2332813495' />
     <nd ref='2332813500' />
@@ -1716,12 +1768,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Kantipur Montessori Kinder World' />
-    <tag k='personnel' v='5' />
-    <tag k='students' v='22' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='22' />
   </way>
-  <way id='224458573' timestamp='2013-06-06T04:52:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16440003'>
+  <way id='224458573' timestamp='2013-06-06T04:52:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2332813454' />
     <nd ref='2332813475' />
     <nd ref='2332813470' />
@@ -1730,12 +1783,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Spring Garden Kid&apos;s World' />
-    <tag k='personnel' v='7' />
-    <tag k='students' v='32' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='7' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='32' />
   </way>
-  <way id='224632272' timestamp='2013-06-07T05:38:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16452798'>
+  <way id='224632272' timestamp='2013-06-07T05:38:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2334339662' />
     <nd ref='2334339669' />
     <nd ref='2334339668' />
@@ -1744,12 +1798,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Donald Home' />
-    <tag k='personnel' v='6' />
-    <tag k='students' v='14' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='6' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='14' />
   </way>
-  <way id='224877226' timestamp='2013-06-17T12:31:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16589202'>
+  <way id='224877226' timestamp='2013-06-17T12:31:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2337220226' />
     <nd ref='2337220220' />
     <nd ref='2337220211' />
@@ -1759,12 +1814,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Montessori  International Pre-School' />
-    <tag k='personnel' v='5' />
-    <tag k='students' v='23' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='5' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='23' />
   </way>
-  <way id='224961217' timestamp='2013-06-10T11:17:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16494470'>
+  <way id='224961217' timestamp='2013-06-10T11:17:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2338010765' />
     <nd ref='2338010764' />
     <nd ref='2338010766' />
@@ -1777,12 +1833,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Purna Kalash Montessori Kindergarten' />
-    <tag k='personnel' v='12' />
-    <tag k='students' v='70' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='12' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='70' />
   </way>
-  <way id='224961218' timestamp='2013-06-10T11:23:39Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16494547'>
+  <way id='224961218' timestamp='2013-06-10T11:23:39Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2338010756' />
     <nd ref='2338010762' />
     <nd ref='2338010763' />
@@ -1791,12 +1848,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='School of Sponge Learners' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='80' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='80' />
   </way>
-  <way id='225013709' timestamp='2013-06-22T08:14:28Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16653058'>
+  <way id='225013709' timestamp='2013-06-22T08:14:28Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2338442518' />
     <nd ref='2338442514' />
     <nd ref='2338442493' />
@@ -1805,12 +1863,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Tiny Tots Kindergarten' />
-    <tag k='personnel' v='16' />
-    <tag k='students' v='36' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='16' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='36' />
   </way>
-  <way id='225422529' timestamp='2013-06-20T09:02:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16626977'>
+  <way id='225422529' timestamp='2013-06-20T09:02:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2342018503' />
     <nd ref='2342018500' />
     <nd ref='2342018504' />
@@ -1830,12 +1889,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Urbana School' />
-    <tag k='personnel' v='23' />
-    <tag k='students' v='100' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='23' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='100' />
   </way>
-  <way id='225435978' timestamp='2013-06-19T10:27:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16615228'>
+  <way id='225435978' timestamp='2013-06-19T10:27:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2342125868' />
     <nd ref='2342125866' />
     <nd ref='2342125857' />
@@ -1846,12 +1906,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Namaste Kids World' />
-    <tag k='personnel' v='7' />
-    <tag k='students' v='35' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='7' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='35' />
   </way>
-  <way id='225443243' timestamp='2013-06-19T10:56:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16615556'>
+  <way id='225443243' timestamp='2013-06-19T10:56:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2342196388' />
     <nd ref='2342196386' />
     <nd ref='2342196381' />
@@ -1862,12 +1923,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Rose Petal Kindergarten' />
-    <tag k='personnel' v='3' />
-    <tag k='students' v='20' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='3' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='20' />
   </way>
-  <way id='226280677' timestamp='2013-06-19T12:17:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16616450'>
+  <way id='226280677' timestamp='2013-06-19T12:17:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2351341456' />
     <nd ref='2351341454' />
     <nd ref='2351341459' />
@@ -1876,12 +1938,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Fairy&apos;s World Montessori' />
-    <tag k='personnel' v='14' />
-    <tag k='students' v='60' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='14' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='60' />
   </way>
-  <way id='226336778' timestamp='2013-06-21T03:49:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16638526'>
+  <way id='226336778' timestamp='2013-06-21T03:49:25Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2351827743' />
     <nd ref='2351827740' />
     <nd ref='2351827741' />
@@ -1894,13 +1957,14 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Montessori Kids Wonderland' />
-    <tag k='personnel' v='7' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='7' />
     <tag k='phone' v='5554312' />
-    <tag k='students' v='25' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='25' />
   </way>
-  <way id='227942898' timestamp='2013-07-07T06:07:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16856535'>
+  <way id='227942898' timestamp='2013-07-07T06:07:50Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2365760081' />
     <nd ref='2365760077' />
     <nd ref='2365760066' />
@@ -1909,12 +1973,13 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Ujjwal Tara Pre School' />
-    <tag k='personnel' v='10' />
-    <tag k='students' v='36' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='10' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='36' />
   </way>
-  <way id='228775614' timestamp='2013-07-07T08:48:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16858058'>
+  <way id='228775614' timestamp='2013-07-07T08:48:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17342205'>
     <nd ref='2374510818' />
     <nd ref='2374510819' />
     <nd ref='2374510816' />
@@ -1927,26 +1992,21 @@
     <tag k='building:bay:y' v='2' />
     <tag k='building:condition' v='Good' />
     <tag k='building:floor_material' v='RCC/RBC' />
-    <tag k='building:floor_material:others' v='' />
     <tag k='building:level' v='3' />
     <tag k='building:neighbour' v='Free_Standing' />
     <tag k='building:overhang' v='Yes' />
     <tag k='building:owner' v='Rent' />
     <tag k='building:retrofit' v='No' />
     <tag k='building:roof_material' v='RCC/RBC' />
-    <tag k='building:roof_material:others' v='' />
     <tag k='building:roof_slope' v='Flat' />
-    <tag k='building:roof_slope:others' v='' />
     <tag k='building:shape:elevation' v='Setback' />
     <tag k='building:shape:plan' v='Rectangular' />
     <tag k='building:soft_storey' v='No' />
     <tag k='building:structure' v='Non_Engineered_RC_Frame' />
-    <tag k='building:structure:others' v='' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='9x9' />
     <tag k='earthquake_resistant_element' v='N/A' />
     <tag k='isced:level' v='kindergarten' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Nawa Kshitiz Montessori' />
     <tag k='occupants:day' v='7' />
     <tag k='occupants:evening' v='7' />
@@ -1954,10 +2014,12 @@
     <tag k='occupants:night' v='4' />
     <tag k='oid' v='1' />
     <tag k='operator' v='Nawa Kshitiz Montessori' />
-    <tag k='personnel' v='3' />
-    <tag k='students' v='4' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='3' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='4' />
   </way>
-  <way id='228778525' timestamp='2013-07-07T08:28:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16857801'>
+  <way id='228778525' timestamp='2013-07-07T08:28:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17342205'>
     <nd ref='2374532973' />
     <nd ref='2374532975' />
     <nd ref='2374532974' />
@@ -1966,9 +2028,10 @@
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='primary' />
-    <tag k='management_type' v='private' />
     <tag k='name' v='Chhunumunu Montessori School' />
-    <tag k='personnel' v='8' />
-    <tag k='students' v='60' />
+    <tag k='operator:type' v='private' />
+    <tag k='personnel:count' v='8' />
+    <tag k='source' v='OpenDRI survey' />
+    <tag k='student:count' v='60' />
   </way>
 </osm>
