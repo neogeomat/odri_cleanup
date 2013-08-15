@@ -513,16 +513,12 @@
     <tag k='source' v='OpenDRI survey' />
     <tag k='student:count' v='100' />
   </way>
-  <way id='181689163' timestamp='2013-05-17T09:15:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17342205'>
+  <way id='181689163' timestamp='2013-05-17T09:15:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='17354045'>
     <nd ref='1921084856' />
     <nd ref='1921084901' />
     <nd ref='1921084899' />
     <nd ref='1921084855' />
     <nd ref='1921084856' />
-    <tag k='addr:city' v='Kathmandu' />
-    <tag k='addr:country' v='NP' />
-    <tag k='addr:postcode' v='Ward TBD' />
-    <tag k='addr:street' v='TBD' />
     <tag k='amenity' v='kindergarten' />
     <tag k='building' v='yes' />
     <tag k='building_count' v='2' />
@@ -628,7 +624,7 @@
     <tag k='source' v='OpenDRI survey' />
     <tag k='student:count' v='100' />
   </way>
-  <way id='216443375' timestamp='2013-07-30T11:00:41Z' uid='1068220' user='Helina' visible='true' version='4' changeset='17342205'>
+  <way id='216443375' timestamp='2013-07-30T11:00:41Z' uid='1068220' user='Helina' visible='true' version='5' changeset='17354045'>
     <nd ref='2257882445' />
     <nd ref='2257882440' />
     <nd ref='2257882447' />
@@ -637,7 +633,6 @@
     <nd ref='2257882463' />
     <nd ref='2257882460' />
     <nd ref='2257882445' />
-    <tag k='addr:city' v='Bhatbhateni' />
     <tag k='amenity' v='kindergarten' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='kindergarten' />
