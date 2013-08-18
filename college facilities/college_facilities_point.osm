@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2293445120' timestamp='2013-07-08T06:23:34Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='16868913' lat='27.7257973' lon='85.3576673'>
+    <tag k='amenity' v='college' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='college' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Samaj School of Dentistry' />
+    <tag k='personnel' v='35' />
+    <tag k='students' v='100' />
+  </node>
+  <node id='2316603873' timestamp='2013-07-12T04:46:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='3' changeset='16921282' lat='27.6871127' lon='85.2983923'>
+    <tag k='amenity' v='college' />
+    <tag k='building_count' v='2' />
+    <tag k='isced:level' v='college' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Cambridge College' />
+    <tag k='personnel' v='22' />
+    <tag k='students' v='100' />
+  </node>
+  <node id='2320299473' timestamp='2013-05-26T05:10:24Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16287600' lat='27.6967359' lon='85.2953077'>
+    <tag k='amenity' v='college' />
+    <tag k='building_count' v='1' />
+    <tag k='isced:level' v='college' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='intensive international college' />
+    <tag k='personnel' v='30' />
+    <tag k='students' v='500' />
+  </node>
+  <node id='2353771417' timestamp='2013-06-22T12:48:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16655986' lat='27.6682044' lon='85.3226379'>
+    <tag k='amenity' v='college' />
+    <tag k='building_count' v='6' />
+    <tag k='isced:level' v='college' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='AIMS International College' />
+    <tag k='personnel' v='30' />
+    <tag k='students' v='200' />
+  </node>
+  <node id='2380966268' timestamp='2013-07-29T02:41:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17133363' lat='27.728144' lon='85.3031224'>
+    <tag k='amenity' v='college' />
+    <tag k='building_count' v='3' />
+    <tag k='isced:level' v='college' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Janamaitre Foundation Institute of Health Science' />
+    <tag k='personnel' v='11' />
+    <tag k='students' v='30' />
+  </node>
+  <node id='2381971836' timestamp='2013-07-29T02:44:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='17133376' lat='27.6936118' lon='85.2804068'>
+    <tag k='amenity' v='college' />
+    <tag k='building_count' v='4' />
+    <tag k='isced:level' v='college' />
+    <tag k='management_type' v='private' />
+    <tag k='name' v='Cambridge College' />
+    <tag k='personnel' v='50' />
+    <tag k='students' v='600' />
+  </node>
+</osm>
