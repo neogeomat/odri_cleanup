@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='2293445120' timestamp='2013-07-08T06:23:34Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17391770' lat='27.7257973' lon='85.3576673'>
+  <node id='2293445120' timestamp='2013-08-18T06:52:16Z' uid='680067' user='amritkarma' visible='true' version='4' changeset='17391770' lat='27.7257973' lon='85.3576673'>
     <tag k='amenity' v='college' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='college' />
@@ -9,7 +9,7 @@
     <tag k='personnel:count' v='35' />
     <tag k='student:count' v='100' />
   </node>
-  <node id='2316603873' timestamp='2013-07-12T04:46:30Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17391770' lat='27.6871127' lon='85.2983923'>
+  <node id='2316603873' timestamp='2013-08-18T06:52:16Z' uid='680067' user='amritkarma' visible='true' version='4' changeset='17391770' lat='27.6871127' lon='85.2983923'>
     <tag k='amenity' v='college' />
     <tag k='building_count' v='2' />
     <tag k='isced:level' v='college' />
@@ -18,7 +18,7 @@
     <tag k='personnel:count' v='22' />
     <tag k='student:count' v='100' />
   </node>
-  <node id='2320299473' timestamp='2013-05-26T05:10:24Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17391770' lat='27.6967359' lon='85.2953077'>
+  <node id='2320299473' timestamp='2013-08-18T06:52:17Z' uid='680067' user='amritkarma' visible='true' version='3' changeset='17391770' lat='27.6967359' lon='85.2953077'>
     <tag k='amenity' v='college' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='college' />
@@ -27,7 +27,7 @@
     <tag k='personnel:count' v='30' />
     <tag k='student:count' v='500' />
   </node>
-  <node id='2353771417' timestamp='2013-06-22T12:48:41Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17391770' lat='27.6682044' lon='85.3226379'>
+  <node id='2353771417' timestamp='2013-08-18T06:52:16Z' uid='680067' user='amritkarma' visible='true' version='3' changeset='17391770' lat='27.6682044' lon='85.3226379'>
     <tag k='amenity' v='college' />
     <tag k='building_count' v='6' />
     <tag k='isced:level' v='college' />
@@ -36,7 +36,7 @@
     <tag k='personnel:count' v='30' />
     <tag k='student:count' v='200' />
   </node>
-  <node id='2380966268' timestamp='2013-07-29T02:41:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17391770' lat='27.728144' lon='85.3031224'>
+  <node id='2380966268' timestamp='2013-08-18T06:52:16Z' uid='680067' user='amritkarma' visible='true' version='4' changeset='17391770' lat='27.728144' lon='85.3031224'>
     <tag k='amenity' v='college' />
     <tag k='building_count' v='3' />
     <tag k='isced:level' v='college' />
@@ -45,7 +45,7 @@
     <tag k='personnel:count' v='11' />
     <tag k='student:count' v='30' />
   </node>
-  <node id='2381971836' timestamp='2013-07-29T02:44:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17391770' lat='27.6936118' lon='85.2804068'>
+  <node id='2381971836' timestamp='2013-08-18T06:52:16Z' uid='680067' user='amritkarma' visible='true' version='3' changeset='17391770' lat='27.6936118' lon='85.2804068'>
     <tag k='amenity' v='college' />
     <tag k='building_count' v='4' />
     <tag k='isced:level' v='college' />
