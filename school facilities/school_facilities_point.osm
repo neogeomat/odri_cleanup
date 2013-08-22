@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='2308089077' timestamp='2013-05-17T12:58:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16166927' lat='27.7075818' lon='85.3140266'>
+  <node id='2308089077' action='modify' timestamp='2013-05-17T12:58:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='2' changeset='16166927' lat='27.7075818' lon='85.3140266'>
     <tag k='amenity' v='school' />
     <tag k='building_count' v='1' />
     <tag k='isced:level' v='secondary' />
-    <tag k='management_type' v='government' />
     <tag k='name' v='Sanskrit Secondary School' />
-    <tag k='personnel' v='24' />
-    <tag k='students' v='200' />
+    <tag k='operator:type' v='government' />
+    <tag k='personnel:count' v='24' />
+    <tag k='student:count' v='200' />
   </node>
 </osm>
