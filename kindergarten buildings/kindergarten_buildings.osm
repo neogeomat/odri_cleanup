@@ -620,7 +620,7 @@
   <node id='2374510816' timestamp='2013-07-05T05:56:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16830460' lat='27.6287132' lon='85.3276789' />
   <node id='2374510818' timestamp='2013-07-05T05:56:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16830460' lat='27.6288' lon='85.3275942' />
   <node id='2374510819' timestamp='2013-07-05T05:56:58Z' uid='680067' user='amritkarma' visible='true' version='1' changeset='16830460' lat='27.628798' lon='85.3276814' />
-  <way id='190954800' action='modify' timestamp='2013-04-17T07:53:50Z' uid='1361677' user='KTM-Mappers' visible='true' version='8' changeset='17356883'>
+  <way id='190954800' timestamp='2013-08-20T09:37:09Z' uid='680067' user='amritkarma' visible='true' version='10' changeset='17616831'>
     <nd ref='2015436144' />
     <nd ref='2015436116' />
     <nd ref='2015436037' />
@@ -634,7 +634,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='55' />
@@ -648,8 +647,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='196278853' action='modify' timestamp='2013-07-12T10:42:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='196278853' timestamp='2013-08-20T09:37:12Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2066261537' />
     <nd ref='2066261536' />
     <nd ref='2066261529' />
@@ -663,7 +663,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -679,8 +678,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='T-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='197148621' action='modify' timestamp='2013-05-14T10:25:22Z' uid='1307688' user='Rita Thapa' visible='true' version='5' changeset='17356883'>
+  <way id='197148621' timestamp='2013-08-20T09:36:58Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2074408858' />
     <nd ref='2074408864' />
     <nd ref='2074408832' />
@@ -694,7 +694,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -710,8 +709,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='204202279' action='modify' timestamp='2013-05-14T08:30:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='204202279' timestamp='2013-08-20T09:36:58Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2142219393' />
     <nd ref='2142219406' />
     <nd ref='2142219397' />
@@ -725,7 +725,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='19' />
@@ -742,8 +741,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='206073047' action='modify' timestamp='2013-07-07T05:56:31Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='206073047' timestamp='2013-08-20T09:37:19Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2160710886' />
     <nd ref='2160710880' />
     <nd ref='2160710829' />
@@ -757,7 +757,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -775,8 +774,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='206810391' action='modify' timestamp='2013-07-10T11:22:08Z' uid='1361677' user='KTM-Mappers' visible='true' version='6' changeset='17356883'>
+  <way id='206810391' timestamp='2013-08-20T09:37:34Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2168595254' />
     <nd ref='2168595257' />
     <nd ref='2168595256' />
@@ -794,7 +794,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='before_1960' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_mud_mortar' />
     <tag k='floor:material' v='wood' />
     <tag k='occupant:day' v='83' />
@@ -807,8 +806,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='before_1960' />
   </way>
-  <way id='206867311' action='modify' timestamp='2013-07-01T06:03:26Z' uid='1034219' user='shrijana' visible='true' version='5' changeset='17356883'>
+  <way id='206867311' timestamp='2013-08-20T09:37:11Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2169141805' />
     <nd ref='2169141804' />
     <nd ref='2169141809' />
@@ -822,7 +822,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='16' />
     <tag k='occupant:evening' v='0' />
@@ -838,8 +837,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='207291311' action='modify' timestamp='2013-07-10T08:00:04Z' uid='1034219' user='shrijana' visible='true' version='7' changeset='17356883'>
+  <way id='207291311' timestamp='2013-08-20T09:37:31Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17616831'>
     <nd ref='2174839739' />
     <nd ref='2174839737' />
     <nd ref='2332790213' />
@@ -855,7 +855,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='39' />
@@ -869,8 +868,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='207427061' action='modify' timestamp='2013-08-14T09:10:11Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17356883'>
+  <way id='207427061' timestamp='2013-08-20T09:36:53Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2176821483' />
     <nd ref='2176821470' />
     <nd ref='2176821472' />
@@ -885,7 +885,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='building_count' v='1' />
     <tag k='floor:material' v='concrete' />
@@ -907,9 +906,10 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
     <tag k='student:count' v='4' />
   </way>
-  <way id='208032618' action='modify' timestamp='2013-07-09T07:10:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='17356883'>
+  <way id='208032618' timestamp='2013-08-20T09:37:22Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2183282269' />
     <nd ref='2183282268' />
     <nd ref='2183282266' />
@@ -923,7 +923,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='40' />
@@ -940,8 +939,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='208179948' action='modify' timestamp='2013-04-17T10:43:45Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='17356883'>
+  <way id='208179948' timestamp='2013-08-20T09:37:10Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2185070315' />
     <nd ref='2185070317' />
     <nd ref='2185070323' />
@@ -955,7 +955,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -971,8 +970,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='208363614' action='modify' timestamp='2013-07-10T06:43:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='208363614' timestamp='2013-08-20T09:37:26Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2186646296' />
     <nd ref='2186646295' />
     <nd ref='2287645867' />
@@ -988,7 +988,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -1003,8 +1002,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='208534446' action='modify' timestamp='2013-04-12T02:47:07Z' uid='864593' user='Sazal(Solaris)' visible='true' version='5' changeset='17356883'>
+  <way id='208534446' timestamp='2013-08-20T09:37:25Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2188233966' />
     <nd ref='2188233965' />
     <nd ref='2188233959' />
@@ -1019,7 +1019,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -1035,8 +1034,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='208844106' action='modify' timestamp='2013-04-16T08:31:05Z' uid='864593' user='Sazal(Solaris)' visible='true' version='4' changeset='17356883'>
+  <way id='208844106' timestamp='2013-08-20T09:37:24Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2190999725' />
     <nd ref='2190999710' />
     <nd ref='2190999711' />
@@ -1051,7 +1051,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='25' />
@@ -1067,8 +1066,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='209124588' action='modify' timestamp='2013-08-14T09:10:13Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17356883'>
+  <way id='209124588' timestamp='2013-08-20T09:36:53Z' uid='680067' user='amritkarma' visible='true' version='10' changeset='17616831'>
     <nd ref='2193592820' />
     <nd ref='2193592814' />
     <nd ref='2193592817' />
@@ -1083,7 +1083,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='building_count' v='1' />
     <tag k='floor:material' v='wood' />
@@ -1103,9 +1102,10 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
     <tag k='student:count' v='50' />
   </way>
-  <way id='211665154' action='modify' timestamp='2013-04-16T08:27:32Z' uid='864593' user='Sazal(Solaris)' visible='true' version='4' changeset='17356883'>
+  <way id='211665154' timestamp='2013-08-20T09:37:00Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2216400212' />
     <nd ref='2216400209' />
     <nd ref='2216400203' />
@@ -1119,7 +1119,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_concrete_block_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='4' />
@@ -1133,8 +1132,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='215053616' action='modify' timestamp='2013-07-12T04:14:26Z' uid='1406652' user='Nepal-Mapper' visible='true' version='8' changeset='17356883'>
+  <way id='215053616' timestamp='2013-08-20T09:36:54Z' uid='680067' user='amritkarma' visible='true' version='10' changeset='17616831'>
     <nd ref='2244739070' />
     <nd ref='2244739065' />
     <nd ref='2244739068' />
@@ -1154,7 +1154,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='58' />
@@ -1170,8 +1169,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='215053618' action='modify' timestamp='2013-07-11T09:51:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='17356883'>
+  <way id='215053618' timestamp='2013-08-20T09:37:17Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2244739029' />
     <nd ref='2244739040' />
     <nd ref='2244739046' />
@@ -1185,7 +1185,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='29' />
     <tag k='occupant:evening' v='0' />
@@ -1200,8 +1199,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='215053625' action='modify' timestamp='2013-04-16T05:03:16Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='17356883'>
+  <way id='215053625' timestamp='2013-08-20T09:37:14Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2244739015' />
     <nd ref='2244739011' />
     <nd ref='2244739001' />
@@ -1215,7 +1215,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='72' />
@@ -1228,8 +1227,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='215212446' action='modify' timestamp='2013-04-12T09:36:02Z' uid='864593' user='Sazal(Solaris)' visible='true' version='4' changeset='17356883'>
+  <way id='215212446' timestamp='2013-08-20T09:37:29Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2246184617' />
     <nd ref='2246184614' />
     <nd ref='2246184608' />
@@ -1245,7 +1245,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='70' />
@@ -1259,8 +1258,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='215346892' action='modify' timestamp='2013-04-11T11:53:26Z' uid='864593' user='Sazal(Solaris)' visible='true' version='4' changeset='17356883'>
+  <way id='215346892' timestamp='2013-08-20T09:37:13Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2247644686' />
     <nd ref='2247644687' />
     <nd ref='2247644690' />
@@ -1274,7 +1274,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='34' />
@@ -1288,8 +1287,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='216443380' action='modify' timestamp='2013-04-16T03:25:44Z' uid='715547' user='paudel ananda' visible='true' version='4' changeset='17356883'>
+  <way id='216443380' timestamp='2013-08-20T09:37:18Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2257882449' />
     <nd ref='2257882443' />
     <nd ref='2257882440' />
@@ -1303,7 +1303,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='1' />
     <tag k='oid' v='2' />
@@ -1316,8 +1315,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='216443381' action='modify' timestamp='2013-07-10T11:14:46Z' uid='1361677' user='KTM-Mappers' visible='true' version='5' changeset='17356883'>
+  <way id='216443381' timestamp='2013-08-20T09:37:07Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2257882452' />
     <nd ref='2257882456' />
     <nd ref='2257882454' />
@@ -1331,7 +1331,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='27' />
@@ -1345,8 +1344,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='216612426' action='modify' timestamp='2013-04-16T04:08:30Z' uid='864593' user='Sazal(Solaris)' visible='true' version='4' changeset='17356883'>
+  <way id='216612426' timestamp='2013-08-20T09:36:59Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2260053442' />
     <nd ref='2260053441' />
     <nd ref='2260053439' />
@@ -1360,7 +1360,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -1376,8 +1375,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='216931877' action='modify' timestamp='2013-04-12T05:58:25Z' uid='864593' user='Sazal(Solaris)' visible='true' version='4' changeset='17356883'>
+  <way id='216931877' timestamp='2013-08-20T09:37:07Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2262475157' />
     <nd ref='2262475156' />
     <nd ref='2262475152' />
@@ -1391,7 +1391,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -1407,8 +1406,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='217526509' action='modify' timestamp='2013-07-10T11:22:08Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='17356883'>
+  <way id='217526509' timestamp='2013-08-20T09:37:20Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2268082101' />
     <nd ref='2268082007' />
     <nd ref='2268081627' />
@@ -1422,7 +1422,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -1435,8 +1434,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='217604910' action='modify' timestamp='2013-07-09T05:24:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='217604910' timestamp='2013-08-20T09:36:55Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='1895843053' />
     <nd ref='2268998137' />
     <nd ref='2268998135' />
@@ -1457,7 +1457,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='10' />
@@ -1473,8 +1472,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='217620033' action='modify' timestamp='2013-04-17T07:33:42Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17356883'>
+  <way id='217620033' timestamp='2013-08-20T09:37:00Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2269161774' />
     <nd ref='2269161772' />
     <nd ref='2269161771' />
@@ -1488,7 +1488,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='oid' v='2' />
     <tag k='operator' v='Mills Berry Kids World' />
@@ -1499,8 +1498,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='217620034' action='modify' timestamp='2013-04-17T07:53:39Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17356883'>
+  <way id='217620034' timestamp='2013-08-20T09:37:33Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2269161778' />
     <nd ref='2269161776' />
     <nd ref='2269161777' />
@@ -1518,7 +1518,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -1532,8 +1531,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='217622465' action='modify' timestamp='2013-04-17T07:57:59Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='17356883'>
+  <way id='217622465' timestamp='2013-08-20T09:37:13Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2269206420' />
     <nd ref='2269206415' />
     <nd ref='2269206409' />
@@ -1547,7 +1547,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='7' />
@@ -1561,8 +1560,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='217623712' action='modify' timestamp='2013-04-17T11:25:48Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17356883'>
+  <way id='217623712' timestamp='2013-08-20T09:37:14Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2269238328' />
     <nd ref='2269238326' />
     <nd ref='2269238320' />
@@ -1576,7 +1576,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='16' />
@@ -1590,8 +1589,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='217623713' action='modify' timestamp='2013-04-18T04:29:30Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17356883'>
+  <way id='217623713' timestamp='2013-08-20T09:37:01Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2269238316' />
     <nd ref='2269238318' />
     <nd ref='2269238314' />
@@ -1605,7 +1605,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='oid' v='2' />
@@ -1617,8 +1616,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='217631625' action='modify' timestamp='2013-04-16T13:57:14Z' uid='864593' user='Sazal(Solaris)' visible='true' version='3' changeset='17356883'>
+  <way id='217631625' timestamp='2013-08-20T09:37:02Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2269352044' />
     <nd ref='2269352042' />
     <nd ref='2269352039' />
@@ -1632,7 +1632,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='20' />
@@ -1645,8 +1644,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='217631626' action='modify' timestamp='2013-07-10T10:34:02Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='17356883'>
+  <way id='217631626' timestamp='2013-08-20T09:37:15Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2269352048' />
     <nd ref='2269352046' />
     <nd ref='2269352041' />
@@ -1660,7 +1660,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='38' />
@@ -1673,8 +1672,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='217724981' action='modify' timestamp='2013-04-17T10:01:36Z' uid='1361677' user='KTM-Mappers' visible='true' version='3' changeset='17356883'>
+  <way id='217724981' timestamp='2013-08-20T09:36:57Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2270268863' />
     <nd ref='2270268858' />
     <nd ref='2270268865' />
@@ -1688,7 +1688,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='engineered_reinforced_concrete' />
     <tag k='column:size' v='12x12' />
     <tag k='floor:material' v='concrete' />
@@ -1704,8 +1703,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='217724982' action='modify' timestamp='2013-04-17T09:59:00Z' uid='1361677' user='KTM-Mappers' visible='true' version='5' changeset='17356883'>
+  <way id='217724982' timestamp='2013-08-20T09:37:12Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2270268860' />
     <nd ref='2270268857' />
     <nd ref='2270268855' />
@@ -1719,7 +1719,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='12' />
     <tag k='occupant:night' v='0' />
@@ -1733,8 +1732,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='218652973' action='modify' timestamp='2013-07-10T09:49:32Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='218652973' timestamp='2013-08-20T09:37:24Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2278821895' />
     <nd ref='2317863210' />
     <nd ref='2278821894' />
@@ -1749,7 +1749,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -1764,8 +1763,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='218986003' action='modify' timestamp='2013-07-08T10:22:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='218986003' timestamp='2013-08-20T09:37:12Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2281927270' />
     <nd ref='2281927268' />
     <nd ref='2281927265' />
@@ -1779,7 +1779,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -1796,8 +1795,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='218994580' action='modify' timestamp='2013-05-01T09:35:30Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='218994580' timestamp='2013-08-20T09:37:08Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2281993005' />
     <nd ref='2281993006' />
     <nd ref='2281993008' />
@@ -1811,7 +1811,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='55' />
@@ -1828,8 +1827,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='219276308' action='modify' timestamp='2013-07-01T06:03:26Z' uid='1034219' user='shrijana' visible='true' version='4' changeset='17356883'>
+  <way id='219276308' timestamp='2013-08-20T09:37:31Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2284583926' />
     <nd ref='2284583972' />
     <nd ref='2284583947' />
@@ -1846,7 +1846,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='4' />
@@ -1862,8 +1861,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='219276311' action='modify' timestamp='2013-07-11T06:27:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='219276311' timestamp='2013-08-20T09:37:35Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2284583505' />
     <nd ref='2284583472' />
     <nd ref='2284583624' />
@@ -1882,7 +1882,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='20' />
@@ -1899,8 +1898,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='219619526' action='modify' timestamp='2013-05-13T01:07:54Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='219619526' timestamp='2013-08-20T09:37:23Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2287645042' />
     <nd ref='2287645035' />
     <nd ref='2287645032' />
@@ -1914,7 +1914,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='35' />
@@ -1930,8 +1929,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='219627754' action='modify' timestamp='2013-07-08T11:53:54Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='219627754' timestamp='2013-08-20T09:37:01Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2287714740' />
     <nd ref='2287714733' />
     <nd ref='2287714724' />
@@ -1945,7 +1945,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='17' />
@@ -1962,8 +1961,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='219627755' action='modify' timestamp='2013-07-08T11:53:38Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='219627755' timestamp='2013-08-20T09:37:14Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2287714725' />
     <nd ref='2287714732' />
     <nd ref='2287714722' />
@@ -1977,7 +1977,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='9' />
     <tag k='occupant:evening' v='0' />
@@ -1993,8 +1992,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='219627758' action='modify' timestamp='2013-07-08T11:54:02Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='219627758' timestamp='2013-08-20T09:37:22Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2287714743' />
     <nd ref='2287714742' />
     <nd ref='2287714737' />
@@ -2008,7 +2008,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='2`' />
@@ -2025,8 +2024,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='219629560' action='modify' timestamp='2013-05-05T15:43:28Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='219629560' timestamp='2013-08-20T09:37:03Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2287734303' />
     <nd ref='2287734301' />
     <nd ref='2287734302' />
@@ -2040,7 +2040,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='engineered_reinforced_concrete' />
     <tag k='column:size' v='12x12' />
     <tag k='floor:material' v='concrete' />
@@ -2055,8 +2054,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='219640837' action='modify' timestamp='2013-05-13T06:25:26Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='219640837' timestamp='2013-08-20T09:37:19Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2287857982' />
     <nd ref='2287857981' />
     <nd ref='2287857972' />
@@ -2070,7 +2070,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='oid' v='4' />
     <tag k='operator' v='Redhon Montessori Pre-School' />
@@ -2082,8 +2081,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='219640840' action='modify' timestamp='2013-05-13T06:21:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='219640840' timestamp='2013-08-20T09:37:20Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2287857988' />
     <nd ref='2287857977' />
     <nd ref='2287857979' />
@@ -2097,7 +2097,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='62' />
     <tag k='occupant:evening' v='0' />
@@ -2113,8 +2112,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='219640841' action='modify' timestamp='2013-05-13T06:24:37Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='219640841' timestamp='2013-08-20T09:37:09Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2287857991' />
     <nd ref='2287857986' />
     <nd ref='2287857989' />
@@ -2128,7 +2128,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -2146,8 +2145,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='219848241' action='modify' timestamp='2013-07-08T06:46:55Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='219848241' timestamp='2013-08-20T09:37:16Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2289814534' />
     <nd ref='2289814527' />
     <nd ref='2289814529' />
@@ -2161,7 +2161,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='33' />
@@ -2177,8 +2176,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='219896802' action='modify' timestamp='2013-07-08T11:27:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='219896802' timestamp='2013-08-20T09:37:13Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2290264391' />
     <nd ref='2290264387' />
     <nd ref='2290264384' />
@@ -2192,7 +2192,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='53' />
@@ -2206,8 +2205,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='219900968' action='modify' timestamp='2013-05-14T04:25:10Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='219900968' timestamp='2013-08-20T09:37:14Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2290302819' />
     <nd ref='2290302817' />
     <nd ref='2290302826' />
@@ -2221,7 +2221,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='25' />
     <tag k='oid' v='2' />
@@ -2234,8 +2233,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='219900977' action='modify' timestamp='2013-05-14T04:26:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='17356883'>
+  <way id='219900977' timestamp='2013-08-20T09:37:00Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2290302807' />
     <nd ref='2290302825' />
     <nd ref='2290302828' />
@@ -2249,7 +2249,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='117' />
@@ -2266,8 +2265,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='219928597' action='modify' timestamp='2013-05-07T06:42:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='219928597' timestamp='2013-08-20T09:37:09Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2290583746' />
     <nd ref='2290583744' />
     <nd ref='2290583741' />
@@ -2281,7 +2281,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -2297,8 +2296,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='220108553' action='modify' timestamp='2013-07-10T06:26:22Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='220108553' timestamp='2013-08-20T09:37:25Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2292305211' />
     <nd ref='2292305213' />
     <nd ref='2292305212' />
@@ -2314,7 +2314,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='34' />
@@ -2331,8 +2330,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='220227984' action='modify' timestamp='2013-07-09T06:49:13Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='220227984' timestamp='2013-08-20T09:37:05Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2293564624' />
     <nd ref='2293564622' />
     <nd ref='2293564616' />
@@ -2346,7 +2346,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='67' />
@@ -2363,8 +2362,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='220258420' action='modify' timestamp='2013-07-10T05:05:44Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='220258420' timestamp='2013-08-20T09:37:07Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2293870602' />
     <nd ref='2293870625' />
     <nd ref='2293870601' />
@@ -2378,7 +2378,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='13' />
@@ -2395,8 +2394,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='220261449' action='modify' timestamp='2013-07-10T06:00:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='220261449' timestamp='2013-08-20T09:37:19Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2293906964' />
     <nd ref='2293906963' />
     <nd ref='2293906944' />
@@ -2410,7 +2410,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -2428,8 +2427,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='220261452' action='modify' timestamp='2013-07-10T06:02:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='220261452' timestamp='2013-08-20T09:37:32Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2293906881' />
     <nd ref='2293906882' />
     <nd ref='2293906875' />
@@ -2447,7 +2447,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -2465,8 +2464,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='220295671' action='modify' timestamp='2013-07-09T06:42:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='220295671' timestamp='2013-08-20T09:37:02Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2294256629' />
     <nd ref='2294256627' />
     <nd ref='2294256624' />
@@ -2480,7 +2480,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -2498,8 +2497,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='220316429' action='modify' timestamp='2013-07-10T04:58:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='220316429' timestamp='2013-08-20T09:37:34Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2294504452' />
     <nd ref='2294504450' />
     <nd ref='2294504451' />
@@ -2517,7 +2517,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -2535,8 +2534,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='220318389' action='modify' timestamp='2013-07-09T07:10:19Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='17356883'>
+  <way id='220318389' timestamp='2013-08-20T09:36:56Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2294524819' />
     <nd ref='2294524816' />
     <nd ref='2358333858' />
@@ -2550,7 +2550,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='10' />
     <tag k='occupant:evening' v='0' />
@@ -2566,8 +2565,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='220410847' action='modify' timestamp='2013-05-08T13:54:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='220410847' timestamp='2013-08-20T09:37:03Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2295360107' />
     <nd ref='2295360104' />
     <nd ref='2295360103' />
@@ -2581,7 +2581,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -2596,8 +2595,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='220414625' action='modify' timestamp='2013-05-14T06:11:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='220414625' timestamp='2013-08-20T09:37:04Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2295387090' />
     <nd ref='2295387093' />
     <nd ref='2295387092' />
@@ -2611,7 +2611,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='20' />
@@ -2627,8 +2626,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='220577271' action='modify' timestamp='2013-05-14T08:29:11Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='220577271' timestamp='2013-08-20T09:37:06Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2296895691' />
     <nd ref='2296895690' />
     <nd ref='2296895688' />
@@ -2642,7 +2642,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='1' />
@@ -2659,8 +2658,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='220577274' action='modify' timestamp='2013-05-14T08:31:49Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='220577274' timestamp='2013-08-20T09:37:08Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2296895695' />
     <nd ref='2296895696' />
     <nd ref='2296895701' />
@@ -2674,7 +2674,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='ply' />
     <tag k='occupant:day' v='42' />
     <tag k='occupant:evening' v='0' />
@@ -2690,8 +2689,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='220577276' action='modify' timestamp='2013-05-14T08:47:53Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='220577276' timestamp='2013-08-20T09:36:59Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2296895642' />
     <nd ref='2296895640' />
     <nd ref='2296895636' />
@@ -2705,7 +2705,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='69' />
@@ -2720,8 +2719,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='221344969' action='modify' timestamp='2013-05-19T05:47:55Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='221344969' timestamp='2013-08-20T09:37:30Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2303740875' />
     <nd ref='2303740873' />
     <nd ref='2303740862' />
@@ -2737,7 +2737,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='257' />
@@ -2753,8 +2752,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='221351934' action='modify' timestamp='2013-05-16T05:21:16Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='221351934' timestamp='2013-08-20T09:37:30Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2303810211' />
     <nd ref='2303810204' />
     <nd ref='2303810203' />
@@ -2770,7 +2770,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='55' />
@@ -2787,8 +2786,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='221605641' action='modify' timestamp='2013-05-17T13:54:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='221605641' timestamp='2013-08-20T09:37:32Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2306396992' />
     <nd ref='2306396996' />
     <nd ref='2306396998' />
@@ -2806,7 +2806,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='70' />
@@ -2823,8 +2822,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='221633885' action='modify' timestamp='2013-06-17T07:55:15Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='221633885' timestamp='2013-08-20T09:37:16Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2306676948' />
     <nd ref='2306676946' />
     <nd ref='2306676943' />
@@ -2838,7 +2838,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -2855,8 +2854,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='221817067' action='modify' timestamp='2013-05-18T16:21:24Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='221817067' timestamp='2013-08-20T09:36:55Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2308151622' />
     <nd ref='2308151618' />
     <nd ref='2308151620' />
@@ -2878,7 +2878,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -2893,8 +2892,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='221824849' action='modify' timestamp='2013-05-19T06:46:18Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='221824849' timestamp='2013-08-20T09:37:10Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2308181853' />
     <nd ref='2308181852' />
     <nd ref='2308181847' />
@@ -2908,7 +2908,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='23' />
@@ -2923,8 +2922,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='221824852' action='modify' timestamp='2013-05-22T04:22:42Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17356883'>
+  <way id='221824852' timestamp='2013-08-20T09:37:15Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2308181878' />
     <nd ref='2308181874' />
     <nd ref='2308181867' />
@@ -2938,7 +2938,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='24' />
@@ -2952,8 +2951,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='221824862' action='modify' timestamp='2013-05-22T04:22:43Z' uid='781054' user='Manoj-OSMNepal' visible='true' version='4' changeset='17356883'>
+  <way id='221824862' timestamp='2013-08-20T09:37:04Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2308181905' />
     <nd ref='2308181892' />
     <nd ref='2308181899' />
@@ -2967,7 +2967,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='15' />
@@ -2981,8 +2980,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='221824869' action='modify' timestamp='2013-05-22T03:54:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='221824869' timestamp='2013-08-20T09:37:28Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2308181860' />
     <nd ref='2308181854' />
     <nd ref='2308181858' />
@@ -2998,7 +2998,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='5' />
@@ -3012,8 +3011,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='221827599' action='modify' timestamp='2013-05-21T04:02:28Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='221827599' timestamp='2013-08-20T09:37:01Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2308207243' />
     <nd ref='2308207253' />
     <nd ref='2308207246' />
@@ -3027,7 +3027,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='60' />
@@ -3043,8 +3042,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='221827603' action='modify' timestamp='2013-05-21T04:11:38Z' uid='1406652' user='Nepal-Mapper' visible='true' version='6' changeset='17356883'>
+  <way id='221827603' timestamp='2013-08-20T09:37:02Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2308207263' />
     <nd ref='2308207258' />
     <nd ref='2308207242' />
@@ -3058,7 +3058,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='20' />
@@ -3075,8 +3074,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='222136597' action='modify' timestamp='2013-05-21T03:50:01Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='222136597' timestamp='2013-08-20T09:37:06Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2311097698' />
     <nd ref='2311097700' />
     <nd ref='2311097699' />
@@ -3090,7 +3090,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='22' />
@@ -3106,8 +3105,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='222258195' action='modify' timestamp='2013-07-09T11:48:33Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='222258195' timestamp='2013-08-20T09:37:29Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2312428103' />
     <nd ref='2312428107' />
     <nd ref='2312428106' />
@@ -3123,7 +3123,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -3141,8 +3140,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='222489118' action='modify' timestamp='2013-05-22T03:29:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222489118' timestamp='2013-08-20T09:36:55Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2314596813' />
     <nd ref='2314596811' />
     <nd ref='2314596819' />
@@ -3164,7 +3164,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='26' />
@@ -3178,8 +3177,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='222495769' action='modify' timestamp='2013-05-26T05:34:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222495769' timestamp='2013-08-20T09:37:26Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2314627468' />
     <nd ref='2314627473' />
     <nd ref='2314627476' />
@@ -3195,7 +3195,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='50' />
@@ -3212,8 +3211,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='222495771' action='modify' timestamp='2013-05-26T05:37:08Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222495771' timestamp='2013-08-20T09:37:32Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2314627463' />
     <nd ref='2314627469' />
     <nd ref='2314627465' />
@@ -3231,7 +3231,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -3249,8 +3248,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='222716516' action='modify' timestamp='2013-05-23T05:41:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222716516' timestamp='2013-08-20T09:37:06Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2316603971' />
     <nd ref='2316603969' />
     <nd ref='2316603960' />
@@ -3264,7 +3264,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='30' />
@@ -3281,8 +3280,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='222716520' action='modify' timestamp='2013-05-23T05:43:17Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222716520' timestamp='2013-08-20T09:37:22Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2316603974' />
     <nd ref='2316603973' />
     <nd ref='2316603967' />
@@ -3296,7 +3296,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_concrete_block_wall_in_cement_mortar' />
     <tag k='occupant:day' v='1' />
     <tag k='occupant:evening' v='0' />
@@ -3312,8 +3311,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='222753152' action='modify' timestamp='2013-05-24T04:10:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222753152' timestamp='2013-08-20T09:37:18Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2316914242' />
     <nd ref='2316914243' />
     <nd ref='2316914241' />
@@ -3327,7 +3327,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='3' />
@@ -3344,8 +3343,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='222753153' action='modify' timestamp='2013-05-24T04:02:39Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222753153' timestamp='2013-08-20T09:37:08Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2316914245' />
     <nd ref='2316914248' />
     <nd ref='2316914249' />
@@ -3359,7 +3359,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='26' />
@@ -3376,8 +3375,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='222753159' action='modify' timestamp='2013-05-24T04:18:23Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222753159' timestamp='2013-08-20T09:37:05Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2316914220' />
     <nd ref='2316914223' />
     <nd ref='2316914221' />
@@ -3391,7 +3391,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='1' />
     <tag k='occupant:evening' v='0' />
@@ -3407,8 +3406,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='222753164' action='modify' timestamp='2013-05-24T04:17:22Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222753164' timestamp='2013-08-20T09:37:32Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2316914231' />
     <nd ref='2316914233' />
     <nd ref='2316914230' />
@@ -3426,7 +3426,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -3444,8 +3443,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='222788947' action='modify' timestamp='2013-06-17T09:01:48Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222788947' timestamp='2013-08-20T09:37:27Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2317295169' />
     <nd ref='2317295168' />
     <nd ref='2317295170' />
@@ -3461,7 +3461,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='47' />
@@ -3475,8 +3474,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='222872137' action='modify' timestamp='2013-07-07T10:58:43Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222872137' timestamp='2013-08-20T09:37:20Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2318170196' />
     <nd ref='2318170193' />
     <nd ref='2318170195' />
@@ -3490,7 +3490,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x14' />
     <tag k='floor:material' v='concrete' />
@@ -3508,8 +3507,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='222872139' action='modify' timestamp='2013-05-26T08:02:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='222872139' timestamp='2013-08-20T09:36:57Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2318170334' />
     <nd ref='2318170336' />
     <nd ref='2318170335' />
@@ -3523,7 +3523,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='15' />
@@ -3540,8 +3539,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='223031890' action='modify' timestamp='2013-07-11T05:58:21Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='223031890' timestamp='2013-08-20T09:37:16Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2319750573' />
     <nd ref='2319750562' />
     <nd ref='2319750560' />
@@ -3555,7 +3555,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -3572,8 +3571,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='223034163' action='modify' timestamp='2013-06-10T16:52:58Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='223034163' timestamp='2013-08-20T09:37:21Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2319779730' />
     <nd ref='2319779727' />
     <nd ref='2319779725' />
@@ -3587,7 +3587,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='19' />
@@ -3604,8 +3603,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='223086844' action='modify' timestamp='2013-05-26T03:37:32Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='223086844' timestamp='2013-08-20T09:37:17Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2320255472' />
     <nd ref='2320255469' />
     <nd ref='2320255468' />
@@ -3619,7 +3619,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='engineered_reinforced_concrete' />
     <tag k='column:size' v='12x12' />
     <tag k='floor:material' v='concrete' />
@@ -3633,8 +3632,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='223132681' action='modify' timestamp='2013-05-27T06:06:52Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='223132681' timestamp='2013-08-20T09:37:02Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2320655770' />
     <nd ref='2320655774' />
     <nd ref='2320655771' />
@@ -3648,7 +3648,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -3665,8 +3664,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='223274588' action='modify' timestamp='2013-05-28T03:25:47Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='223274588' timestamp='2013-08-20T09:37:15Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2321897967' />
     <nd ref='2321897959' />
     <nd ref='2321897958' />
@@ -3680,7 +3680,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='57' />
@@ -3696,8 +3695,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='223275038' action='modify' timestamp='2013-05-28T03:34:04Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='223275038' timestamp='2013-08-20T09:36:56Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2321901095' />
     <nd ref='2321901088' />
     <nd ref='2321901087' />
@@ -3719,7 +3719,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='19' />
@@ -3732,8 +3731,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='223275420' action='modify' timestamp='2013-05-31T06:51:36Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='223275420' timestamp='2013-08-20T09:37:33Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2321906136' />
     <nd ref='2321906135' />
     <nd ref='2321906133' />
@@ -3751,7 +3751,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='18' />
@@ -3767,8 +3766,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='223407553' action='modify' timestamp='2013-05-30T07:48:12Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='223407553' timestamp='2013-08-20T09:36:56Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2323067011' />
     <nd ref='2323067012' />
     <nd ref='2323067010' />
@@ -3792,7 +3792,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_stone_wall_in_mud_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='53' />
@@ -3808,8 +3807,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='223499322' action='modify' timestamp='2013-06-22T09:18:56Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='223499322' timestamp='2013-08-20T09:37:34Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2323931386' />
     <nd ref='2323931387' />
     <nd ref='2323931388' />
@@ -3827,7 +3827,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='25' />
@@ -3843,8 +3842,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='223504504' action='modify' timestamp='2013-08-14T09:10:01Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17356883'>
+  <way id='223504504' timestamp='2013-08-20T09:36:51Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17616831'>
     <nd ref='2323970157' />
     <nd ref='2323970159' />
     <nd ref='2323970163' />
@@ -3859,7 +3859,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='9x9' />
@@ -3882,9 +3881,10 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
     <tag k='student:count' v='10' />
   </way>
-  <way id='223684785' action='modify' timestamp='2013-06-10T09:32:29Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='223684785' timestamp='2013-08-20T09:36:57Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2325604131' />
     <nd ref='2325604128' />
     <nd ref='2325604105' />
@@ -3898,7 +3898,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='85' />
@@ -3915,8 +3914,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='224253816' action='modify' timestamp='2013-08-14T09:10:13Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17356883'>
+  <way id='224253816' timestamp='2013-08-20T09:36:53Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2330738776' />
     <nd ref='2330738777' />
     <nd ref='2330738775' />
@@ -3931,7 +3931,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='9x9' />
@@ -3952,9 +3951,10 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
     <tag k='student:count' v='45' />
   </way>
-  <way id='224266856' action='modify' timestamp='2013-07-09T16:20:32Z' uid='1149057' user='DKNOTT' visible='true' version='6' changeset='17356883'>
+  <way id='224266856' timestamp='2013-08-20T09:37:28Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2330850536' />
     <nd ref='2330850534' />
     <nd ref='2330850503' />
@@ -3970,7 +3970,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -3987,8 +3986,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='224458575' action='modify' timestamp='2013-06-06T04:55:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='224458575' timestamp='2013-08-20T09:36:54Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2332813464' />
     <nd ref='2332813474' />
     <nd ref='2332813472' />
@@ -4008,7 +4008,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -4025,8 +4024,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='224458576' action='modify' timestamp='2013-06-06T05:01:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='224458576' timestamp='2013-08-20T09:37:10Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2332813499' />
     <nd ref='2332813498' />
     <nd ref='2332813494' />
@@ -4040,7 +4040,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -4057,8 +4056,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='224632282' action='modify' timestamp='2013-06-07T05:39:24Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='224632282' timestamp='2013-08-20T09:37:18Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2334339667' />
     <nd ref='2334339666' />
     <nd ref='2334339661' />
@@ -4072,7 +4072,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x12' />
     <tag k='floor:material' v='concrete' />
@@ -4089,8 +4088,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='224877260' action='modify' timestamp='2013-07-12T11:00:00Z' uid='1361677' user='KTM-Mappers' visible='true' version='4' changeset='17356883'>
+  <way id='224877260' timestamp='2013-08-20T09:37:28Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2337220225' />
     <nd ref='2337220224' />
     <nd ref='2337220222' />
@@ -4106,7 +4106,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -4121,8 +4120,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='224961219' action='modify' timestamp='2013-06-10T11:18:45Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='224961219' timestamp='2013-08-20T09:37:21Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2338010767' />
     <nd ref='2338010769' />
     <nd ref='2338010768' />
@@ -4136,7 +4136,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='engineered_reinforced_concrete' />
     <tag k='column:size' v='12x12' />
     <tag k='floor:material' v='concrete' />
@@ -4154,8 +4153,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='224961220' action='modify' timestamp='2013-06-10T11:24:35Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='224961220' timestamp='2013-08-20T09:36:59Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2338010759' />
     <nd ref='2338010761' />
     <nd ref='2338010760' />
@@ -4169,7 +4169,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -4187,8 +4186,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='225013711' action='modify' timestamp='2013-06-22T08:28:01Z' uid='1406652' user='Nepal-Mapper' visible='true' version='5' changeset='17356883'>
+  <way id='225013711' timestamp='2013-08-20T09:37:27Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2338442516' />
     <nd ref='2338442512' />
     <nd ref='2338442498' />
@@ -4204,7 +4204,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -4222,8 +4221,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
   </way>
-  <way id='225422530' action='modify' timestamp='2013-06-20T09:03:46Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='225422530' timestamp='2013-08-20T09:37:06Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2342018511' />
     <nd ref='2342018505' />
     <nd ref='2342018503' />
@@ -4237,7 +4237,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='123' />
     <tag k='occupant:evening' v='0' />
@@ -4253,8 +4252,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='narrow_long' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='225422532' action='modify' timestamp='2013-06-20T09:04:18Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='225422532' timestamp='2013-08-20T09:37:25Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2342018519' />
     <nd ref='2342018521' />
     <nd ref='2342018514' />
@@ -4270,7 +4270,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='25' />
     <tag k='occupant:evening' v='2' />
@@ -4286,8 +4285,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='225435999' action='modify' timestamp='2013-07-07T09:49:06Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='225435999' timestamp='2013-08-20T09:37:04Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2342125853' />
     <nd ref='2342125850' />
     <nd ref='2342125866' />
@@ -4301,7 +4301,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='occupant:day' v='13' />
     <tag k='occupant:evening' v='0' />
@@ -4317,8 +4316,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='225436006' action='modify' timestamp='2013-07-07T09:48:55Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='225436006' timestamp='2013-08-20T09:37:33Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2342125837' />
     <nd ref='2342125834' />
     <nd ref='2342125840' />
@@ -4336,7 +4336,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='253' />
@@ -4353,8 +4352,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='multiprojected' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='225443259' action='modify' timestamp='2013-07-07T10:07:26Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='225443259' timestamp='2013-08-20T09:37:29Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2342196386' />
     <nd ref='2342196387' />
     <nd ref='2342196384' />
@@ -4370,7 +4370,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='23' />
@@ -4387,8 +4386,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='226280681' action='modify' timestamp='2013-07-07T10:45:59Z' uid='1406652' user='Nepal-Mapper' visible='true' version='4' changeset='17356883'>
+  <way id='226280681' timestamp='2013-08-20T09:37:23Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17616831'>
     <nd ref='2351341458' />
     <nd ref='2351341455' />
     <nd ref='2351341457' />
@@ -4402,7 +4402,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='column:size' v='9x9' />
     <tag k='floor:material' v='concrete' />
@@ -4420,8 +4419,9 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='226336791' action='modify' timestamp='2013-06-21T03:50:14Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='226336791' timestamp='2013-08-20T09:37:26Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2351827738' />
     <nd ref='2351827736' />
     <nd ref='2351827731' />
@@ -4437,7 +4437,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='floor:material' v='concrete' />
     <tag k='occupant:day' v='32' />
@@ -4453,8 +4452,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
   </way>
-  <way id='227942899' action='modify' timestamp='2013-07-07T06:09:27Z' uid='1406652' user='Nepal-Mapper' visible='true' version='3' changeset='17356883'>
+  <way id='227942899' timestamp='2013-08-20T09:37:21Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17616831'>
     <nd ref='2365760079' />
     <nd ref='2365760075' />
     <nd ref='2365760069' />
@@ -4468,7 +4468,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='self' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='engineered_reinforced_concrete' />
     <tag k='column:size' v='14x14' />
     <tag k='floor:material' v='concrete' />
@@ -4486,8 +4485,9 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
   </way>
-  <way id='228775614' action='modify' timestamp='2013-08-14T09:10:08Z' uid='680067' user='amritkarma' visible='true' version='5' changeset='17356883'>
+  <way id='228775614' timestamp='2013-08-20T09:36:52Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2374510818' />
     <nd ref='2374510819' />
     <nd ref='2374510816' />
@@ -4502,7 +4502,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='9x9' />
@@ -4524,6 +4523,7 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
     <tag k='student:count' v='4' />
   </way>
 </osm>

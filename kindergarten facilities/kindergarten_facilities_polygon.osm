@@ -529,7 +529,7 @@
     <tag k='source' v='OpenDRI survey' />
     <tag k='student:count' v='80' />
   </way>
-  <way id='207427061' timestamp='2013-08-20T09:36:53Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17423445'>
+  <way id='207427061' timestamp='2013-09-01T10:59:54Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2176821483' />
     <nd ref='2176821470' />
     <nd ref='2176821472' />
@@ -544,7 +544,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='building_count' v='1' />
     <tag k='floor:material' v='concrete' />
@@ -566,9 +565,10 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
     <tag k='student:count' v='4' />
   </way>
-  <way id='209124588' timestamp='2013-08-20T09:36:53Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17423445'>
+  <way id='209124588' timestamp='2013-09-01T10:59:55Z' uid='680067' user='amritkarma' visible='true' version='10' changeset='17616831'>
     <nd ref='2193592820' />
     <nd ref='2193592814' />
     <nd ref='2193592817' />
@@ -583,7 +583,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1960-1990' />
     <tag k='building:structure' v='load_bearing_brick_wall_in_cement_mortar' />
     <tag k='building_count' v='1' />
     <tag k='floor:material' v='wood' />
@@ -603,6 +602,7 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='L-shape' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1960-1990' />
     <tag k='student:count' v='50' />
   </way>
   <way id='215212427' timestamp='2013-08-14T09:10:06Z' uid='680067' user='amritkarma' visible='true' version='4' changeset='17342205'>
@@ -1606,7 +1606,7 @@
     <tag k='source' v='OpenDRI survey' />
     <tag k='student:count' v='15' />
   </way>
-  <way id='223504504' timestamp='2013-08-20T09:36:51Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17423445'>
+  <way id='223504504' timestamp='2013-09-01T10:59:53Z' uid='680067' user='amritkarma' visible='true' version='9' changeset='17616831'>
     <nd ref='2323970157' />
     <nd ref='2323970159' />
     <nd ref='2323970163' />
@@ -1621,7 +1621,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='yes' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='9x9' />
@@ -1644,6 +1643,7 @@
     <tag k='shape:elevation' v='regular' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
     <tag k='student:count' v='10' />
   </way>
   <way id='223673490' timestamp='2013-08-14T09:10:17Z' uid='680067' user='amritkarma' visible='true' version='3' changeset='17342205'>
@@ -1697,7 +1697,7 @@
     <tag k='source' v='OpenDRI survey' />
     <tag k='student:count' v='24' />
   </way>
-  <way id='224253816' timestamp='2013-08-20T09:36:53Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17423445'>
+  <way id='224253816' timestamp='2013-09-01T10:59:54Z' uid='680067' user='amritkarma' visible='true' version='8' changeset='17616831'>
     <nd ref='2330738776' />
     <nd ref='2330738777' />
     <nd ref='2330738775' />
@@ -1712,7 +1712,6 @@
     <tag k='building:overhang' v='no' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='1990-2000' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='9x9' />
@@ -1733,6 +1732,7 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='1990-2000' />
     <tag k='student:count' v='45' />
   </way>
   <way id='224266778' timestamp='2013-08-14T09:10:14Z' uid='680067' user='amritkarma' visible='true' version='4' changeset='17342205'>
@@ -1972,7 +1972,7 @@
     <tag k='source' v='OpenDRI survey' />
     <tag k='student:count' v='36' />
   </way>
-  <way id='228775614' timestamp='2013-08-20T09:36:52Z' uid='680067' user='amritkarma' visible='true' version='6' changeset='17423445'>
+  <way id='228775614' timestamp='2013-09-01T10:59:53Z' uid='680067' user='amritkarma' visible='true' version='7' changeset='17616831'>
     <nd ref='2374510818' />
     <nd ref='2374510819' />
     <nd ref='2374510816' />
@@ -1987,7 +1987,6 @@
     <tag k='building:overhang' v='yes' />
     <tag k='building:ownership' v='rent' />
     <tag k='building:soft_storey' v='no' />
-    <tag k='building:start_date' v='2000-2013' />
     <tag k='building:structure' v='non_engineered_reinforced_concrete' />
     <tag k='building_count' v='1' />
     <tag k='column:size' v='9x9' />
@@ -2009,6 +2008,7 @@
     <tag k='shape:elevation' v='setback' />
     <tag k='shape:plan' v='rectangular' />
     <tag k='source' v='OpenDRI survey' />
+    <tag k='start_date' v='2000-2013' />
     <tag k='student:count' v='4' />
   </way>
   <way id='228778525' timestamp='2013-08-14T09:09:59Z' uid='680067' user='amritkarma' visible='true' version='3' changeset='17342205'>
